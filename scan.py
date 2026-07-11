@@ -119,7 +119,7 @@ def score_items(items):
         if item["price"] <= 0 or cluster_median <= 0:
             continue
 
-                spread_pct = (cluster_median - item["price"]) / cluster_median
+        spread_pct = (cluster_median - item["price"]) / cluster_median
 
         buyer_total_cost = (
             item["price"] * (1 + config.BUYER_TAX_RATE) + config.BUYER_SHIPPING_ESTIMATE
@@ -129,12 +129,6 @@ def score_items(items):
 
         margin = net_proceeds - buyer_total_cost
         margin_pct = margin / buyer_total_cost
-
-        
-        spread_pct = (cluster_median - item["price"]) / cluster_median
-        net_proceeds = cluster_median * (1 - config.EBAY_FEE_RATE) - config.SHIPPING_ESTIMATE
-        margin = net_proceeds - item["price"]
-        margin_pct = margin / item["price"]
 
         signals = []
         if spread_pct >= config.MIN_SPREAD_PCT:
@@ -158,6 +152,41 @@ def score_items(items):
 
     results.sort(key=lambda x: x["marginPct"], reverse=True)
     return results
+
+
+def send_ntfy_alert(candidates):
+    """Free push notification via ntfy.sh — no account or credentials needed.
+    Set NTFY_TOPIC to a private, hard-to-guess topic name you've subscribed to
+    in the ntfy app."""
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic:
+        print("NTFY_TOPIC not set — skipping push notification.")
+        return
+
+    top = candidates[0]
+    title = f"{len(candidates)} deal(s) found"
+    message_lines = []
+    for c in candidates[:5]:
+        message_lines.append(
+            f"${c['price']:.0f} vs ${c['clusterMedian']:.0f} comp "
+            f"({c['marginPct']*100:.0f}% margin) — {c['title'][:60]}"
+        )
+    body = "\n".join(message_lines)
+
+    resp = requests.post(
+        f"https://ntfy.sh/{topic}",
+        data=body.encode("utf-8"),
+        headers={
+            "Title": title,
+            "Click": top.get("itemWebUrl", "https://ebay.com"),
+            "Tags": "moneybag",
+        },
+        timeout=15,
+    )
+    if resp.status_code == 200:
+        print(f"Push notification sent to ntfy topic '{topic}'.")
+    else:
+        print(f"ntfy request failed with status {resp.status_code}: {resp.text}")
 
 
 def send_alert_email(candidates):
@@ -208,6 +237,7 @@ def main():
         if item["marginPct"] >= config.MIN_MARGIN_PCT and item["sellerOk"]
     ]
     print(f"{len(alert_candidates)} candidate(s) cleared the alert threshold.")
+    send_ntfy_alert(alert_candidates)
     send_alert_email(alert_candidates)
 
 
