@@ -119,6 +119,18 @@ def score_items(items):
         if item["price"] <= 0 or cluster_median <= 0:
             continue
 
+                spread_pct = (cluster_median - item["price"]) / cluster_median
+
+        buyer_total_cost = (
+            item["price"] * (1 + config.BUYER_TAX_RATE) + config.BUYER_SHIPPING_ESTIMATE
+        )
+
+        net_proceeds = cluster_median * (1 - config.EBAY_FEE_RATE) - config.SHIPPING_ESTIMATE
+
+        margin = net_proceeds - buyer_total_cost
+        margin_pct = margin / buyer_total_cost
+
+        
         spread_pct = (cluster_median - item["price"]) / cluster_median
         net_proceeds = cluster_median * (1 - config.EBAY_FEE_RATE) - config.SHIPPING_ESTIMATE
         margin = net_proceeds - item["price"]
