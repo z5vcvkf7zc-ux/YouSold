@@ -1,8 +1,3 @@
-# -----------------------------------------------------------------------------
-# Scanner configuration. Edit this file to add/remove categories or tune
-# thresholds — you shouldn't need to touch scan.py for day-to-day changes.
-# -----------------------------------------------------------------------------
-
 TARGETS = [
     {
         "label": "Consoles",
@@ -28,6 +23,32 @@ TARGETS = [
         "label": "Smart Home",
         "keywords": "sealed new sonos speaker",
         "category_id": "175698",
+    },
+    {
+        "label": "Power Tools",
+        "keywords": "sealed new dewalt drill kit",
+    },
+    {
+        "label": "Power Tools",
+        "keywords": "sealed new milwaukee tool combo",
+    },
+    {
+        "label": "Kitchen Appliances",
+        "keywords": "sealed new kitchenaid stand mixer",
+    },
+    {
+        "label": "Kitchen Appliances",
+        "keywords": "sealed new instant pot",
+    },
+    {
+        "label": "Trading Cards",
+        "keywords": "PSA 10 graded pokemon card",
+        "condition_filter": None,
+    },
+    {
+        "label": "Trading Cards",
+        "keywords": "PSA 10 graded baseball card",
+        "condition_filter": None,
     },
 ]
 
