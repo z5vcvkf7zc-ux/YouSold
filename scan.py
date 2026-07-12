@@ -52,9 +52,13 @@ def get_access_token():
 def search_listings(token, target):
     params = {
         "q": target["keywords"],
-        "filter": config.CONDITION_FILTER,
         "limit": config.RESULTS_PER_SEARCH,
     }
+
+    condition_filter = target.get("condition_filter", config.CONDITION_FILTER)
+    if condition_filter:
+        params["filter"] = condition_filter
+
     if target.get("category_id"):
         params["category_ids"] = target["category_id"]
 
