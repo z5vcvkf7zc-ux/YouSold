@@ -350,27 +350,27 @@
     "sellerOk": false
   },
   {
-    "id": "v1|198461093331|0",
+    "id": "v1|168397751455|0",
     "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
     "category": "Power Tools",
-    "price": 169.99,
+    "price": 160.0,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 2737
+      "feedbackPct": 50.0,
+      "feedbackCount": 0
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198461093331?_skw=sealed+new+dewalt+drill+kit&hash=item2e3533f5d3:g:yh0AAeSwunVqQbxk",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.105,
-    "marginPct": -0.196,
-    "margin": -37.44,
+    "itemWebUrl": "https://www.ebay.com/itm/168397751455?_skw=sealed+new+dewalt+drill+kit&hash=item273549c49f:g:oCMAAeSwANdqEj47&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGwxKspa5094d6hisWQMZBq2%2BctjxCNSMTeISekj0fXchsF9ueNnhd9amWaNcAq7vtCMAyx6iWwpbjBlerTyZWS3MUpI9pDgx8lf6RY3%2B85pYjljwVCpIWmDlfK63uzfZ99ReXNCDrPCqP%2F1LtjuVLc%2FEfiy4wj%2BpUnCgQtWEqdkfjY0SlTsbftw%2FKG9VybGRet72mfFk%2BzHb6C5gRoTqBdyow9WzzvXKzcLEkcVplFYqldTFC3myZXEeVAQW5te%2FgNzmS4Ji5uvYBG%2FyuevCtpy1CNZL1EqNXN7PEBUsZMOylnXcdHW%2FnxNxUSekqNwE%3D",
+    "clusterMedian": 180.0,
+    "spreadPct": 0.111,
+    "marginPct": -0.197,
+    "margin": -35.4,
     "signals": [
       "below_cluster"
     ],
-    "sellerOk": true
+    "sellerOk": false
   },
   {
     "id": "v1|407132015191|0",
@@ -565,7 +565,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnNh%2BXBCEa9v3TiVyNwWwZSOT2pDdyiPn34k5yw2wSJ1hGHEERUK6ABq%2FHhfL0F%2FfYCMXxO4v3k4k67Jf23yTkSzfB0pNSkaNi9sc%2Bs0mAwzS4FiJ1O3g2c3xKWYadqQLFFHl38BnL%2BWZQPRGJw6fYkhx%2FB%2BByglt1oGTVQ4i%2B6%2BHv4GvG060ndfTvl%2BC85oSrY%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPNAA9NEsBppTaZSsjasDRPU3xMDFSYE9Gx1LeJLXrXilEqeLFcdPSfGLuN%2BI2Drxm5qYH2cqSAbPKqkPkxmocp1QN8XLXt4YH3UCJNzVQc57%2B%2BEP7tPveiD5Vs1kH8apwiGLxS8YbTEvDjl4t8HmkNOmusRflSzu5%2BkwrBbHQXG7k79SI9Adi3xJSlHWew5v8%3D",
     "clusterMedian": 549.0,
     "spreadPct": 0.002,
     "marginPct": -0.22,
@@ -609,7 +609,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 177
+      "feedbackCount": 178
     },
     "itemWebUrl": "https://www.ebay.com/itm/357554111428?_skw=sealed+new+xbox+series+x+console&hash=item533fe2c3c4:g:ezAAAeSwH6Vothcr",
     "clusterMedian": 549.0,
@@ -748,6 +748,27 @@
       "best_offer"
     ],
     "sellerOk": false
+  },
+  {
+    "id": "v1|198461093331|0",
+    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
+    "category": "Power Tools",
+    "price": 169.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 2737
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/198461093331?_skw=sealed+new+dewalt+drill+kit&hash=item2e3533f5d3:g:yh0AAeSwunVqQbxk",
+    "clusterMedian": 180.0,
+    "spreadPct": 0.056,
+    "marginPct": -0.242,
+    "margin": -46.14,
+    "signals": [],
+    "sellerOk": true
   },
   {
     "id": "v1|336683596910|0",
@@ -1167,52 +1188,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|236917037976|0",
-    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
-    "category": "Power Tools",
-    "price": 190.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 28
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6patW%2Fk2e6fzfTb%2FnzhuEmZVVqumKm2BnMPrkhy6Skbhu9pjskwbrTfvLgk8vZiZxPmgwKsIPAiw%2BH7hZQw3rQgmQ7gQzQhozwaKxO72Hx%2BKDV%2FDw72TQt3zCW%2F63A9yZu9Fu50mCrVpXbmMUBD%2FF90wpfDoVx%2B3RNWTyGwsPNpoS3PllUbljnCXiEvgaH3dtO0%3D",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.278,
-    "margin": -58.95,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|407137437568|0",
-    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
-    "category": "Power Tools",
-    "price": 190.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 97.5,
-      "feedbackCount": 70
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBjGvq6V9U5fEFigOz2W3fwr9X07B9%2Fnuk%2Bj3D7Ilt5bjF9vFVFzWuRcrWjBVoRoyOeDkPYaeFJmigXkRLcZPFel31vDzcvc321%2BEhR4HT5bPOASkYT8qVgJSAtX9qWb9cHH%2FZB%2FTudf%2FuKqR1ZqgUkR4JFVPFoDFJRpMZnOSNpuAes73pIvVAkhlmqIUdR%2BvkA%3D",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.278,
-    "margin": -58.95,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|278281035183|0",
     "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
     "category": "Kitchen Appliances",
@@ -1246,7 +1221,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 895
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407147188395?_skw=sealed+new+nintendo+switch+oled+console&hash=item5ecbdd10ab:g:5GIAAeSw8fdqgKYX&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZMh1Cc6F%2FTWSYM64zh6yO83XNO65YoYJiXtlLs8cX%2FgFYaYzyorgsBOIrwQcKTkxL6tPwCYCo%2BoQl9O3JmyrN0q2CkaDRTP7OjMfFmf24ph8O8V8pEEPt686aAtbtBVBusUYgSpFbCVId4HGzcMC53g43dc6lA4LD9n1aQx%2FmWYWUIAbfWIKRjQtxDINGZnwoQ81TUtafeNeN%2ByuYn7M0XO55r3zl4wsip0hZdMZxSxgk1tfcl43mMv2DobPctfuswhXjS8fnYlJX7oec%2FUNJftM5b%2BGQYpZo3o2a43l%2BwgnAV5d5HU81q%2FkgSHGQFQos%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407147188395?_skw=sealed+new+nintendo+switch+oled+console&hash=item5ecbdd10ab:g:5GIAAeSw8fdqgKYX&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZMh1Cc6F%2FTWSYM64zh6yO83XNO65YoYJiXtlLs8cX%2FgFYaYzyorgsBOIrwQcKTkxL6tPwCYCo%2BoQl9O3JmyrN0q2CkaDRTP7OjMfFmf24ph8O8V8pEEPt686aAtbtBVBv%2Bsvl9EZkiM%2FOAP2%2Bor0JfdnqUVNQBYov%2BBChBfdwa49f3cZ%2BSDC5UG7ycTmef48QVZQu9L7yuvmIBGg0aJrgbaYRye0cSChsSdU6GvzlON2iyWonjtccohI5BBsK1b4gbq7lssdDuzZqL9xCjKLaq69gqLyHbu%2BDAAYIjmD4Uj3hpeTrqdZ0%2FHPRXa03eJd4%3D",
     "clusterMedian": 329.99,
     "spreadPct": -0.058,
     "marginPct": -0.282,
@@ -1359,7 +1334,7 @@
       "feedbackPct": 99.7,
       "feedbackCount": 423
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYvutP0H2zTbBwCVg9V9XwoRwaQG0%2BqxZypxKte6O2ifbfSyt%2BNKAH7n7Ty7aZjWnUvbD9DUP4ykJqfb%2F5PHI7eLC%2F0MUOj3oYqde8QKm%2Byhr4mHayx0q4Jkg%2FKB6kfzXp6vj0xxRwHNGyfwOdYfOt2K1JMpkuiKtN3i0rUX00BgLVLITs88vB3LeCK7%2FHpMJzIeglVyTLaqhrGE3euaDoGZ8qzz%2FDc9GT%2FdoVXZ4qFlZH2uNvsE7tnwL9x3GFZ4jiRsIyM%2B0a3yxrte6wfaTXA3VpdN%2BFZZv%2BWNN8ftaC8yWmbCASQ%2Bkx8D%2Fy%2BdetwEFI%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYvutP0H2zTbBwCVg9V9XwoRwaQG0%2BqxZypxKte6O2ifbfSyt%2BNKAH7n7Ty7aZjWnUvbD9DUP4ykJqfb%2F5PHI7eLC%2F0MUOj3oYqde8QKm%2Byhr4mHayx0q4Jkg%2FKB6kfzXpYzOtr3tw6U4aqujJYvpBR%2FXAmFk6ChssuUtNBawOt3Egts0QA8iRaf29ArzspMWtnpqNzte5Jysde%2FtgpA7ImzBbv%2FXcQldWNOabcfK8ig3YpTxbuUDtTzKmW937bnZve9EAv0BE4KrsDAJNF0w811xfb0ym%2FSro6z3mDC4OJcRVTqUEjZF7GugDUR%2Fy8R5w%3D",
     "clusterMedian": 409.5,
     "spreadPct": -0.096,
     "marginPct": -0.298,
@@ -1387,6 +1362,52 @@
     "spreadPct": -0.103,
     "marginPct": -0.307,
     "margin": -134.62,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|236917037976|0",
+    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
+    "category": "Power Tools",
+    "price": 190.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 28
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYaVod0BWaDaVLp8m1ZPKEZsC5bRIz825Zs1IaaDN3f%2BpCtEbDpRGL4TFITQsjAhzAD5k9QbXwy71vmVdJgS%2FhQBZzj%2FqezfKhqN4ZJcH3l%2B%2Bs70bxfc%2Bc5YhIq%2BH5qy20e6Q2zp8ODwdBdsBKF9dhmrmKAElXrptsN1St3ax7JsczWL5lQQZ07kS%2BqHTebtVc%3D",
+    "clusterMedian": 180.0,
+    "spreadPct": -0.056,
+    "marginPct": -0.319,
+    "margin": -67.65,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|407137437568|0",
+    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
+    "category": "Power Tools",
+    "price": 190.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 97.5,
+      "feedbackCount": 70
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBjd%2BLWmYs4G%2FJIv0kmawzBMgzJUQdeQgL8xrqhC1wqJSml2GPIG0K%2FMpA5%2FG0pHeLEybNcpKNBTpVm87SvMHfL2MqYKO3V%2FB3tgsD253db1xKJTH7tlhONMWVbfZE3UJFR9eXRf0OtKZ8%2FcZgxkEqJtAVRup2GhomWeBOwjsDfFr8dkV724Ew9Bf6S9LYsH9I0%3D",
+    "clusterMedian": 180.0,
+    "spreadPct": -0.056,
+    "marginPct": -0.319,
+    "margin": -67.65,
     "signals": [
       "best_offer"
     ],
@@ -1426,7 +1447,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyr2aa%2FCxyGax4eduo4dqOm6URH5jFOX2oaTcljsb3Of9MP2yxVjMXUlHv6NAWspJ1p0W%2BW%2FGQeYWXa4C%2F02so7nO9Fzw8k4hqwNPgWkqGZeFZYI79dL%2Bd4kzC9e4EfsKaUrHPK4drL1qI4orGZXiATIZK%2B4%2Bl7DhyrVAO3dLP7hktMmh3KRXeSPm5bm95TrVSU%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyo4WCFN3byN1zjstyfDkRObOGCY36Gt5La8AxRBHLciDMEIC4Tobr1e%2BFIkl29RVBvPwyfbA9yVMc7V5t1rThkSKvO4QScVYCoTMnqMNMWvfK7nTI4tYSHHdUV7EDlfWM1b0KA71XcV1ptMYP5IdrSb0zbgbozR%2BKjggQOgkvdtIGYgxU7ooVhuc7RLcyl6zLc%3D",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1600,7 +1621,7 @@
       "feedbackPct": 98.5,
       "feedbackCount": 4110
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm0ATwn9Bn0xqSP976%2F%2BMH7FAZVK0QFsyWsKCSQj3b3grSSV5rjVMu8QNAFW4ujIRkixB%2FH0VscJDSgGUl%2FU758f5W7dIAua08vZerkZRR5AmVOukNMnRn4bu3kETklMNfoZWYCexcknZAiRfGiKUMX%2BTLGdjNONte184KkKGjajf6zdVT%2BRYwh32sizvsm28Ig%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm1kY%2Fxd9Hl7rNxETULda62Yy6xnwTe39QrzhbJ%2BGrIbWWiSs%2FrQNsJvcH5LA7bJaoz57BOxolj4I17OZP6bJeKvvLkUtFeYrkc%2BEvoObXItwImpgRy1bixO5R1Cmv2EljVnk%2BpTqMwBGfVKdV%2BP8K6q0h4T00KMmOCahitUPQOCnmBWkeDSCGIaU0AgOG%2BDN5c%3D",
     "clusterMedian": 56.56,
     "spreadPct": 0.134,
     "marginPct": -0.387,
@@ -1729,37 +1750,16 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 89.5,
-      "feedbackCount": 15
+      "feedbackPct": 90.0,
+      "feedbackCount": 16
     },
-    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBAsHH%2Br2CCLlkao82l1qf2HEO0wplmKpc2clE9pswSItVBj8zqMKRc%2BCI3NYxXJkdZTecWG8lW7qJGUoDFoI0y2WD6cCoYdEHBLrdPcE6nlfdpxR507YzvNb9IxYYaopYTZEuSE%2BMpYiGn9fxjBZMFhDr9T2g6ojpuvjNHpPLbAqvBzl1sRd6xO1bREIX3AMG0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBARLh6eiklPZKtiJPP1YArla8b--lItTM9OstxT6QjrkQli3cRRKsyrZ4lFvxRhnKFexi5cnQ32STOgcH8JL%2B0kMVss9EwE4xgpofEbLXeESD8PbvQ1MQ7al0Azwa3VHSI%2BoLD9XRcSucg0UJsjJ8AuNpUtS8hb%2FVjZyczUcACcjUQfslAAQ%2FolxCEdONfsWfc%3D",
     "clusterMedian": 56.56,
     "spreadPct": -0.134,
     "marginPct": -0.516,
     "margin": -39.73,
     "signals": [],
     "sellerOk": false
-  },
-  {
-    "id": "v1|117354994341|0",
-    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
-    "category": "Kitchen Appliances",
-    "price": 38.74,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 4776
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/117354994341?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1b52e71aa5:g:IZwAAeSwBXxqfEk1",
-    "clusterMedian": 39.99,
-    "spreadPct": 0.031,
-    "marginPct": -0.541,
-    "margin": -26.85,
-    "signals": [],
-    "sellerOk": true
   },
   {
     "id": "v1|267140327301|0",
@@ -1779,48 +1779,6 @@
     "spreadPct": 0.096,
     "marginPct": -0.546,
     "margin": -23.71,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|800484183297|0",
-    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
-    "category": "Kitchen Appliances",
-    "price": 39.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 2079
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/800484183297?_skw=sealed+new+kitchenaid+stand+mixer&hash=itemba60934d01:g:sWMAAeSwUiNqeTKz",
-    "clusterMedian": 39.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.553,
-    "margin": -28.2,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|227464780546|0",
-    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
-    "category": "Kitchen Appliances",
-    "price": 41.24,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 2348
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/227464780546?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f5f51b02:g:pUEAAeSwEG1qdIJQ",
-    "clusterMedian": 39.99,
-    "spreadPct": -0.031,
-    "marginPct": -0.564,
-    "margin": -29.54,
     "signals": [],
     "sellerOk": true
   },
@@ -1846,6 +1804,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|358868199852|0",
+    "title": "NEW SEALED Kitchen Aid Pastry Beater Blade + Scraper Stand Mixer 4.5 & 5 Quart",
+    "category": "Kitchen Appliances",
+    "price": 30.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 241
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI",
+    "clusterMedian": 32.5,
+    "spreadPct": 0.077,
+    "marginPct": -0.596,
+    "margin": -23.98,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|227390141048|0",
     "title": "New Sealed KitchenAid Stand Mixer Attachment KSMVSA Fresh Prep Slicer/Shredder",
     "category": "Kitchen Appliances",
@@ -1864,6 +1843,29 @@
     "marginPct": -0.613,
     "margin": -31.25,
     "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|235597279952|0",
+    "title": "NEW SEALED Kitchen Aid Pastry Beater Blade + Scraper Stand Mixer 4.5 & 5 Quart",
+    "category": "Kitchen Appliances",
+    "price": 34.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1676
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/235597279952?_skw=sealed+new+kitchenaid+stand+mixer&hash=item36dab132d0:g:4tMAAOSw~shmYjxW",
+    "clusterMedian": 32.5,
+    "spreadPct": -0.077,
+    "marginPct": -0.643,
+    "margin": -29.34,
+    "signals": [
+      "best_offer"
+    ],
     "sellerOk": true
   },
   {
