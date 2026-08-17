@@ -82,7 +82,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 159
+      "feedbackCount": 160
     },
     "itemWebUrl": "https://www.ebay.com/itm/298505352887?_skw=sealed+new+milwaukee+tool+combo&hash=item45804e36b7:g:STwAAeSwgCRqVrhK",
     "clusterMedian": 550.0,
@@ -350,27 +350,27 @@
     "sellerOk": false
   },
   {
-    "id": "v1|168397751455|0",
+    "id": "v1|198461093331|0",
     "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
     "category": "Power Tools",
-    "price": 160.0,
+    "price": 169.99,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 50.0,
-      "feedbackCount": 0
+      "feedbackPct": 99.9,
+      "feedbackCount": 2737
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168397751455?_skw=sealed+new+dewalt+drill+kit&hash=item273549c49f:g:oCMAAeSwANdqEj47&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGwxKspa5094d6hisWQMZBq2%2BctjxCNSMTeISekj0fXchsF9ueNnhd9amWaNcAq7vtCMAyx6iWwpbjBlerTyZWS3MUpI9pDgx8lf6RY3%2B85pYjljwVCpIWmDlfK63uzfYX5mlkHR8PwBo8%2BiFZj1F%2FiZcyx7k0ErHLFxIANKluHSzS0Dlz6sYtBgfVUQmZ60Lcf%2F4Yi7R5CA0zkwcOBBhhmPEPsS1lMT8X1rkw9QhUkbHfFTEvGHHrHc3HtwoK6FTZtpVUsNpw5aQVg8HbTKRLUrlXj5SP7Wnxc4AWBvLtyDMbqjvuSwIOO1e8XR99onQ%3D",
-    "clusterMedian": 180.0,
-    "spreadPct": 0.111,
-    "marginPct": -0.197,
-    "margin": -35.4,
+    "itemWebUrl": "https://www.ebay.com/itm/198461093331?_skw=sealed+new+dewalt+drill+kit&hash=item2e3533f5d3:g:yh0AAeSwunVqQbxk",
+    "clusterMedian": 190.0,
+    "spreadPct": 0.105,
+    "marginPct": -0.196,
+    "margin": -37.44,
     "signals": [
       "below_cluster"
     ],
-    "sellerOk": false
+    "sellerOk": true
   },
   {
     "id": "v1|407132015191|0",
@@ -498,7 +498,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 2680
+      "feedbackCount": 2681
     },
     "itemWebUrl": "https://www.ebay.com/itm/318655936767?_skw=sealed+new+milwaukee+tool+combo&hash=item4a315fb8ff:g:YX8AAeSwaStqa4O8",
     "clusterMedian": 684.5,
@@ -565,7 +565,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPqevdwcPcaN9Ptk7MJyLnuEnzDHHjReznHji%2FNZJLDciDdBJz9T12IPrCtbvC2fyTeM1JNFV%2BEITn8tGC%2FMj9iSZ3faWPHpizvw9vEzVoobsJkCNUg03HnuuYQPPaqUomxKoCWURW5RRGD29ddRYWMIAS6U3xbNWNXiNZ96vgDOJdAQG477NbUHOaubiYQTVM%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPBrTw%2BHTNHg9stPIvdvcGv6OumvMhYuLcvyemumYnyUOSEPl3cDMQ63ADWQU6ib2myu2gsFGel390Gyyy8%2FqaVjK7iV87jAgYGGdDA1MMmXGKwSqt8oxKEwGHPPX1KpR3SrB4Cti5QDZf%2B7CpC4J8tmCpKW0p7kGsGtA48lYzpxHdASG2DYGGR9LJhJcUF6X0%3D",
     "clusterMedian": 549.0,
     "spreadPct": 0.002,
     "marginPct": -0.22,
@@ -639,27 +639,6 @@
     "margin": -176.3,
     "signals": [],
     "sellerOk": false
-  },
-  {
-    "id": "v1|287520717327|0",
-    "title": "Milwaukee Tool 2695-24 M18 Cordless Lithium-Ion 4-Tool Combo Kit W/ M18",
-    "category": "Power Tools",
-    "price": 329.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 229
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287520717327?_skw=sealed+new+milwaukee+tool+combo&hash=item42f191fa0f:g:oN4AAeSwn~xqfIHY",
-    "clusterMedian": 334.5,
-    "spreadPct": 0.016,
-    "marginPct": -0.229,
-    "margin": -82.66,
-    "signals": [],
-    "sellerOk": true
   },
   {
     "id": "v1|398263660178|0",
@@ -748,27 +727,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|198461093331|0",
-    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
-    "category": "Power Tools",
-    "price": 169.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 2737
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/198461093331?_skw=sealed+new+dewalt+drill+kit&hash=item2e3533f5d3:g:yh0AAeSwunVqQbxk",
-    "clusterMedian": 180.0,
-    "spreadPct": 0.056,
-    "marginPct": -0.242,
-    "margin": -46.14,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|336660658459|0",
     "title": "DEWALT DCK240C2 20V MAX Drill Impact Driver Combo Kit 2 Batteries Charger",
     "category": "Power Tools",
@@ -787,29 +745,6 @@
     "marginPct": -0.249,
     "margin": -41.85,
     "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|178316899523|0",
-    "title": "Milwaukee Tool 2695-24 M18 Cordless Lithium-Ion 4-Tool Combo Kit W/ M18",
-    "category": "Power Tools",
-    "price": 339.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 4206
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/178316899523?_skw=sealed+new+milwaukee+tool+combo&hash=item298483f4c3:g:dyoAAeSwaStqWUAn",
-    "clusterMedian": 334.5,
-    "spreadPct": -0.016,
-    "marginPct": -0.253,
-    "margin": -94.48,
-    "signals": [
-      "best_offer"
-    ],
     "sellerOk": true
   },
   {
@@ -1186,6 +1121,52 @@
     "sellerOk": true
   },
   {
+    "id": "v1|236917037976|0",
+    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
+    "category": "Power Tools",
+    "price": 190.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 28
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYJlYEWrlj0qjqGwPF70SsE%2Bg7TSZBAii8gUuuhbR6HZ87weEj2dADslFOeJUpkvLnHw35uFi8nziglIJ2ujYWjVKUSlcOdUihA4FC5K6miq2iJ2ZB9Rc0o663%2FhJ67upxXL3HJrQgei4wUh7Rl2bnXktM5%2FJQxiiWglH6soZ8%2FdE5V06FmhqA9eeHhoM8kpuc%3D",
+    "clusterMedian": 190.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.278,
+    "margin": -58.95,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|407137437568|0",
+    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
+    "category": "Power Tools",
+    "price": 190.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 97.5,
+      "feedbackCount": 70
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBiYjcF1uUfrCE67teAQiN4RnbnwuUsxgiKuawYpeb2F6YdXa0nLoBniLV0zf2ry7No%2FGjwnCfl4NhR2sR6XfivMS2k4vYDq5yGLBdADeoQ%2Fd4Xw78eQW70xEEtYjRONbiSPaV1luSXWoYGpBrlb4B08Iag4h7XZu3iyUWgPB2ix7cUtQXuqstbQz2dNH6zsCC8%3D",
+    "clusterMedian": 190.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.278,
+    "margin": -58.95,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
     "id": "v1|278281035183|0",
     "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
     "category": "Kitchen Appliances",
@@ -1219,7 +1200,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 895
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407147188395?_skw=sealed+new+nintendo+switch+oled+console&hash=item5ecbdd10ab:g:5GIAAeSw8fdqgKYX&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZMh1Cc6F%2FTWSYM64zh6yO83XNO65YoYJiXtlLs8cX%2FgFYaYzyorgsBOIrwQcKTkxL6tPwCYCo%2BoQl9O3JmyrN0q2CkaDRTP7OjMfFmf24ph8O8V8pEEPt686aAtbtBVBu3X4N42VLoadeClmAULoDV6hLJhRCqYtSFoYJuRHOT4Yi%2BRIB0Ng03I9h8nLuFUK9dnzgOkI3W7MEuD0YXaphq2nDMfCYwb%2BpWc%2BJeC%2BCgFCBOGYdwN5NCcZwczyGNgPtN0%2Fo4qPG%2Fyy9rzFJaMN8OPpg0KGn3szkcX6PdorAahA8ag1O06XtqLCmAo1uqOL8%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407147188395?_skw=sealed+new+nintendo+switch+oled+console&hash=item5ecbdd10ab:g:5GIAAeSw8fdqgKYX&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZMh1Cc6F%2FTWSYM64zh6yO83XNO65YoYJiXtlLs8cX%2FgFYaYzyorgsBOIrwQcKTkxL6tPwCYCo%2BoQl9O3JmyrN0q2CkaDRTP7OjMfFmf24ph8O8V8pEEPt686aAtbtBVBuQB2lR0dh5cTMrBjHcDd680YIVRAN8Kaze5jk5SgS0CeDZS4yc2HxQ9m9SK1YLYkNCEfOFPnDWI5TOJJVvvUr884fT0wOvxHzF6VZXV45tGXV%2FFkbjJ0k29pHO6N8nUVFazLQSek4NDOOlwIXaQTyX7JbNCW9Yd5Uwz61L1cT30Isxcoh0CVKsLZvqpdhSbQ0%3D",
     "clusterMedian": 329.99,
     "spreadPct": -0.058,
     "marginPct": -0.282,
@@ -1366,52 +1347,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|236917037976|0",
-    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
-    "category": "Power Tools",
-    "price": 190.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 28
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pZ0nxpXHM5ATKyOavvKVQV0HS6Tro6T2cKGoTDVmdQsRDSI1NwjZM78L2g30y0EKtdXDB%2BVeRdzMZBtfroPD01Fcr4XMfTa6XvLfg0QAClHbLt%2BZF1c%2BfVNhJGOuz4iAbRXWy9XcUxWMH9RjTefZFFF3xP3ECzEpDl%2FlTb4I4nhbIlJd3HCKl9zHcllTVoZL68%3D",
-    "clusterMedian": 180.0,
-    "spreadPct": -0.056,
-    "marginPct": -0.319,
-    "margin": -67.65,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|407137437568|0",
-    "title": "DEWALT 20V MAX Brushless 2-Tool Combo Kit DCK277D2 Drill Impact BRAND NEW SEALED",
-    "category": "Power Tools",
-    "price": 190.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 97.5,
-      "feedbackCount": 70
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBimZ7SCPTKmuxaF%2FjpbsG4hJHpGme29kL5dBYVZzNs9gabyOkMkN7pRoSpPPOsH43kpmrO9wVrnxkMoUKinJlB%2BuPcvrxlbwRZNwIORVMcTYLxbHqjmSNIhh9RKDwwZ%2Fko6zmF%2F6ddZZ%2BoaGnH6XT9WP6uU6xCBIWAdSyTmg%2FL%2Fyi1S%2FydTsGnf%2FkU4MF00XHI%3D",
-    "clusterMedian": 180.0,
-    "spreadPct": -0.056,
-    "marginPct": -0.319,
-    "margin": -67.65,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|168568794413|0",
     "title": "Milwaukee 3693-22CX M18 Compact Brushless 2-Tool Combo Kit NEW",
     "category": "Power Tools",
@@ -1445,7 +1380,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyqD%2BMcvdaLf4uhTuNEwE%2Bgd2CFRZLksuei%2FwEuySrhNxWD5%2Bb4HGA15om4C0bfwx%2BYy7HQar2TkcjJOcXxzUQohD9tXArFHlC0QLBMncPwUWXsdV5Dz3VSBcyVs8p%2F2qYlDZQzpuH6kIjvQonvyq1iMO8f%2Bvul3B1KOtYsHuZzfotpn0gPEUAaLTr7pAR6KAAE%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNypkmue%2FWmynHDOIH39s8idiihQyejxNnJzsxF1DvxzF0jtD2xh4I3rzxNa8cwJjHhQc1n8b94z71eOXltIIfILwtxwnt%2F0co9TnYpSDmLJosTdDdEplCzFOmpT5QBzXioN1hOAkUzcNSl%2BcK5AyUhfLomW5g6%2BGwWi64rsw7IHQMzLdEYD9PNdobOZaTRRfOiM%3D",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1607,29 +1542,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|198561014049|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 48.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.5,
-      "feedbackCount": 4110
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm1ElDeSxNV%2FKycRNjv%2F4WRPu2CV4Fe9tzAv2e6T%2Fuee%2Bh14t8mJSUIuqd9PkKEaG%2FvfOmsXCIEiyWRHmKzDucV%2BbHSL9DOuHj9zoR%2BdKkhEZ5Ml54KwxiNiTgudw5lHOUg0Qrl9T5UakvUfc6aFME2SPL8fC8H0SK9AJfrewO9D6u1PWjUtxrG88DGFsY%2FvQdc%3D",
-    "clusterMedian": 56.56,
-    "spreadPct": 0.134,
-    "marginPct": -0.387,
-    "margin": -23.46,
-    "signals": [
-      "below_cluster"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|336741465347|0",
     "title": "Apple AirPods Pro 3 \u2013 Genuine, Brand New & Factory Sealed",
     "category": "Apple Accessories",
@@ -1739,48 +1651,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|358908009435|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 64.12,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 90.0,
-      "feedbackCount": 16
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBAOUEiLLcs2tpavMYP4s0CXr7%2FZ3Iycto%2BghfFJUfZ4iDoNz7BC4SgTKls5bV2p%2BaUpB3ASA1uJZuGrubxE5CMldtvOD%2BKnHjvKQu7XqaeFF5SscucqWQAeQWzfUKM%2B%2F%2BmuR5s1ZmncvlgQusJyIwyW8QSLbHRjXYRoHgawfKUfxgaVdwjYOipRJca5rsiGVuk%3D",
-    "clusterMedian": 56.56,
-    "spreadPct": -0.134,
-    "marginPct": -0.516,
-    "margin": -39.73,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|117354994341|0",
-    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
-    "category": "Kitchen Appliances",
-    "price": 38.74,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 4776
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/117354994341?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1b52e71aa5:g:IZwAAeSwBXxqfEk1",
-    "clusterMedian": 39.99,
-    "spreadPct": 0.031,
-    "marginPct": -0.541,
-    "margin": -26.85,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|267140327301|0",
     "title": "KitchenAid Stand Mixer Attachment: Fresh Prep Slicer/Shredder KSMVSA(New Sealed)",
     "category": "Kitchen Appliances",
@@ -1802,6 +1672,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|117354994341|0",
+    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
+    "category": "Kitchen Appliances",
+    "price": 38.74,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.6,
+      "feedbackCount": 4776
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/117354994341?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1b52e71aa5:g:IZwAAeSwBXxqfEk1",
+    "clusterMedian": 39.37,
+    "spreadPct": 0.016,
+    "marginPct": -0.552,
+    "margin": -27.4,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|800484183297|0",
     "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
     "category": "Kitchen Appliances",
@@ -1815,31 +1706,10 @@
       "feedbackCount": 2079
     },
     "itemWebUrl": "https://www.ebay.com/itm/800484183297?_skw=sealed+new+kitchenaid+stand+mixer&hash=itemba60934d01:g:sWMAAeSwUiNqeTKz",
-    "clusterMedian": 39.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.553,
-    "margin": -28.2,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|227464780546|0",
-    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
-    "category": "Kitchen Appliances",
-    "price": 41.24,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 2349
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/227464780546?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f5f51b02:g:pUEAAeSwEG1qdIJQ",
-    "clusterMedian": 39.99,
-    "spreadPct": -0.031,
+    "clusterMedian": 39.37,
+    "spreadPct": -0.016,
     "marginPct": -0.564,
-    "margin": -29.54,
+    "margin": -28.74,
     "signals": [],
     "sellerOk": true
   },
@@ -1886,6 +1756,69 @@
     "sellerOk": true
   },
   {
+    "id": "v1|287349120286|0",
+    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
+    "category": "Kitchen Appliances",
+    "price": 13.15,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.9,
+      "feedbackCount": 358
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/287349120286?_skw=sealed+new+instant+pot&hash=item42e7579d1e:g:0JAAAeSw-QdqEduP",
+    "clusterMedian": 12.15,
+    "spreadPct": -0.082,
+    "marginPct": -1.065,
+    "margin": -23.57,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|800487110867|0",
+    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
+    "category": "Kitchen Appliances",
+    "price": 12.31,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.8,
+      "feedbackCount": 8588
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/800487110867?_skw=sealed+new+instant+pot&hash=itemba60bff8d3:g:fVMAAeSwSOpqegZ7",
+    "clusterMedian": 12.15,
+    "spreadPct": -0.013,
+    "marginPct": -1.067,
+    "margin": -22.66,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|366527172596|0",
+    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
+    "category": "Kitchen Appliances",
+    "price": 11.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.3,
+      "feedbackCount": 229
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/366527172596?_skw=sealed+new+instant+pot&hash=item5556b8cff4:g:OyYAAeSwte5qTJhs",
+    "clusterMedian": 12.15,
+    "spreadPct": 0.013,
+    "marginPct": -1.068,
+    "margin": -22.32,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|336640787631|0",
     "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6QT",
     "category": "Kitchen Appliances",
@@ -1909,69 +1842,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|366180146064|0",
-    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6QT",
-    "category": "Kitchen Appliances",
-    "price": 11.94,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 3462
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/366180146064?_skw=sealed+new+instant+pot&hash=item5542099b90:g:ZSEAAeSwzX1phbgT",
-    "clusterMedian": 12.11,
-    "spreadPct": 0.014,
-    "marginPct": -1.07,
-    "margin": -22.3,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|287349120286|0",
-    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
-    "category": "Kitchen Appliances",
-    "price": 13.15,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.9,
-      "feedbackCount": 358
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287349120286?_skw=sealed+new+instant+pot&hash=item42e7579d1e:g:0JAAAeSw-QdqEduP",
-    "clusterMedian": 11.99,
-    "spreadPct": -0.097,
-    "marginPct": -1.071,
-    "margin": -23.7,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|366527172596|0",
-    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
-    "category": "Kitchen Appliances",
-    "price": 11.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.3,
-      "feedbackCount": 229
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/366527172596?_skw=sealed+new+instant+pot&hash=item5556b8cff4:g:OyYAAeSwte5qTJhs",
-    "clusterMedian": 11.99,
-    "spreadPct": 0.0,
-    "marginPct": -1.075,
-    "margin": -22.46,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|188120443544|0",
     "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
     "category": "Kitchen Appliances",
@@ -1982,56 +1852,121 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 6719
+      "feedbackCount": 6720
     },
     "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
-    "clusterMedian": 11.99,
-    "spreadPct": 0.018,
-    "marginPct": -1.076,
-    "margin": -22.23,
+    "clusterMedian": 12.15,
+    "spreadPct": 0.03,
+    "marginPct": -1.069,
+    "margin": -22.09,
     "signals": [],
     "sellerOk": true
   },
   {
-    "id": "v1|178392539900|0",
-    "title": "12-Piece Instant Pot Replacement Parts, Float Valve Seal Kit | Premium Kit; 2 Va",
+    "id": "v1|168054491613|0",
+    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6Qt ...",
     "category": "Kitchen Appliances",
-    "price": 9.59,
+    "price": 11.94,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.8,
+      "feedbackCount": 2422
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/168054491613?_skw=sealed+new+instant+pot&hash=item2720d409dd:g:9k4AAeSwH8tpWSTi",
+    "clusterMedian": 12.11,
+    "spreadPct": 0.014,
+    "marginPct": -1.07,
+    "margin": -22.3,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|358752529250|0",
+    "title": "Brohood Food Grade Grease for Kitchenaid Stand Mixer, 4 oz 4 oz, white",
+    "category": "Kitchen Appliances",
+    "price": 11.99,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 190
+      "feedbackCount": 43
     },
-    "itemWebUrl": "https://www.ebay.com/itm/178392539900?_skw=sealed+new+instant+pot&hash=item29890622fc:g:EJoAAeSw-zVqeYmP",
-    "clusterMedian": 9.34,
-    "spreadPct": -0.027,
-    "marginPct": -1.212,
-    "margin": -22.18,
+    "itemWebUrl": "https://www.ebay.com/itm/358752529250?_skw=sealed+new+kitchenaid+stand+mixer&hash=item5387512b62:g:5LIAAeSwhs1qSBwt",
+    "clusterMedian": 11.25,
+    "spreadPct": -0.065,
+    "marginPct": -1.106,
+    "margin": -23.1,
     "signals": [],
-    "sellerOk": true
+    "sellerOk": false
   },
   {
-    "id": "v1|377404409212|0",
-    "title": "12-Piece Instant Pot Replacement Parts, Float Valve Seal Kit | Premium Kit; 2 Va",
+    "id": "v1|407018749209|0",
+    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-grade Silicone Replacement",
     "category": "Kitchen Appliances",
-    "price": 9.09,
+    "price": 12.49,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 98.3,
-      "feedbackCount": 56
+      "feedbackPct": 99.4,
+      "feedbackCount": 9688
     },
-    "itemWebUrl": "https://www.ebay.com/itm/377404409212?_skw=sealed+new+instant+pot&hash=item57df0e457c:g:w0IAAeSwinpqd7Xk",
-    "clusterMedian": 9.34,
-    "spreadPct": 0.027,
-    "marginPct": -1.218,
-    "margin": -21.65,
+    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSZCP8WerbZBdW8Gu53wRGKIUWJTPaLrPm8LXyTck73bUL2uOFf2rr1blBzYXdd5vy6Ul21PmX8KWul2YV4zozyc%2FQnNVKw9NE8Rm3cx1wm2mZEupx%2BniVDapnQpOysFHTDaiS0ood40RpV%2FcOweCFY0fU2W%2FVDx6Rbl93PmP3DvQA%3D%3D",
+    "clusterMedian": 11.04,
+    "spreadPct": -0.132,
+    "marginPct": -1.112,
+    "margin": -23.83,
     "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|366592287439|0",
+    "title": "Brohood Food Grade Grease for Kitchenaid Stand Mixer, 4 oz 4 oz, white",
+    "category": "Kitchen Appliances",
+    "price": 10.52,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.4,
+      "feedbackCount": 61
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/366592287439?_skw=sealed+new+kitchenaid+stand+mixer&hash=item555a9a62cf:g:tpIAAeSwd3dqdeH0",
+    "clusterMedian": 11.25,
+    "spreadPct": 0.065,
+    "marginPct": -1.114,
+    "margin": -21.52,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|137495432899|0",
+    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-grade Silicone Replacement ...",
+    "category": "Kitchen Appliances",
+    "price": 9.58,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.8,
+      "feedbackCount": 836
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/137495432899?_skw=sealed+new+instant+pot&hash=item20035dcec3:g:-XoAAeSwAUpqTlgX",
+    "clusterMedian": 11.04,
+    "spreadPct": 0.132,
+    "marginPct": -1.131,
+    "margin": -20.7,
+    "signals": [
+      "below_cluster"
+    ],
     "sellerOk": true
   }
 ]
