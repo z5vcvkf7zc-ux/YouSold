@@ -383,7 +383,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.5,
-      "feedbackCount": 1044
+      "feedbackCount": 1045
     },
     "itemWebUrl": "https://www.ebay.com/itm/407132015191?_skw=sealed+new+kitchenaid+stand+mixer&hash=item5ecaf58a57:g:ItMAAeSwPZVqeNoy",
     "clusterMedian": 269.0,
@@ -565,7 +565,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPBrTw%2BHTNHg9stPIvdvcGv6OumvMhYuLcvyemumYnyUOSEPl3cDMQ63ADWQU6ib2myu2gsFGel390Gyyy8%2FqaVjK7iV87jAgYGGdDA1MMmXGKwSqt8oxKEwGHPPX1KpR3SrB4Cti5QDZf%2B7CpC4J8tmCpKW0p7kGsGtA48lYzpxHdASG2DYGGR9LJhJcUF6X0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPF22jtE7GYbFtb389xYqupgLBntvVjAeTzgSLISdG%2Bu8qglo4kmJPMuTKdlKRsVwrkGJ5%2Bfu8Kmn6ZnkLvVgzsbtsXKIoHVPN3eLjLwTcIxqbh4rbxFpRfybkuGY%2FlzWsu4TLn8nsPiTak%2FxFABhiaeYL1RxRCyIy%2Bjfi0eCiJHdYx44PVNBQfY%2F3wknPCE1c%3D",
     "clusterMedian": 549.0,
     "spreadPct": 0.002,
     "marginPct": -0.22,
@@ -586,7 +586,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 3123
+      "feedbackCount": 3124
     },
     "itemWebUrl": "https://www.ebay.com/itm/398246734573?_skw=sealed+new+milwaukee+tool+combo&hash=item5cb95aeaed:g:gaEAAeSwS0BqcSlE",
     "clusterMedian": 684.5,
@@ -639,6 +639,27 @@
     "margin": -176.3,
     "signals": [],
     "sellerOk": false
+  },
+  {
+    "id": "v1|287520717327|0",
+    "title": "Milwaukee Tool 2695-24 M18 Cordless Lithium-Ion 4-Tool Combo Kit W/ M18",
+    "category": "Power Tools",
+    "price": 329.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 229
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/287520717327?_skw=sealed+new+milwaukee+tool+combo&hash=item42f191fa0f:g:oN4AAeSwn~xqfIHY",
+    "clusterMedian": 334.5,
+    "spreadPct": 0.016,
+    "marginPct": -0.229,
+    "margin": -82.66,
+    "signals": [],
+    "sellerOk": true
   },
   {
     "id": "v1|398263660178|0",
@@ -748,6 +769,29 @@
     "sellerOk": true
   },
   {
+    "id": "v1|178316899523|0",
+    "title": "Milwaukee Tool 2695-24 M18 Cordless Lithium-Ion 4-Tool Combo Kit W/ M18",
+    "category": "Power Tools",
+    "price": 339.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 4206
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/178316899523?_skw=sealed+new+milwaukee+tool+combo&hash=item298483f4c3:g:dyoAAeSwaStqWUAn",
+    "clusterMedian": 334.5,
+    "spreadPct": -0.016,
+    "marginPct": -0.253,
+    "margin": -94.48,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
     "id": "v1|227473332495|0",
     "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
     "category": "Kitchen Appliances",
@@ -758,7 +802,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 130
+      "feedbackCount": 132
     },
     "itemWebUrl": "https://www.ebay.com/itm/227473332495?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f677990f:g:SYkAAeSwOLpqfNwz",
     "clusterMedian": 269.0,
@@ -1133,7 +1177,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 28
     },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYJlYEWrlj0qjqGwPF70SsE%2Bg7TSZBAii8gUuuhbR6HZ87weEj2dADslFOeJUpkvLnHw35uFi8nziglIJ2ujYWjVKUSlcOdUihA4FC5K6miq2iJ2ZB9Rc0o663%2FhJ67upxXL3HJrQgei4wUh7Rl2bnXktM5%2FJQxiiWglH6soZ8%2FdE5V06FmhqA9eeHhoM8kpuc%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pZwCS7ZgGVHkNqeCwDOg1qFmzIlHBRcmRyzKFt9LNo7UFq90zZTfzIcD7qaHarfSC28%2FPn%2FFpG%2FDcPA4omV5XLGk1A65s%2BeVBNshztJB3I9sHtc0bG23DT79z6%2FX%2BO2fDsjdCpAYsF2Jfs%2FcJdazN1wImxA5LC%2BG0izlxT%2BvhoogMsjQRocRBJti9g8DzK42AU%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1156,7 +1200,7 @@
       "feedbackPct": 97.5,
       "feedbackCount": 70
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBiYjcF1uUfrCE67teAQiN4RnbnwuUsxgiKuawYpeb2F6YdXa0nLoBniLV0zf2ry7No%2FGjwnCfl4NhR2sR6XfivMS2k4vYDq5yGLBdADeoQ%2Fd4Xw78eQW70xEEtYjRONbiSPaV1luSXWoYGpBrlb4B08Iag4h7XZu3iyUWgPB2ix7cUtQXuqstbQz2dNH6zsCC8%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBjKQX0%2FQ%2FzExBqy8ezKISe90nJk%2BZsE9IWAx8AEM6JsLviI3X4eIMu2FVEVZYgMRihElptMNf6achEdiNXhEJK--ikcUNNUCONSJlsHUcCHbGujO7IyZLN5r9bL%2FuABqDL5mcaZU%2FUUJxB08ISKbZqn4ytAxDV7WCxw61SEc0kLgd6acXo%2BAgUhZWjvWWAbnXI%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1200,7 +1244,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 895
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407147188395?_skw=sealed+new+nintendo+switch+oled+console&hash=item5ecbdd10ab:g:5GIAAeSw8fdqgKYX&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZMh1Cc6F%2FTWSYM64zh6yO83XNO65YoYJiXtlLs8cX%2FgFYaYzyorgsBOIrwQcKTkxL6tPwCYCo%2BoQl9O3JmyrN0q2CkaDRTP7OjMfFmf24ph8O8V8pEEPt686aAtbtBVBuQB2lR0dh5cTMrBjHcDd680YIVRAN8Kaze5jk5SgS0CeDZS4yc2HxQ9m9SK1YLYkNCEfOFPnDWI5TOJJVvvUr884fT0wOvxHzF6VZXV45tGXV%2FFkbjJ0k29pHO6N8nUVFazLQSek4NDOOlwIXaQTyX7JbNCW9Yd5Uwz61L1cT30Isxcoh0CVKsLZvqpdhSbQ0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407147188395?_skw=sealed+new+nintendo+switch+oled+console&hash=item5ecbdd10ab:g:5GIAAeSw8fdqgKYX&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZMh1Cc6F%2FTWSYM64zh6yO83XNO65YoYJiXtlLs8cX%2FgFYaYzyorgsBOIrwQcKTkxL6tPwCYCo%2BoQl9O3JmyrN0q2CkaDRTP7OjMfFmf24ph8O8V8pEEPt686aAtbtBVBtc1jfdsbXLKnR7LKswKTWbKZY5aenHYcmGcN2Ktzaot6sBeE9p4vA%2BCs31Mt0LEx3jdh1pWuaaBRNgo7JczXG%2FChz2fQm0O35DbG75STNakZ463twbw3aCF1gIOAy%2BZVzQ%2F5lm0Ay%2F0pLOVZASCsQugI4I4vyIIS23hbZzhBD8v7OGfZr09M931cSVIiGLTZ4%3D",
     "clusterMedian": 329.99,
     "spreadPct": -0.058,
     "marginPct": -0.282,
@@ -1313,7 +1357,7 @@
       "feedbackPct": 99.7,
       "feedbackCount": 423
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9",
+    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYvutP0H2zTbBwCVg9V9XwoRwaQG0%2BqxZypxKte6O2ifbfSyt%2BNKAH7n7Ty7aZjWnUvbD9DUP4ykJqfb%2F5PHI7eLC%2F0MUOj3oYqde8QKm%2Byhr4mHayx0q4Jkg%2FKB6kfzXqs6cvI5SgCtt3vN%2FsvPvqMUr7%2F8ltrt2D%2BOCKvHYlXzfrqUijdrPJA9DGC480RVIkpsfg2n5GCPulBd8kqCLY7TRm35dsOzb%2F3gO028SapmNTwtYKxMB5Xsmqu9uKZWMvQ1MLDmSFYpWQCb4ZCe656%2F9LR3aeHPFAeST6AC7lhBieyLJTXxk76tIEIQsD784I%3D",
     "clusterMedian": 409.5,
     "spreadPct": -0.096,
     "marginPct": -0.298,
@@ -1380,7 +1424,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNypkmue%2FWmynHDOIH39s8idiihQyejxNnJzsxF1DvxzF0jtD2xh4I3rzxNa8cwJjHhQc1n8b94z71eOXltIIfILwtxwnt%2F0co9TnYpSDmLJosTdDdEplCzFOmpT5QBzXioN1hOAkUzcNSl%2BcK5AyUhfLomW5g6%2BGwWi64rsw7IHQMzLdEYD9PNdobOZaTRRfOiM%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyrw83FLegWyttcDIjKTfXGPn94mTWD5pqY%2FFW22b%2BoOulhfm3oMscImpx7qeQDe%2FNlNxdo7U%2BN4kGUZmcf3c0hHsWWbL8GHDUK%2BliE46og3BV6A9Wo0rcuVPTHdDrYsEuMtFFEa6w7VJGoH0rVAB20VMDQ%2FK9Pp%2FoLWZq1GTfyimPNaILPvc%2Ft0x7myv%2BkfQfY%3D",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1766,7 +1810,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 98.9,
-      "feedbackCount": 358
+      "feedbackCount": 359
     },
     "itemWebUrl": "https://www.ebay.com/itm/287349120286?_skw=sealed+new+instant+pot&hash=item42e7579d1e:g:0JAAAeSw-QdqEduP",
     "clusterMedian": 12.15,
@@ -1787,7 +1831,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 8588
+      "feedbackCount": 8589
     },
     "itemWebUrl": "https://www.ebay.com/itm/800487110867?_skw=sealed+new+instant+pot&hash=itemba60bff8d3:g:fVMAAeSwSOpqegZ7",
     "clusterMedian": 12.15,
@@ -1852,7 +1896,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 6720
+      "feedbackCount": 6721
     },
     "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
     "clusterMedian": 12.15,
@@ -1863,8 +1907,8 @@
     "sellerOk": true
   },
   {
-    "id": "v1|168054491613|0",
-    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6Qt ...",
+    "id": "v1|366180146064|0",
+    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6QT",
     "category": "Kitchen Appliances",
     "price": 11.94,
     "condition": "New",
@@ -1872,10 +1916,10 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 2422
+      "feedbackPct": 100.0,
+      "feedbackCount": 3462
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168054491613?_skw=sealed+new+instant+pot&hash=item2720d409dd:g:9k4AAeSwH8tpWSTi",
+    "itemWebUrl": "https://www.ebay.com/itm/366180146064?_skw=sealed+new+instant+pot&hash=item5542099b90:g:ZSEAAeSwzX1phbgT",
     "clusterMedian": 12.11,
     "spreadPct": 0.014,
     "marginPct": -1.07,
@@ -1905,27 +1949,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|407018749209|0",
-    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-grade Silicone Replacement",
-    "category": "Kitchen Appliances",
-    "price": 12.49,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.4,
-      "feedbackCount": 9688
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSZCP8WerbZBdW8Gu53wRGKIUWJTPaLrPm8LXyTck73bUL2uOFf2rr1blBzYXdd5vy6Ul21PmX8KWul2YV4zozyc%2FQnNVKw9NE8Rm3cx1wm2mZEupx%2BniVDapnQpOysFHTDaiS0ood40RpV%2FcOweCFY0fU2W%2FVDx6Rbl93PmP3DvQA%3D%3D",
-    "clusterMedian": 11.04,
-    "spreadPct": -0.132,
-    "marginPct": -1.112,
-    "margin": -23.83,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|366592287439|0",
     "title": "Brohood Food Grade Grease for Kitchenaid Stand Mixer, 4 oz 4 oz, white",
     "category": "Kitchen Appliances",
@@ -1947,23 +1970,44 @@
     "sellerOk": true
   },
   {
-    "id": "v1|137495432899|0",
-    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-grade Silicone Replacement ...",
+    "id": "v1|227282910021|0",
+    "title": "2Pack Sealing Ring 3 Quart for Instant Pot, BPAFree Sealing Ring Replacement ...",
     "category": "Kitchen Appliances",
-    "price": 9.58,
+    "price": 10.88,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 836
+      "feedbackCount": 4144
     },
-    "itemWebUrl": "https://www.ebay.com/itm/137495432899?_skw=sealed+new+instant+pot&hash=item20035dcec3:g:-XoAAeSwAUpqTlgX",
-    "clusterMedian": 11.04,
-    "spreadPct": 0.132,
-    "marginPct": -1.131,
-    "margin": -20.7,
+    "itemWebUrl": "https://www.ebay.com/itm/227282910021?_skw=sealed+new+instant+pot&hash=item34eb1dfb45:g:zYkAAeSwebtpzZ8u",
+    "clusterMedian": 9.78,
+    "spreadPct": -0.112,
+    "marginPct": -1.177,
+    "margin": -23.19,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|406965618192|0",
+    "title": "2Pack Sealing Ring 3 Quart for Instant Pot, BPAFree Sealing Ring Replacement ...",
+    "category": "Kitchen Appliances",
+    "price": 8.68,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 875
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/406965618192?_skw=sealed+new+instant+pot&hash=item5ec10a8610:g:PDIAAeSw-BlqHUMj",
+    "clusterMedian": 9.78,
+    "spreadPct": 0.112,
+    "marginPct": -1.201,
+    "margin": -20.82,
     "signals": [
       "below_cluster"
     ],
