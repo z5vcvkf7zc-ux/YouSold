@@ -519,7 +519,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnOku%2FBcFUZ2P34clmpbhIttQ1mrlVd2TEREStZTvoAYA47UkElmdEK31NnIVERuTblKGlUTjNVljEkY0UHMF3RonLywHFLSBFOo63qmk%2Bpbx%2BcuaF5gM%2B8J529qKejKP8Nx7PMxLst%2FUf2zYG%2Ba9PCTruAe6FSXE9E%2B4C0iWuHmASb9RN4p9GYS107%2BZ2n4buQ%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnP%2FZLiP6mueGNrNXP5QAlXfTPAbleqjwzG%2BDaTrjYi7xkrraxYs7fYTrFqdx7C1zOW9%2F2nt5PBoB6HcksbRJImRG0vrdHQ6VLql%2Bt8FtFB3is4OQmrnWifw0SPLqcBqAB2i7rQUlQiteCogjEc4oAjr9RkP6pKi%2Feg%2F0TTPBsrOxpEmHX31w59LpQx7fLvUuFU%3D",
     "clusterMedian": 549.0,
     "spreadPct": 0.002,
     "marginPct": -0.22,
@@ -863,27 +863,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|197921287910|0",
-    "title": "Milwaukee 2494-22 M12\u2122 Cordless LITHIUM-ION 2-Tool Combo Kit. *Brand New Sealed*",
-    "category": "Power Tools",
-    "price": 134.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 2740
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/197921287910?_skw=sealed+new+milwaukee+tool+combo&hash=item2e15072ee6:g:mN8AAeSwPGtpMMtf",
-    "clusterMedian": 142.49,
-    "spreadPct": 0.053,
-    "marginPct": -0.269,
-    "margin": -41.15,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|366615608230|0",
     "title": "Pokemon Card Quitran Master Ball Mirror PSA 10 Graded Single Card Japanese",
     "category": "Trading Cards",
@@ -896,7 +875,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 86
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366615608230?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3ba6:i:366615608230",
+    "itemWebUrl": "https://www.ebay.com/itm/366615608230?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3ba6:g:U4kAAeSwEu1qhZVh",
     "clusterMedian": 165.0,
     "spreadPct": 0.03,
     "marginPct": -0.269,
@@ -916,8 +895,8 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 6285
+      "feedbackPct": 99.8,
+      "feedbackCount": 6284
     },
     "itemWebUrl": "https://www.ebay.com/itm/307134020067?_skw=sealed+new+milwaukee+tool+combo&hash=item47829d39e3:g:VYYAAeSwU7hqc0TB",
     "clusterMedian": 164.92,
@@ -1012,6 +991,27 @@
     "sellerOk": false
   },
   {
+    "id": "v1|188792812704|0",
+    "title": "DEWALT DCK240C2 20V MAX Cordless Drill/Driver Power Impact Driver Combo Kit",
+    "category": "Power Tools",
+    "price": 130.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 36
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/188792812704?_skw=sealed+new+dewalt+drill+kit&hash=item2bf4edb4a0:g:dfMAAeSwk3lqf1tG",
+    "clusterMedian": 137.5,
+    "spreadPct": 0.055,
+    "marginPct": -0.272,
+    "margin": -40.12,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
     "id": "v1|366608108334|0",
     "title": "KitchenAid Artisan 5qt Mixer KSM150PSER (Empire Red) Brand New Factory Sealed!",
     "category": "Kitchen Appliances",
@@ -1047,7 +1047,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 86
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366615608056?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3af8:i:366615608056",
+    "itemWebUrl": "https://www.ebay.com/itm/366615608056?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3af8:g:ApQAAeSwo5FqhZV0",
     "clusterMedian": 160.0,
     "spreadPct": 0.031,
     "marginPct": -0.272,
@@ -1248,7 +1248,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 28
     },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pZOVaDA5x4z73v08M8bgEQClsiIVSa6jIK%2FmXmYhbO%2FZMsO%2FVA11S1Gh0OWCF8iz402Cf8HJaR9%2FgrMTQG%2B9%2B2UwODLHPsfXXM6BmjjonQfmDMv35oTvPBujfMLlCPyZi0HSN9zTCz31CR6ByCrfKBFyTXJht3GU4M7TMHHlTLINAbhcN4ZHhTzePUFHYPPZ4Q%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYeu5J2R%2BP%2FX1GzfjmtPpQ4m57QLbENqbM%2BEo15KaYshg%2FEt2rrFaZ2jrfBEYrVO%2BBb9hF2UH64f%2BMUoeDFi6EVDao3XK6g7xLTsDggsrp%2ByZDWu46wveCVgyUH1XhvJNsmG4n0TjsUht5DZrpB2BGdgtElpUnbGpJ5GwHL7pUgrhvsyIE8MVjNx%2BmB2dzi7%2FM%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1271,7 +1271,7 @@
       "feedbackPct": 97.5,
       "feedbackCount": 70
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBio1%2Bx9kQY15QIP3GBK78SHv%2BJJp2iXXLWvf1MupWUu7dJLJrKcEnHaEjCfunmC1c8rpiVnst1yp5arLpOykluoD1A1EvqHqm5Vp53vKXyEWJ66TSzkCx%2BTW4LlUW150DWBIcL7zZVwAJmxfCHGd4gwdSoSOUx6ljIEOTDh0LaSHRdqxtLPD04OZ%2Bgemm%2FImKg%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBjDkFXSBatUFPhhIKUJyz94B8uvkZG%2FxEzJuuL4B7AahLTILVUBBR2ABGw2KnFoVE4T8qweJmcJMvbZ1lxsxIsGyVxR5LirKjLm3xJaobDiLkuMQumIs8w1sGCVK3nIGMIpm7L8fHfiqAkEz7e1Nv1o1QdBWiFtoNu5WHCCAeNkSpAZ0sPQZfS4djjuqrOvGcs%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1303,6 +1303,98 @@
       "best_offer"
     ],
     "sellerOk": false
+  },
+  {
+    "id": "v1|307135148064|0",
+    "title": "Clefairy - 094/088 - Perfect Order - Illustration Rare - Pokemon - PSA 10",
+    "category": "Trading Cards",
+    "price": 164.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1005
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/307135148064?_skw=PSA+10+graded+pokemon+card&hash=item4782ae7020:g:GG8AAeSwSytqhZcL",
+    "clusterMedian": 164.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.29,
+    "margin": -53.82,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|307135152019|0",
+    "title": "Clefairy - 094/088 - Perfect Order - Illustration Rare - Pokemon - PSA 10",
+    "category": "Trading Cards",
+    "price": 164.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1005
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/307135152019?_skw=PSA+10+graded+pokemon+card&hash=item4782ae7f93:g:VrIAAeSw1PxqhZg7",
+    "clusterMedian": 164.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.29,
+    "margin": -53.82,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|307135150554|0",
+    "title": "Clefairy - 094/088 - Perfect Order - Illustration Rare - Pokemon - PSA 10",
+    "category": "Trading Cards",
+    "price": 164.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1005
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/307135150554?_skw=PSA+10+graded+pokemon+card&hash=item4782ae79da:g:OtAAAeSwM89qhZf2",
+    "clusterMedian": 164.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.29,
+    "margin": -53.82,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|307135149305|0",
+    "title": "Clefairy - 094/088 - Perfect Order - Illustration Rare - Pokemon - PSA 10",
+    "category": "Trading Cards",
+    "price": 164.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1005
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/307135149305?_skw=PSA+10+graded+pokemon+card&hash=item4782ae74f9:g:KeYAAeSwxFVqhZew",
+    "clusterMedian": 164.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.29,
+    "margin": -53.82,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
   },
   {
     "id": "v1|366586690478|0",
@@ -1451,7 +1543,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 86
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366615608225?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3ba1:i:366615608225",
+    "itemWebUrl": "https://www.ebay.com/itm/366615608225?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3ba1:g:BnkAAeSwRAVqhZU-",
     "clusterMedian": 165.0,
     "spreadPct": -0.03,
     "marginPct": -0.31,
@@ -1516,7 +1608,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 86
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366615608170?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3b6a:i:366615608170",
+    "itemWebUrl": "https://www.ebay.com/itm/366615608170?_skw=PSA+10+graded+pokemon+card&hash=item555bfe3b6a:g:KNYAAeSwxZRqhZU0",
     "clusterMedian": 160.0,
     "spreadPct": -0.031,
     "marginPct": -0.314,
@@ -1560,7 +1652,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNypHjV%2BMcZj%2BhClFrPmU9uv6zi7dPh9jOgNUlcMADrvYE4Mm0RFjgqN2cS7lYGp1R8OZJfiwaYz20PyUCEDjMyZJPib90wSHa7SB1DcLKEojPgTEn%2BT2TR9NPojVhI0PRCxgKUPVtCPNCUPUsL0ycuj9agwi2A%2FOgUEWywhRYzXhH879AGLgytof7A7vryAYv10%3D",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1613,27 +1705,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|257603007192|0",
-    "title": "Milwaukee 2494-22 M12\u2122 Cordless LITHIUM-ION 2-Tool Combo Kit - SEALED",
-    "category": "Power Tools",
-    "price": 149.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 8400
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/257603007192?_skw=sealed+new+milwaukee+tool+combo&hash=item3bfa55f2d8:g:4R8AAeSwGS5qR-Tf",
-    "clusterMedian": 142.49,
-    "spreadPct": -0.053,
-    "marginPct": -0.338,
-    "margin": -57.27,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|800348976554|0",
     "title": "Microsoft Xbox Series X 1TB Console Halo Infinite Limited Edition Bundle SEALED",
     "category": "Consoles",
@@ -1655,6 +1726,27 @@
       "best_offer"
     ],
     "sellerOk": false
+  },
+  {
+    "id": "v1|237015625472|0",
+    "title": "DEWALT DCK240C2 20V MAX Cordless Drill/Driver Power Impact Driver Combo Kit",
+    "category": "Power Tools",
+    "price": 145.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.6,
+      "feedbackCount": 72
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/237015625472?_skw=sealed+new+dewalt+drill+kit&hash=item372f3b6f00:g:EpYAAeSwO6xqhR9K&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZypnXeo%2Fio6tjlz%2FOxYLUdofspCp3YFyVF3LEP37%2BGn7D2CL0xLm7RLvpjgOiMS4haplChgXJekv0NV87asD3yYxfyYsntZBN6QwqAweYfqD3jSWUZq6qWCUQp0Hjs%2BKHLokXzEK3eA3pNe2%2BvdwX4pgbN0nq23RZhE9zrLuMGODdymhTMkvDb9JPKos7JNIUs4%2Byo5CVew1%2Fk9lII6lkTOtjyv%2BFXn%2BmCD6VwPugtsnhxw%2FNNhOB7QFOcbu8CkuIXzUC5sRNlWXVdF4Axzub6curJP9FK59%2F%2BrGfQPOwFdLD%2BCqu0vae%2F9Ib7vyPDirk%3D",
+    "clusterMedian": 137.5,
+    "spreadPct": -0.055,
+    "marginPct": -0.343,
+    "margin": -56.25,
+    "signals": [],
+    "sellerOk": true
   },
   {
     "id": "v1|267120381924|0",
@@ -1799,7 +1891,7 @@
       "feedbackPct": 98.6,
       "feedbackCount": 2166
     },
-    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3IDPqm7QFXBRWpEhLlRNrvX97JK1JhVN177qABnPVCHXrMSWFWlWEo0Eun5%2Bj90T78Qc3xc%2BO66dNzwrJqlXV6M4Hz%2BtIWudaaAbjzXsCQvByArnwL71RvheIDbvhKWYCnGOPvXKkkdFLesO%2F8Kd98U4n57vxzB%2B5JSpueJmySIKiWgXW9Eo4voRVaUGyzEvyFQrjuhFc0sV3g474u8kFDEBHf8wU9E4NIJY5l%2BNc7RE7Iz5kwPiKV33c3ai4ufVkHwUwikZlK7cIx2xqHuRrOBAhr%2BNzPQ%2Bw4PWncjB7WYNgKu0dxiYL9SRtoeWJaHM%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM",
     "clusterMedian": 48.99,
     "spreadPct": 0.082,
     "marginPct": -0.457,
@@ -1843,7 +1935,7 @@
       "feedbackPct": 98.5,
       "feedbackCount": 4114
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm10ueKnOhNnECv8VfXa7GGWdoR%2FZrA55AatDt3tevpwkDG%2BDELJu%2BYYKGOpAuCmP1l2d%2BgJP6MWBCH0XI%2FGcWRy4YsiJVhEhqDvwHIHUGM%2BchqY6Dh6OTfQmBMOKhvRHEHhIXjrbnPCOSbTH%2FnAOtrSbm%2FZry5QMptGCtQIpXZyj30pMd1H%2FZDNpoRuwbJnmws%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm3ECyt9ynb0%2FpMXUTlyhz73OiUqFHF7anoSPMYllZjfPGcGtFUPGj4grqHb9oeh26QFiCQwOL3Az7LS1zbW3BnbVVXkG2izIys7uWBz0IBVybehW%2FELSWvTfFhfqXmdxT1eMK%2B9vID4ww9WFy4Wsn9x--WpkvnnjaR8KJm1qU5ZfpAMhjj6xGIGoDKQWVsgqEo%3D",
     "clusterMedian": 48.99,
     "spreadPct": 0.0,
     "marginPct": -0.495,
@@ -1992,7 +2084,7 @@
       "feedbackPct": 90.9,
       "feedbackCount": 18
     },
-    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBArJN5b%2FC4B4CzOHAe12ojGYgBOg%2BfJt%2BNJRP0751cwrU1vmNXHVmQiU1dPzf4UKA8oBrgFdFfsh9dzTggxrJF4ZqzvVAlsRzirAg7rzukGw0wAqQH5xxpCq12X6ld72HnDR96ccNdfpgWKm9QCGxvaKcMg2kdl75VqHf3k2Kfr4MpyHfyzQVnc1vvy4CRtuMg%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBBgry4UpQWLXjYDCRUs8hexhU9tNi3PMAebCQz1jG04ZM%2F%2BPRxUaBZGa3kcIMQ51sfT0XCDjrE6WixQxbzlu4CquqnwP0LlPbRsBYOfkm9ikl22viVBAVT8nOxbrHF5%2B9papFAONKTerAbcMjbKk27QIi5%2F9nYhkZOyDSD21jwzTCsWAX7vYEzRn6yVZ55MRjM%3D",
     "clusterMedian": 48.99,
     "spreadPct": -0.309,
     "marginPct": -0.602,
@@ -2066,44 +2158,46 @@
     "sellerOk": true
   },
   {
-    "id": "v1|407018749209|0",
-    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-grade Silicone Replacement",
+    "id": "v1|336640787631|0",
+    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6QT",
     "category": "Kitchen Appliances",
-    "price": 12.49,
+    "price": 12.29,
     "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": false,
+    "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.4,
-      "feedbackCount": 9748
+      "feedbackPct": 99.8,
+      "feedbackCount": 1266
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl",
-    "clusterMedian": 11.83,
-    "spreadPct": -0.056,
-    "marginPct": -1.08,
-    "margin": -23.13,
-    "signals": [],
+    "itemWebUrl": "https://www.ebay.com/itm/336640787631?_skw=sealed+new+instant+pot&hash=item4e615ac4af:g:y88AAeSw9mVqMEWC",
+    "clusterMedian": 12.11,
+    "spreadPct": -0.014,
+    "marginPct": -1.069,
+    "margin": -22.67,
+    "signals": [
+      "best_offer"
+    ],
     "sellerOk": true
   },
   {
-    "id": "v1|366212815389|0",
-    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-Grade Silicone Replacement",
+    "id": "v1|168054491613|0",
+    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6Qt ...",
     "category": "Kitchen Appliances",
-    "price": 11.83,
+    "price": 11.94,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 478
+      "feedbackPct": 99.8,
+      "feedbackCount": 2440
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9B%2BX9SJAxE8i6%2B5pCV5uIbTNOmbVyDMWf90f7QMjtSrgPbnQcFpTaKb1T8RhEEK5vdbK2L8kHi6y6oNZ5gOhWaxOfiXAjzXkb4naG5dTKUW01XW63umGTOg4vvUzvdoL43cJrUv2p7rtcV30ZzYbV9XjKU%2FK7c2OxQthG7tiYcHVA%3D%3D",
-    "clusterMedian": 11.83,
-    "spreadPct": 0.0,
-    "marginPct": -1.082,
-    "margin": -22.43,
+    "itemWebUrl": "https://www.ebay.com/itm/168054491613?_skw=sealed+new+instant+pot&hash=item2720d409dd:g:9k4AAeSwH8tpWSTi",
+    "clusterMedian": 12.11,
+    "spreadPct": 0.014,
+    "marginPct": -1.07,
+    "margin": -22.3,
     "signals": [],
     "sellerOk": true
   },
@@ -2120,11 +2214,32 @@
       "feedbackPct": 98.3,
       "feedbackCount": 233
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366527172596?_skw=sealed+new+instant+pot&hash=item5556b8cff4:g:OyYAAeSwte5qTJhs&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbZ4SYjLOEiGtptHRTXH%2B%2BMuZBDuTUhV5FGfZPnCAXcsSPzHzH0euIl9ZimP2hOI%2BQKAUzS439ahe86YL0z6HoirASkXypFb6ZBn8W6izyiVVMQpIRQykSnwF4xwVjeAr2RKkVCYn%2FfhbMPLAnvFVmsC1BM5IoCyjyQNI5Y4npmXtuWhIpDSkyN%2FgffEUNrMBZuGWqhqiNjWlYZaHbpK9FJdQciJOGmdVJKbkEmEC0P--3S%2FwjxzHt9bvpJdpmIA5qlXWGiCxZRb9dd%2BML9RrCEBsNSNRMOPbkizuhPQndffA%3D%3D",
-    "clusterMedian": 11.78,
-    "spreadPct": -0.018,
-    "marginPct": -1.084,
-    "margin": -22.64,
+    "itemWebUrl": "https://www.ebay.com/itm/366527172596?_skw=sealed+new+instant+pot&hash=item5556b8cff4:g:OyYAAeSwte5qTJhs",
+    "clusterMedian": 11.88,
+    "spreadPct": -0.009,
+    "marginPct": -1.079,
+    "margin": -22.55,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|407018749209|0",
+    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-grade Silicone Replacement",
+    "category": "Kitchen Appliances",
+    "price": 12.49,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.4,
+      "feedbackCount": 9748
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSbe%2FAsY4UQedRZ%2FQwG1Ocq1qIqW64xA9u2gftZ3071nKxxkLu23jkEsNKRpCinuXX2krDrBpSjiOFa851zNxrCh9wfen4Kf2bK7lDLnM8nm66lhS3JCuoOvML7rQigM3zMWAISgzdJ5hOJF7vGpyeBg8NAI%2FXlHicMhag%2BRvDz5Mg%3D%3D",
+    "clusterMedian": 11.83,
+    "spreadPct": -0.056,
+    "marginPct": -1.08,
+    "margin": -23.13,
     "signals": [],
     "sellerOk": true
   },
@@ -2139,34 +2254,34 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 6774
+      "feedbackCount": 6776
     },
     "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
-    "clusterMedian": 11.78,
-    "spreadPct": 0.0,
-    "marginPct": -1.085,
-    "margin": -22.41,
+    "clusterMedian": 11.88,
+    "spreadPct": 0.009,
+    "marginPct": -1.08,
+    "margin": -22.32,
     "signals": [],
     "sellerOk": true
   },
   {
-    "id": "v1|198470180737|0",
-    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
+    "id": "v1|366212815389|0",
+    "title": "2-Pack Sealing Ring for Instant Pot 6 Quart, Food-Grade Silicone Replacement",
     "category": "Kitchen Appliances",
-    "price": 11.61,
+    "price": 11.83,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 149
+      "feedbackPct": 99.6,
+      "feedbackCount": 478
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198470180737?_skw=sealed+new+instant+pot&hash=item2e35be9f81:g:az0AAeSwAMtqRml~",
-    "clusterMedian": 11.78,
-    "spreadPct": 0.014,
-    "marginPct": -1.086,
-    "margin": -22.23,
+    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9BnY8MVo5gYNIp9iZH9FSF2l4rB8iGMk%2FWrTxDqmRp5BrGLAeGwhZENcvnWmMeXqfER2C0RJAZfunlgYjO%2BuyzX8tx%2BtIwgtVbot9pPTV2VLU6Mqy903SxeiWXXCZzMfSeSBHOSEazp%2BJiHocc9OMnScnEY5bhkFA54Tf2rFVPvzw%3D%3D",
+    "clusterMedian": 11.83,
+    "spreadPct": 0.0,
+    "marginPct": -1.082,
+    "margin": -22.43,
     "signals": [],
     "sellerOk": true
   },
@@ -2213,48 +2328,6 @@
     "margin": -23.37,
     "signals": [],
     "sellerOk": true
-  },
-  {
-    "id": "v1|178392539900|0",
-    "title": "12-Piece Instant Pot Replacement Parts, Float Valve Seal Kit | Premium Kit; 2 Va",
-    "category": "Kitchen Appliances",
-    "price": 9.59,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 201
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/178392539900?_skw=sealed+new+instant+pot&hash=item29890622fc:g:EJoAAeSw-zVqeYmP",
-    "clusterMedian": 9.52,
-    "spreadPct": -0.007,
-    "marginPct": -1.203,
-    "margin": -22.03,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|358888247609|0",
-    "title": "12-Piece Instant Pot Replacement Parts, Float Valve Seal Kit | Premium Kit; 2 Va",
-    "category": "Kitchen Appliances",
-    "price": 9.45,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 96.5,
-      "feedbackCount": 155
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/358888247609?_skw=sealed+new+instant+pot&hash=item538f681139:g:EVcAAeSwNwVqY7S3&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaxHRkHG3Wj5bnHwnEqlBU7gv%2BQd36fi3cz9XZlJ8P4sZx1KoAtcpkBEnxHgVhAY2nOjAAvggvDjyJGLQ4FH99Ap8ltSJU94UITBwxaD0vnlmM%2BXW00SuXSw2LYHXoccZPn0pwbYEBXtnRSDIJ7nTZX%2B0HOrJDT9ML%2BgwE5Az5h%2FUZaLkB7VlWkEhfwzHpsZl1UmrXl69en6FSH8IWqRCU%2FgMb6Ek712W%2FwgVjE8rgqUaz6Fvjf2BAAdslc67qT039SwUWuOTlCFtf9YnikGUrQCpBl72ltGpV1XVbpy4wMlA%3D%3D",
-    "clusterMedian": 9.52,
-    "spreadPct": 0.007,
-    "marginPct": -1.205,
-    "margin": -21.88,
-    "signals": [],
-    "sellerOk": false
   },
   {
     "id": "v1|406965618192|0",
