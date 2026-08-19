@@ -129,7 +129,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 14865
+      "feedbackCount": 14871
     },
     "itemWebUrl": "https://www.ebay.com/itm/158162213071?_skw=sealed+new+xbox+series+x+console&hash=item24d333d8cf:g:4VYAAeSwdUJqdUUH",
     "clusterMedian": 1747.49,
@@ -314,7 +314,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 141
+      "feedbackCount": 143
     },
     "itemWebUrl": "https://www.ebay.com/itm/237000752933?_skw=sealed+new+sony+playstation+5+slim+console&hash=item372e587f25:g:rpYAAeSwPAZqZ9C6",
     "clusterMedian": 970.68,
@@ -486,29 +486,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|407132015191|0",
-    "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
-    "category": "Kitchen Appliances",
-    "price": 249.95,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.5,
-      "feedbackCount": 1057
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/407132015191?_skw=sealed+new+kitchenaid+stand+mixer&hash=item5ecaf58a57:g:ItMAAeSwPZVqeNoy",
-    "clusterMedian": 264.97,
-    "spreadPct": 0.057,
-    "marginPct": -0.21,
-    "margin": -58.17,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|165384653323|0",
     "title": "Apple AirPods Pro NEW IN BOX SEALED",
     "category": "Apple Accessories",
@@ -565,7 +542,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnNuFe5nvDd9gETvK6NpWCShTUM7%2B4ZJ1pF3cgBjDSRzrIwguZFP46%2FrOwliaWj7hfOKYAxRrePB3tLV0u4FyO61gkj0rUdLuLhGhlfH0ecDKZI9CJIJmnhZJzCdr%2FxtIIOG0yD2Ncz4bBtu%2B7jc8GvX0IU6RnttugpikkhJp2f1hrfRh%2FfKrqPkqg5wEwE1VB0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnP1%2Bs7KxiDrynHVkbb0egXlM1tkgvfBXgL7kPxR8pF4%2BvmVwaVNU%2BrVtAnUqOMafba%2FfVDKwGzw0qvIr%2B8z6Tmie%2BFnJdQ7SL81LaxmVSmanwR%2FLErhji3lPymY12YFOgpOejShcQseR8zr3u3kNpBQydCz34TucVx40YwGAj%2BizMDnygPJryOIooCO%2FHhYKI4%3D",
     "clusterMedian": 548.0,
     "spreadPct": 0.0,
     "marginPct": -0.222,
@@ -594,6 +571,29 @@
     "marginPct": -0.224,
     "margin": -134.49,
     "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|820020329032|0",
+    "title": "KitchenAid Artisan 5qt Mixer KSM150PSER (Empire Red) Factory Sealed!",
+    "category": "Kitchen Appliances",
+    "price": 279.95,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 245
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/820020329032?_skw=sealed+new+kitchenaid+stand+mixer&hash=itembeed053a48:g:HzcAAOSwCxVhgRDm",
+    "clusterMedian": 289.48,
+    "spreadPct": 0.033,
+    "marginPct": -0.224,
+    "margin": -69.1,
+    "signals": [
+      "best_offer"
+    ],
     "sellerOk": true
   },
   {
@@ -658,6 +658,52 @@
     "margin": -49.22,
     "signals": [],
     "sellerOk": false
+  },
+  {
+    "id": "v1|257689385437|0",
+    "title": "Pokemon 2021 Sword & Shield Fusion Strike #157 FA/Gengar VMAX PSA 10",
+    "category": "Trading Cards",
+    "price": 225.0,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 69
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/257689385437?_skw=PSA+10+graded+pokemon+card&hash=item3bff7bf9dd:g:1NoAAeSwicVqhPmw",
+    "clusterMedian": 232.5,
+    "spreadPct": 0.032,
+    "marginPct": -0.239,
+    "margin": -59.6,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|407132015191|0",
+    "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
+    "category": "Kitchen Appliances",
+    "price": 249.95,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.5,
+      "feedbackCount": 1059
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407132015191?_skw=sealed+new+kitchenaid+stand+mixer&hash=item5ecaf58a57:g:ItMAAeSwPZVqeNoy",
+    "clusterMedian": 254.97,
+    "spreadPct": 0.02,
+    "marginPct": -0.242,
+    "margin": -66.87,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
   },
   {
     "id": "v1|336660658459|0",
@@ -737,7 +783,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 1145
+      "feedbackCount": 1146
     },
     "itemWebUrl": "https://www.ebay.com/itm/117261632869?_skw=sealed+new+milwaukee+tool+combo&hash=item1b4d568565:g:yAMAAeSwripqOEfQ",
     "clusterMedian": 432.47,
@@ -863,6 +909,27 @@
     "sellerOk": false
   },
   {
+    "id": "v1|278281035183|0",
+    "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
+    "category": "Kitchen Appliances",
+    "price": 259.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.6,
+      "feedbackCount": 10446
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/278281035183?_skw=sealed+new+kitchenaid+stand+mixer&hash=item40cad79daf:g:IjYAAeSwtGBqf5~w",
+    "clusterMedian": 254.97,
+    "spreadPct": -0.02,
+    "marginPct": -0.27,
+    "margin": -77.67,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|168408081498|0",
     "title": "Apple Airpods Pro New Sealed In Original Packaging - Free S&H",
     "category": "Apple Accessories",
@@ -924,6 +991,29 @@
     "margin": -61.61,
     "signals": [],
     "sellerOk": false
+  },
+  {
+    "id": "v1|366608108334|0",
+    "title": "KitchenAid Artisan 5qt Mixer KSM150PSER (Empire Red) Brand New Factory Sealed!",
+    "category": "Kitchen Appliances",
+    "price": 299.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 81
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/366608108334?_skw=sealed+new+kitchenaid+stand+mixer&hash=item555b8bcb2e:g:jxcAAeSwU79qgPSk",
+    "clusterMedian": 289.48,
+    "spreadPct": -0.033,
+    "marginPct": -0.272,
+    "margin": -89.58,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
   },
   {
     "id": "v1|178338774560|0",
@@ -1070,7 +1160,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 28
     },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYUgBtNAM5Qx6jdgVOv4SoGYqr6LEw9nn4Ic4Vd%2Bk8nh4O1YDNo1aRigKDKjNBLI1zVjE2F%2Ffm8Xfb3XTek5zkXN3ysJ%2FF8dS48uXLyR0iym1k0671u8yluAImApsT5cONZ5Q19ZgmWhcxQaMjkNBcZmdge7avGnzqXrghs8xw6BNtjmmnuLxgMjybx867yrUU%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYBMsn7IF7bEv4G63xmVi1lreokTkiJwGXJIIprSduhfRwKKE9A7kMNr4J2WcMDwCYrwJXYU5URa9Fes3dpLOECiEc9Tw321tbdG1dmxyYlFygclmlOLAe1tWtLTiM9HitmFBRzamguuv1oN0YFVTEz8FHSYAW9Fbba3DpMnHDrnoV%2Fd0OW0FRC787G%2F5%2BFxoA%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1093,11 +1183,34 @@
       "feedbackPct": 97.5,
       "feedbackCount": 70
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBiAPinkceB4DCa2VMklLRC8cbTTnQS4x%2Fr8Ja5Z1keXFi%2BTXUqSLiBV3RC8tLbErNyPdANdwRb3kBX%2FJhEw0ANphAdNDAuJoRbV7i2ZKxJL8Dr0FD47lGmYsx3Hvu%2FkJC%2B9opNx5TAJtQJd6Q%2BoLxG0AsdCt9PRuqxTJufW4%2BKA391FY0LQ5S9ChkaI7%2FHy8%2FI%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBgN7qX0eyDIvXHJqnK3keLx5SoSo4o%2BwlCOBrg8JnQD98IuS7tepQn1918nfVEwyY1Zxw27rcVfFEb4uD97siBrPmtpCivs1mcudDsLFHd0HK1ZD%2Fbom6OL%2BJi6EfsHS76CNMyNIi%2Bw1f001WcK5bTuyXbqeJJGXUVgZNYzLRfztyUaZPk3mK9j3ue2Cq2XA8U%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
     "margin": -58.95,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|188814043760|0",
+    "title": "Pokemon 2021 Sword & Shield Fusion Strike #157 FA/Gengar VMAX PSA 10",
+    "category": "Trading Cards",
+    "price": 240.0,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 104
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/188814043760?_skw=PSA+10+graded+pokemon+card&hash=item2bf631aa70:g:t2cAAeSwvEZqhO~h",
+    "clusterMedian": 232.5,
+    "spreadPct": -0.032,
+    "marginPct": -0.285,
+    "margin": -75.72,
     "signals": [
       "best_offer"
     ],
@@ -1194,27 +1307,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|278281035183|0",
-    "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
-    "category": "Kitchen Appliances",
-    "price": 279.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 10444
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/278281035183?_skw=sealed+new+kitchenaid+stand+mixer&hash=item40cad79daf:g:IjYAAeSwtGBqf5~w",
-    "clusterMedian": 264.97,
-    "spreadPct": -0.057,
-    "marginPct": -0.293,
-    "margin": -90.47,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|366063452501|0",
     "title": "FACTORY SEALED Nintendo Switch OLED Legend of Zelda Tears of the Kingdom Edition",
     "category": "Consoles",
@@ -1271,7 +1363,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 6727
+      "feedbackCount": 6729
     },
     "itemWebUrl": "https://www.ebay.com/itm/800530650925?_skw=sealed+new+dewalt+drill+kit&hash=itemba6358572d:g:CUMAAeSw2ZtqhMWl",
     "clusterMedian": 133.99,
@@ -1292,7 +1384,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 6727
+      "feedbackCount": 6729
     },
     "itemWebUrl": "https://www.ebay.com/itm/800460227732?_skw=sealed+new+dewalt+drill+kit&hash=itemba5f25c494:g:wBwAAeSwD-lqce02",
     "clusterMedian": 133.99,
@@ -1336,7 +1428,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNypg7Q1pLF%2FI3VRC6xsWaagg8osZtFRkF4R15jVhFCiS4oYwbvzNVlQlA4WGOTj8c41d43A5NbpMblgJL49357kN7%2F27a55zleMoXjRTZAjcxubKyL8vlC15nlMqD1Au6rVW%2B6MPs19PuCU7EckzeSeojCmrqfbCZVvKLfRy5VpNWjeNW8IFDBjlUS07wGWO09c%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1552,9 +1644,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 98.6,
-      "feedbackCount": 2163
+      "feedbackCount": 2164
     },
-    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3IDPqm7QFXBRWpEhLlRNrvX97JK1JhVN177qABnPVCHXrMSWFWlWEo0Eun5%2Bj90T78Qc3xc%2BO66dNzwrJqlXV6M4Hz%2BtIWudaaAbjzXsCQvByArnwL71RvheIDbvhKWbrgtTjDR56BUff24heHpTGCu9no8%2FDBBeexTXkd6ikLh4o3uXil0ZAc9GJwd2d5lN4iY1%2B64L9%2BKAaI6HCrpHQgWI9W5D94jytjvq2cq0US4j035lPRBknDPcsUb6o8jNnLfG9ZhVBP9t6PTBPugRQbgILqmro4p%2FHfhxn7o2bhRT9FDtwFbuXtiFihoptZus%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3IDPqm7QFXBRWpEhLlRNrvX97JK1JhVN177qABnPVCHXrMSWFWlWEo0Eun5%2Bj90T78Qc3xc%2BO66dNzwrJqlXV6M4Hz%2BtIWudaaAbjzXsCQvByArnwL71RvheIDbvhKWZM5yXsU5v0QaQOeUODK4voBIhH00vSPTUwaydb4P9XhB%2BUzyDohJJX1T37RGIHmWsDpcyuYmiA9bOal0sV4H7wmut1wcpJRca5Evf1O%2BehMMtwCUvVKJIayEklFgjW9dMxXGDSwa71dvaANeBx2PBQ3AS4WJzJgonvorImAPwe8SwmXJvQp3oAYaev4ekuob0%3D",
     "clusterMedian": 48.99,
     "spreadPct": 0.082,
     "marginPct": -0.457,
@@ -1598,7 +1690,7 @@
       "feedbackPct": 98.5,
       "feedbackCount": 4114
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe",
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm2Vbqvy0PXQlBnm5S2a7lcaJGCo9UMuQ5vY63fUMdiImrDT3pu%2FIr%2FAphHyWyp1nCDyVJkmONZPpx0%2B6vKd2Um%2BcAysUpiYMrHawuaOeKfmmPbePDyR8dR4Mhvdy31W0ZCTHMSdgPumdss87qORKb6pfUirvkzIdSwiEmUkCPcjfx8Mo%2BzrbQcdSKEfRppCHK8%3D",
     "clusterMedian": 48.99,
     "spreadPct": 0.0,
     "marginPct": -0.495,
@@ -1640,7 +1732,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.6,
-      "feedbackCount": 4813
+      "feedbackCount": 4814
     },
     "itemWebUrl": "https://www.ebay.com/itm/117354994341?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1b52e71aa5:g:IZwAAeSwBXxqfEk1",
     "clusterMedian": 39.99,
@@ -1705,7 +1797,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 2362
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227464780546?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f5f51b02:g:pUEAAeSwEG1qdIJQ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZ45qYCV%2Fgfby5hWKQ22ciTj1DSR82HeJgOQvrGNDIglLZOxbT24HA%2Fx0TwaacnhK63ssNKf1YBDvfHOIgkBDfFwcj6RMnPvf3C8H5%2FCRr%2FvjYDijzBhdXQlbipz4IgeykJafRajyOSJugOVdVKGus4fYzp2JjJtiLir5B%2BBaCllxAkbsJy7B%2F0UwFRCUKIyY%2BJ4BCU%2FhcA%2Fn%2FnXkbOz728Lm2799QLOHWYgSlb8x%2BWvkkzBZL1C6gXseDJQjBdx7uS3tc0zDQWDMPSv265%2FTwg2dcWWIlsNmSsAhBRNKI6yg%2FxhufTxo26rHBA7tSUNz0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/227464780546?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f5f51b02:g:pUEAAeSwEG1qdIJQ",
     "clusterMedian": 39.99,
     "spreadPct": -0.031,
     "marginPct": -0.564,
@@ -1747,7 +1839,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 241
     },
-    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZG1jIwG6Xz2TWNiYpQ6uZGOWWYbpe0yxWO%2BAEfXFqTzEvKISX0m%2F7PsmGYpZeiTJv9AGkbgSmNeQ0uwuYhehoxQ1t2FptcYXkcRG5u3W%2Fv%2FyHPCa8nGNTOuWynxMpO3qnBF%2FafAfjDnF%2FDPgqj6wioysHTZBC77G6ORBU2GdFDvxGPi%2BQs%2BxBdeozIo5ReDE2zH2KTLI%2FLXF3ds5cPP077rOQqhU%2Bx%2FDK9SSmt3M5p2FzYBDsqnT60YKA2TaAiGJN7rJZMoLzeRuwqNePHps8aTP7e%2BZFiD1S9n%2B1bV7wYqLQjguYhxHjuBl%2BD4nHviAM%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZG1jIwG6Xz2TWNiYpQ6uZGOWWYbpe0yxWO%2BAEfXFqTzEvKISX0m%2F7PsmGYpZeiTJv9AGkbgSmNeQ0uwuYhehoxQ1t2FptcYXkcRG5u3W%2Fv%2FyHPCa8nGNTOuWynxMpO3qnYZx2MIz81GkS6GHYpF0K7FDJZ7nqT65ZQ%2Fva4gPSFKH%2BjmRRKJzeakKzCqLTfwj3ZzqhdyWmjmQO8hrZ1%2FAlXmrhytx2ZrsaIGm8Y0vDv2VFHts2vIb8O6BIToWhXL8ObhnGaMdDfchQ71RFLMIvzJOGQGzA7pNnQ0BRSog1AhiMrKIz7lSOBk328RI58i8Y%3D",
     "clusterMedian": 32.5,
     "spreadPct": 0.077,
     "marginPct": -0.596,
@@ -1768,7 +1860,7 @@
       "feedbackPct": 90.9,
       "feedbackCount": 18
     },
-    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBBi3qoSwbtxMRm50uBSp10mk2V1hVX1W7idpYJ5p5atYRElQ7Ky3LlmXwrN7Otr73uWnINFjgMZeYevylEYuqKN1AcBaWlcVUdDDYi00uJY0kmnGuH9pZwCt%2FfpCkRwAq8cXBm4ZMSOfns04ZrmsRmX3cs10K5QZxksT2nz%2BragfqiyJEJQJnqq%2F0XGxaw37sM%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBAgvcPqCQNYmWsFqBINeLkZD6SnaM63UaN4JE5Zggyz2Ye4BiNAVZVX6%2Fs2xsJoVMej7k1V3cf41gwJ3GJCFx%2BXxn0--VNBoPazdxRsSEjfnngi%2Be29jtXyITNkTHK2X4S0N%2F1hCN7cOK2JXrbpdNI1S4jtQ5F%2B29QNZctVhR8PFk1Jt1gwKdzEwLTdZ2RLthc%3D",
     "clusterMedian": 48.99,
     "spreadPct": -0.309,
     "marginPct": -0.602,
@@ -1821,6 +1913,50 @@
     "sellerOk": true
   },
   {
+    "id": "v1|407154502315|0",
+    "title": "Instant Pot 2-Pack Sealing Ring 5 & 6-Qt, Inner Pot Seal Ring, Electric Pressure",
+    "category": "Kitchen Appliances",
+    "price": 24.95,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 2200
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407154502315?_skw=sealed+new+instant+pot&hash=item5ecc4caaab:g:aecAAeSwoAJqhOiO",
+    "clusterMedian": 25.41,
+    "spreadPct": 0.018,
+    "marginPct": -0.71,
+    "margin": -24.71,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|397399172248|0",
+    "title": "Instant Pot 2-Pack Sealing Ring 5 & 6-Qt, Inner Pot Seal Ring, Electric Pressure",
+    "category": "Kitchen Appliances",
+    "price": 25.87,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.7,
+      "feedbackCount": 3676
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/397399172248?_skw=sealed+new+instant+pot&hash=item5c86d62498:g:fUEAAeSwm9NpW2Xb",
+    "clusterMedian": 25.41,
+    "spreadPct": -0.018,
+    "marginPct": -0.718,
+    "margin": -25.7,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|287533100569|0",
     "title": "Instant Pot 2-Pack Seal Rings Inner Pot Ring Electric Pressure Cooker 5 & 6 QT",
     "category": "Kitchen Appliances",
@@ -1854,78 +1990,13 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 2641
+      "feedbackCount": 2642
     },
     "itemWebUrl": "https://www.ebay.com/itm/178116995266?_skw=sealed+new+instant+pot&hash=item297899a8c2:g:HoIAAeSwWtdp~gJQ",
     "clusterMedian": 18.0,
     "spreadPct": -0.056,
     "marginPct": -0.871,
     "margin": -24.77,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|336640787631|0",
-    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6QT",
-    "category": "Kitchen Appliances",
-    "price": 12.29,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 1264
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/336640787631?_skw=sealed+new+instant+pot&hash=item4e615ac4af:g:y88AAeSw9mVqMEWC",
-    "clusterMedian": 12.11,
-    "spreadPct": -0.014,
-    "marginPct": -1.069,
-    "margin": -22.67,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|168054491613|0",
-    "title": "3 Pack Sealing Ring 6 Qt for Instant Pot Sealing Rings Replacement for 5/6Qt ...",
-    "category": "Kitchen Appliances",
-    "price": 11.94,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 2438
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/168054491613?_skw=sealed+new+instant+pot&hash=item2720d409dd:g:9k4AAeSwH8tpWSTi",
-    "clusterMedian": 12.11,
-    "spreadPct": 0.014,
-    "marginPct": -1.07,
-    "margin": -22.3,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|800487110867|0",
-    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
-    "category": "Kitchen Appliances",
-    "price": 12.31,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 8609
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/800487110867?_skw=sealed+new+instant+pot&hash=itemba60bff8d3:g:fVMAAeSwSOpqegZ7",
-    "clusterMedian": 11.99,
-    "spreadPct": -0.027,
-    "marginPct": -1.074,
-    "margin": -22.8,
     "signals": [],
     "sellerOk": true
   },
@@ -1943,31 +2014,10 @@
       "feedbackCount": 231
     },
     "itemWebUrl": "https://www.ebay.com/itm/366527172596?_skw=sealed+new+instant+pot&hash=item5556b8cff4:g:OyYAAeSwte5qTJhs",
-    "clusterMedian": 11.99,
-    "spreadPct": 0.0,
-    "marginPct": -1.075,
-    "margin": -22.46,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|188120443544|0",
-    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
-    "category": "Kitchen Appliances",
-    "price": 11.78,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.4,
-      "feedbackCount": 6764
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
-    "clusterMedian": 11.99,
-    "spreadPct": 0.018,
-    "marginPct": -1.076,
-    "margin": -22.23,
+    "clusterMedian": 11.88,
+    "spreadPct": -0.009,
+    "marginPct": -1.079,
+    "margin": -22.55,
     "signals": [],
     "sellerOk": true
   },
@@ -1982,13 +2032,34 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 9739
+      "feedbackCount": 9742
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSacqvFiwTQ6jI4tqxU51bY6q8WQwMXkDFWo6eDjr8MKJGuqqRuXx26CfrJRPWuO4OmB3bEh6CDZ%2BIUQQNl%2BEm6TSTIxA0iTW8Ha5HcV12GcttItYNl0BerInQXoi1U3fgPOx%2FkjO7H9imoaTx1aPOD118AOXW89wNWKjCCfmQ%2FBJA%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSb%2FjDJcxrdjYNBWagogjYb0cMvR1yCN%2Fz7lTGyzTxGZZeU91vPwA%2B3j5uWyL7eKcJgyl07oDDIFsgXFje7Ai6117w%2ByVRB5LwHaDa9A4Ci64SXU73h0NfzI5rFmdpQAddhxZpcxmAyGZQtyCKT7Nrz8pRHH5b3OcbXTm6L1sVpqNw%3D%3D",
     "clusterMedian": 11.83,
     "spreadPct": -0.056,
     "marginPct": -1.08,
     "margin": -23.13,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|188120443544|0",
+    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
+    "category": "Kitchen Appliances",
+    "price": 11.78,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.4,
+      "feedbackCount": 6767
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
+    "clusterMedian": 11.88,
+    "spreadPct": 0.009,
+    "marginPct": -1.08,
+    "margin": -22.32,
     "signals": [],
     "sellerOk": true
   },
@@ -2005,7 +2076,7 @@
       "feedbackPct": 99.6,
       "feedbackCount": 475
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9ApY9%2BHaZfwXn6lxjUtxk5UQiAz4LmOkp2GPpxUlKvWDp8dmKA82v0osJIplSI2t%2BsCfPbOFi9RM1aot071G8tU4p1VguAXD7HZNIovPpCnNrsfQ6pAfkAOTRCrTuhom8eh33MzBOEdgmElE226kRvtOSOqHecdJ38NVmEdKCW3pA%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9DHKUsCM0i%2FqqMResZz6vtVzIyk5cXf6wkoCa5YyNRSY2V954--GzWbgRpQl3hWyXwxzNObS9hPpufCA3Ruti2zMOKjeJz1haSN5B4mvn5%2FVDxhJkwH6nvPR88HaLv%2BpatqbaZA28NyUbey0JB804ksC02GVQ31prv8wyMaq6Z1VA%3D%3D",
     "clusterMedian": 11.83,
     "spreadPct": 0.0,
     "marginPct": -1.082,
@@ -2024,7 +2095,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 867
+      "feedbackCount": 875
     },
     "itemWebUrl": "https://www.ebay.com/itm/137495432899?_skw=sealed+new+instant+pot&hash=item20035dcec3:g:-XoAAeSwAUpqTlgX",
     "clusterMedian": 11.83,
