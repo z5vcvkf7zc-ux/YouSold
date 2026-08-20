@@ -143,29 +143,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|820025341934|0",
-    "title": "Sony PlayStation 5 PS5 Slim Disc Edition 1TB *FACTORY SEALED*  *FREE SHIPPING",
-    "category": "Consoles",
-    "price": 579.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 95.2,
-      "feedbackCount": 23
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/820025341934?_skw=sealed+new+sony+playstation+5+slim+console&hash=itembeed51b7ee:g:TTAAAeSwHiJqefxN",
-    "clusterMedian": 639.5,
-    "spreadPct": 0.093,
-    "marginPct": -0.138,
-    "margin": -87.13,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
     "id": "v1|224740731432|0",
     "title": "Brand NEW Factory Sealed Microsoft Xbox Series X 1TB Video Game Console - Black",
     "category": "Consoles",
@@ -184,29 +161,6 @@
     "marginPct": -0.139,
     "margin": -113.34,
     "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|313803533770|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console Brand New Sealed",
-    "category": "Consoles",
-    "price": 795.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 2
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/313803533770?_skw=sealed+new+xbox+series+x+console&hash=item491025edca:g:akoAAOSwvUVhw371",
-    "clusterMedian": 865.19,
-    "spreadPct": 0.081,
-    "marginPct": -0.141,
-    "margin": -121.91,
-    "signals": [
-      "best_offer"
-    ],
     "sellerOk": false
   },
   {
@@ -275,29 +229,6 @@
     "margin": -61.48,
     "signals": [
       "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|287535494809|0",
-    "title": "Pokemon TCG: 2024 Gengar Vmax 073 Pokemon Chinese PSA 10",
-    "category": "Trading Cards",
-    "price": 138.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3587
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287535494809?_skw=PSA+10+graded+pokemon+card&hash=item42f2737699:g:O7IAAeSwDqFqhno8",
-    "clusterMedian": 163.99,
-    "spreadPct": 0.152,
-    "marginPct": -0.17,
-    "margin": -26.74,
-    "signals": [
-      "below_cluster"
     ],
     "sellerOk": true
   },
@@ -615,27 +546,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|287535499221|0",
-    "title": "Pokemon TCG: 2024 Gengar Vmax 073 Pokemon Chinese PSA 10",
-    "category": "Trading Cards",
-    "price": 148.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3587
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287535499221?_skw=PSA+10+graded+pokemon+card&hash=item42f27387d5:g:PNgAAeSwiCJqhnuC",
-    "clusterMedian": 163.99,
-    "spreadPct": 0.091,
-    "marginPct": -0.223,
-    "margin": -37.49,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|820020329032|0",
     "title": "KitchenAid Artisan 5qt Mixer KSM150PSER (Empire Red) Factory Sealed!",
     "category": "Kitchen Appliances",
@@ -904,29 +814,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|384532102582|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console - NEW & SEALED - FAST SHIPPING!",
-    "category": "Consoles",
-    "price": 935.38,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 0
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/384532102582?_skw=sealed+new+xbox+series+x+console&hash=item5987e63db6:g:R5cAAOSw5rthn~D4",
-    "clusterMedian": 865.19,
-    "spreadPct": -0.081,
-    "marginPct": -0.269,
-    "margin": -272.82,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
     "id": "v1|278281035183|0",
     "title": "KitchenAid Deluxe 4.5 Quart Tilt-Head Stand Mixer - Empire Red (KSM97ER) Sealed",
     "category": "Kitchen Appliances",
@@ -1042,7 +929,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 84
+      "feedbackCount": 85
     },
     "itemWebUrl": "https://www.ebay.com/itm/366608108334?_skw=sealed+new+kitchenaid+stand+mixer&hash=item555b8bcb2e:g:jxcAAeSwU79qgPSk",
     "clusterMedian": 289.48,
@@ -1243,7 +1130,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 28
     },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYtKUjrSL3NVNwI0NHdCjZp4y7Iz6SYt5ha5yZ5l0syyVZooUu8Q7dAg6NAt1gW6fULDEikLq3XJ4pGK%2FMiJhEIKkJ%2Bfu2ZdDehM4i71vrVKAK2Y5wJxXTacXskkkFbabk30qR5MJGFrZFoccM3VW6ijJoO%2FOCve5N0xufY7w0lt1z%2BF%2BFaLpy7NP7nhwwNM%2BU%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pYNl%2BsO58s1ueoP6Nx6gPXM2xOPPjmXGUs4bS6DjARjpzG0qQa4knSMN7c%2Bmloc%2BrKyZ%2B%2FE5E7Pv%2BhZEsE8%2FWJJgfh9H5bPf9rgBiCL4%2FfOEjLBYSg9yHKwRPO9chbTlCOkc8Y8zU%2Bycs42ZJrQWEYQExBdZr7znhKxeeBC1XLZAj%2BB1dBsIXD00INY0aqYmiA%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1266,7 +1153,7 @@
       "feedbackPct": 97.5,
       "feedbackCount": 70
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBgeVvG2cE4T2HFlKy1ZtW6GwQgGBfCpnRFMkcKJH8GcPqTt06epOFXx4%2B292KnZ%2BMKI%2FUszhHGsmz93j5HEWLaurpwoS7MHTqXPkjMmGAzxAXJlW8CpCGa4qxi9GHoIoFCqL%2Fn2BQmn4jCgL2aVG9dHX%2FGocvmB1acWA%2FhiQywFHdTEl7f3BQRB6O6CwjRjZP4%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBj2vCwj1zggjzHH9bkeMKXVdMb%2FOVLEZu%2BnK6O%2Fq4RGGCL%2BOL%2F8%2BFks5NKUsyMQS2hPgJHZS7UzTakly3pxtwcGp24borYth2uJzB3xoERZT17k3J8puK%2FHn6fbYLu%2FaIIuxMPzCkCSVSo5M5shxpLTcXbhKMLbmGnZvn7b1gHz1hvOQWJwfVTeIVbyAu6NigA%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1275,29 +1162,6 @@
       "best_offer"
     ],
     "sellerOk": true
-  },
-  {
-    "id": "v1|800497634674|0",
-    "title": "Sony PlayStation 5 PS5 Slim Disc Edition 1TB *FACTORY SEALED*  *FREE SHIPPING",
-    "category": "Consoles",
-    "price": 699.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 26
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/800497634674?_skw=sealed+new+sony+playstation+5+slim+console&hash=itemba61608d72:g:T68AAeSwjZxqfKKd",
-    "clusterMedian": 639.5,
-    "spreadPct": -0.093,
-    "marginPct": -0.283,
-    "margin": -215.06,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
   },
   {
     "id": "v1|373904364881|0",
@@ -1335,7 +1199,7 @@
       "feedbackPct": 99.7,
       "feedbackCount": 433
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYvutP0H2zTbBwCVg9V9XwoRwaQG0%2BqxZypxKte6O2ifbfSyt%2BNKAH7n7Ty7aZjWnUvbD9DUP4ykJqfb%2F5PHI7eLC%2F0MUOj3oYqde8QKm%2Byhr4mHayx0q4Jkg%2FKB6kfzXpyJMkCBof%2BBtIOffyeOQKJbm0sNmvStJa%2FEgFkb%2FABzzmB69C1X66fXz64kg7ShLKHPGon5wOxgNvJN%2B7WTv2Mq2SXexblqTzOFxUWSFK2XTaZbM3Zifdgxa2UM%2Fh%2BTv0FsJbDSwGUSRQQKBrVxNOLhhb9kQutjmVKF7GZtVjQDI9TXuZe%2FOeWRyBihXPKoIE%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYvutP0H2zTbBwCVg9V9XwoRwaQG0%2BqxZypxKte6O2ifbfSyt%2BNKAH7n7Ty7aZjWnUvbD9DUP4ykJqfb%2F5PHI7eLC%2F0MUOj3oYqde8QKm%2Byhr4mHayx0q4Jkg%2FKB6kfzXrirmseRifR%2F1E1DS6kOkWhGR8wfsbiojTE%2Fxnys10Qimy29etiUtMGqjV0PtqcY4dyCC5ZCZcEiglszFcNajOfsKl9UGvCizvucSWMPhyH0csWRRFJxehVVMCvblp%2FjK6EiBEYQoDMwHiYsTNHdQCU%2BmuScuEH64RN34QgOXGlEx%2B0ooYYiKTzbGSwmtJzgfM%3D",
     "clusterMedian": 409.5,
     "spreadPct": -0.096,
     "marginPct": -0.298,
@@ -1421,7 +1285,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 3598
+      "feedbackCount": 3599
     },
     "itemWebUrl": "https://www.ebay.com/itm/397847697008?_skw=sealed+new+dewalt+drill+kit&hash=item5ca1921670:g:6dYAAeSwI-5p4UAn",
     "clusterMedian": 164.49,
@@ -1465,7 +1329,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyrFvAVduajLCfx%2FxN4ZNOStsx2CWG95IipX22YoYlpgegTgKWdvthStmj8lm5PurP8c7WpRIPjeLlv0MjRly%2FAj0W5BEKBkM24LtgV1RUOSQEhsv2Lga5V5BYBW3VWtK3MJ59oVh3rRK7pI10C5kgfPrqJkG7gW8PxcQtUNZGftC3nBUXxMugSiQjnwgV2nj7o%3D",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1532,7 +1396,7 @@
       "feedbackPct": 98.6,
       "feedbackCount": 72
     },
-    "itemWebUrl": "https://www.ebay.com/itm/237015625472?_skw=sealed+new+dewalt+drill+kit&hash=item372f3b6f00:g:EpYAAeSwO6xqhR9K&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZypnXeo%2Fio6tjlz%2FOxYLUdofspCp3YFyVF3LEP37%2BGn7D2CL0xLm7RLvpjgOiMS4haplChgXJekv0NV87asD3yYxfyYsntZBN6QwqAweYfqD3jSWUZq6qWCUQp0Hjs%2BKFZt%2B9WFw1n4lJ%2FPEDFWa0g2O%2F6%2BzgC6%2B6hl8C9MyIOdImd2Nuzi25YLtdgJI1C3XSG3yBkQImFh1bBo8HbPbI2HTDQkjEPdymjZY4GDtn2tVg%2Fw2tvS7jU8JVgz7sr2%2B1psQbxubDGsd0MAE0Yy%2BBhrL97VG%2FJz%2ByJm2oak1KdZpuIuVqHBtWP2eN%2F3qQy6Zw%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/237015625472?_skw=sealed+new+dewalt+drill+kit&hash=item372f3b6f00:g:EpYAAeSwO6xqhR9K&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZypnXeo%2Fio6tjlz%2FOxYLUdofspCp3YFyVF3LEP37%2BGn7D2CL0xLm7RLvpjgOiMS4haplChgXJekv0NV87asD3yYxfyYsntZBN6QwqAweYfqD3jSWUZq6qWCUQp0Hjs%2BKFY7YQ7onuAgkqZIKRZQbBYctZIuaafmUt6ypG%2Fb5CnVmiorbAV6Li3u%2F7XDHMopMw8x%2FmCiMBChcBgpSBPpqxF6iJd7vc4jj455oz3Kgf0I3m74PQgypxtavd55Nu9KHLap9ivwZRlYmNyZg%2BmTkmi7eOpFIKPN2w9DlymDaid278hC4HgoYnyIUsrQ0LSPPg%3D",
     "clusterMedian": 137.5,
     "spreadPct": -0.055,
     "marginPct": -0.343,
@@ -1558,27 +1422,6 @@
     "spreadPct": -0.192,
     "marginPct": -0.345,
     "margin": -249.18,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|287535505788|0",
-    "title": "Pokemon TCG: 2024 Gengar Vmax 073 Pokemon Chinese PSA 10",
-    "category": "Trading Cards",
-    "price": 178.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3587
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287535505788?_skw=PSA+10+graded+pokemon+card&hash=item42f273a17c:g:VvUAAeSw7DBqhnw1",
-    "clusterMedian": 163.99,
-    "spreadPct": -0.091,
-    "marginPct": -0.348,
-    "margin": -69.74,
     "signals": [],
     "sellerOk": true
   },
@@ -1692,6 +1535,30 @@
     "sellerOk": false
   },
   {
+    "id": "v1|127893884340|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 44.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.6,
+      "feedbackCount": 2171
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3IDPqm7QFXBRWpEhLlRNrvX97JK1JhVN177qABnPVCHXrMSWFWlWEo0Eun5%2Bj90T78Qc3xc%2BO66dNzwrJqlXV6M4Hz%2BtIWudaaAbjzXsCQvByArnwL71RvheIDbvhKWY%2BZmS2ykIbVvgk%2FPOm9Bqmd54hoD9Xh2ZcCP%2FBH6neFPoPv6CnU7KByQFzhUmwhV1FJ%2Bl0D0WUAw3bKLTxssyV2sfE9zTQEAYRm505YEJtBoxyV4fFMNQgudsVj6MPPIB4ZUNGP3c4sDhWmpftBG4kFYmzZSogQrMHkQtynuEPsVQWK6jadELO5YDfSWGR%2FXQ%3D",
+    "clusterMedian": 51.99,
+    "spreadPct": 0.135,
+    "marginPct": -0.41,
+    "margin": -23.13,
+    "signals": [
+      "below_cluster",
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
     "id": "v1|147513847882|0",
     "title": "Apple AirPods Pro 3 Genuine New Sealed",
     "category": "Apple Accessories",
@@ -1715,27 +1582,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|287535511345|0",
-    "title": "Pokemon TCG: 2024 Gengar Vmax 073 Pokemon Chinese PSA 10",
-    "category": "Trading Cards",
-    "price": 208.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3587
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287535511345?_skw=PSA+10+graded+pokemon+card&hash=item42f273b731:g:ersAAeSwFJZqhnzP",
-    "clusterMedian": 163.99,
-    "spreadPct": -0.274,
-    "marginPct": -0.438,
-    "margin": -101.99,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|318541266609|0",
     "title": "DEWALT DCD805 20V MAX Brushless Hammer Drill Impact Screwdriver Bare Tool Only",
     "category": "Power Tools",
@@ -1748,7 +1594,7 @@
       "feedbackPct": 98.2,
       "feedbackCount": 421
     },
-    "itemWebUrl": "https://www.ebay.com/itm/318541266609?_skw=sealed+new+dewalt+drill+kit&hash=item4a2a89feb1:g:kAMAAeSwKIVqSNXV&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbNsLbPUhQCZY%2FSbVSQ9HazqReocOOoT5ywMZ8jTbrxP6U%2BFJ0glIyjT2mkKKV3pdvuv3zvnmEhuxD5gPZFlV%2BzOXUywBE9PT1U8ncAAUoUwDBg%2ByzpzZ9N5M9RtrtyC7QFs9JqKgGIwnLfJjc1kulCterGgJ7yIBFx7iPLE3KNF2%2BrI7rKiJfTvFUzOXoyVkX2cZfS%2FrsxIWvyjhhiJakwDsYTGGIWETwqBqpewt3kSwsTXYEmjTLLXrppr4%2BayVC%2BF%2BgVcQUeolvq16VcXvm%2Bs9WjmUhm5Mr4K78Qg8f2rLEjRWGIDi1u5ifJKm3ZaCs%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/318541266609?_skw=sealed+new+dewalt+drill+kit&hash=item4a2a89feb1:g:kAMAAeSwKIVqSNXV&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbNsLbPUhQCZY%2FSbVSQ9HazqReocOOoT5ywMZ8jTbrxP6U%2BFJ0glIyjT2mkKKV3pdvuv3zvnmEhuxD5gPZFlV%2BzOXUywBE9PT1U8ncAAUoUwDBg%2ByzpzZ9N5M9RtrtyC7Q2vzbTS6UeM2l4Gh0MRzs4b26FlrQZdWMfbo%2Focp7%2FcHP7d1WXnQDnK0fmQW%2BSJskZxD%2Bs5Jw0msi47GNh81vlVZ9Ti9o8IXKTZuR4FOkFzflghSfbJtFk0wk5zCKfgvaFEbxER%2FmueXnXbs2amYWUMW%2FaI0%2BW56n2D5OhtSlLQkYtB8%2BPKOrzIa%2B7ho8c7O8%3D",
     "clusterMedian": 56.25,
     "spreadPct": 0.031,
     "marginPct": -0.445,
@@ -1780,26 +1626,24 @@
     "sellerOk": true
   },
   {
-    "id": "v1|127893884340|0",
+    "id": "v1|198561014049|0",
     "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
     "category": "Power Tools",
-    "price": 44.99,
+    "price": 48.99,
     "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": true,
+    "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 98.6,
-      "feedbackCount": 2171
+      "feedbackPct": 98.5,
+      "feedbackCount": 4114
     },
-    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3IDPqm7QFXBRWpEhLlRNrvX97JK1JhVN177qABnPVCHXrMSWFWlWEo0Eun5%2Bj90T78Qc3xc%2BO66dNzwrJqlXV6M4Hz%2BtIWudaaAbjzXsCQvByArnwL71RvheIDbvhKWYZN%2FarsJKLA28DLhzXC%2FiUiy1mk42rgamCvsmRPm5z7IVd6QA%2F51s9ABFSlfmD9EUP0Ia6AaK9Gql85X%2FtpckhzHOK5r0y8ACdJLOJaBJab2Ur5e1ry5podG5ZMyoraTX2LVK1CH%2F70ProspAOtGDQoAyfKqSiGGu6xfgafwoXFRSW9Q8jt7oJfbpTJz3pYrQ%3D",
-    "clusterMedian": 48.99,
-    "spreadPct": 0.082,
-    "marginPct": -0.457,
-    "margin": -25.74,
-    "signals": [
-      "best_offer"
-    ],
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe",
+    "clusterMedian": 51.99,
+    "spreadPct": 0.058,
+    "marginPct": -0.452,
+    "margin": -27.43,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -1813,9 +1657,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.2,
-      "feedbackCount": 251
+      "feedbackCount": 252
     },
-    "itemWebUrl": "https://www.ebay.com/itm/377411240301?_skw=sealed+new+dewalt+drill+kit&hash=item57df76816d:g:vMQAAeSw6z1qe7KD&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZxyARjQzv63gDNgKMVBARHkdDuO2lv7geWzE9ukMRH4u%2BE92zghIFL9%2FHpRkf%2FizUWGYQYXyoEUfMaDJF1innBTkDmMgR%2FsDNC%2FbRwEQ%2F8c%2Bkgz78qSKdwzMDTyHVTXHli6Iq0XoUR3GigC%2Byo09fCODX7z58D7RhJC4k%2BbuqvMt6Xy5eYdHomrTy3RRyMdQuOloE%2BocKyAU5VT%2FkD44P8gQm1AtBkO8GqivTSQ99RorVimZ8xKIZy6wt2FxMmGxgcBMU3X%2F99OwYpNMyj20D0s0Oyl9Q47N28ZPQomBn7sLc7%2BUkVbmKBT72hluSh3U8%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/377411240301?_skw=sealed+new+dewalt+drill+kit&hash=item57df76816d:g:vMQAAeSw6z1qe7KD&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZxyARjQzv63gDNgKMVBARHkdDuO2lv7geWzE9ukMRH4u%2BE92zghIFL9%2FHpRkf%2FizUWGYQYXyoEUfMaDJF1innBTkDmMgR%2FsDNC%2FbRwEQ%2F8c%2Bkgz78qSKdwzMDTyHVTXHl%2BV6FvPudF7LsRfhMclxZUlSUI6vHWxgavHYL32KqGcaGufKgCs0%2FK7Skv7zgN6tyokelBX3%2BALK4avTRNIr8ADals%2BRHTfGgsj24%2BvAthRsB%2Bk6J4jputbsxkDoi7dOD2JFGuIjGjMCTa8BmCb6CN9dhSkx6fwkIP3KGV1pej7nkUhW02wedmHp4wGGBY9Fc%3D",
     "clusterMedian": 56.25,
     "spreadPct": -0.031,
     "marginPct": -0.475,
@@ -1845,27 +1689,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|198561014049|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 48.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.5,
-      "feedbackCount": 4114
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe",
-    "clusterMedian": 48.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.495,
-    "margin": -30.04,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|227457872585|0",
     "title": "New Sealed Rethone 3-in-1 Pasta Roller Cutter KitchenAid Stand Mixer Attachment",
     "category": "Kitchen Appliances",
@@ -1887,6 +1710,27 @@
       "below_cluster"
     ],
     "sellerOk": true
+  },
+  {
+    "id": "v1|407136956302|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 54.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 0
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407136956302?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb40ef8e:g:xBMAAeSwd3dqe2CP",
+    "clusterMedian": 51.99,
+    "spreadPct": -0.058,
+    "marginPct": -0.505,
+    "margin": -33.88,
+    "signals": [],
+    "sellerOk": false
   },
   {
     "id": "v1|117354994341|0",
@@ -1973,6 +1817,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|358908009435|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 64.12,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 92.9,
+      "feedbackCount": 24
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBBXxaXpdVQwiVuUfQcuiBIZpdPf18OG%2FZIYbShZW8ri%2F9se5uJ5Gad8wpmdHDmQJ7vUaWFT4QUJVOiSTEYinf655jUSH%2BQOQVfmGc%2F%2BIetcyASSyaTkyeSZdvATAG2PnUaOTVd9ljR%2BH75qyyCw3QO1k%2Bxr377W3IQd55jAAhnXsTHVl4Q0wYDcZlEnuWMQjY0%3D",
+    "clusterMedian": 51.99,
+    "spreadPct": -0.233,
+    "marginPct": -0.568,
+    "margin": -43.7,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
     "id": "v1|127962653598|0",
     "title": "New Sealed Rethone 3-in-1 Pasta Roller Cutter KitchenAid Stand Mixer Attachment",
     "category": "Kitchen Appliances",
@@ -1994,48 +1859,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|358868199852|0",
-    "title": "NEW SEALED Kitchen Aid Pastry Beater Blade + Scraper Stand Mixer 4.5 & 5 Quart",
-    "category": "Kitchen Appliances",
-    "price": 30.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 241
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZG1jIwG6Xz2TWNiYpQ6uZGOWWYbpe0yxWO%2BAEfXFqTzEvKISX0m%2F7PsmGYpZeiTJv9AGkbgSmNeQ0uwuYhehoxQ1t2FptcYXkcRG5u3W%2Fv%2FyHPCa8nGNTOuWynxMpO3ql8bgvNsw8OI7PDlkh3UaAV8js9b%2BMD5nicNrLpWUQP1jIDTTQwMse29BO2fe9X7wjdzP7V6BKnykVK85ZPHOPMjaNFCXAKiWS5v3qxZxnzPmBZAJyaX%2FkxCvwQfhMMCJFLblfrgISlihRsbVlMt5TdevElypAZN6gFWP3BjVOr%2B9S5gpd1UDJxcQZaB%2BRzvco%3D",
-    "clusterMedian": 32.5,
-    "spreadPct": 0.077,
-    "marginPct": -0.596,
-    "margin": -23.98,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|358908009435|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 64.12,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 92.6,
-      "feedbackCount": 23
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBD5FSkJNEIYe5Phb3IjRLCpPtt7X0YRS5kvqwu3%2BvB5jHmzInHemMipoCTZd00qeJBaVF7tu1k92MmmMBqXlCoD%2Fz4iCwD4XWlMyfDhdHUd1I1vpBYPE4y012NVtD2uOFzLhNl9glGKZW5Pu46wDrLDeeWxpfxXYO3ds7MbUTKMRQStMXLwEILfbj%2Bpr6wTYdY%3D",
-    "clusterMedian": 48.99,
-    "spreadPct": -0.309,
-    "marginPct": -0.602,
-    "margin": -46.31,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
     "id": "v1|227390141048|0",
     "title": "New Sealed KitchenAid Stand Mixer Attachment KSMVSA Fresh Prep Slicer/Shredder",
     "category": "Kitchen Appliances",
@@ -2054,29 +1877,6 @@
     "marginPct": -0.613,
     "margin": -31.25,
     "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|235597279952|0",
-    "title": "NEW SEALED Kitchen Aid Pastry Beater Blade + Scraper Stand Mixer 4.5 & 5 Quart",
-    "category": "Kitchen Appliances",
-    "price": 34.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 1677
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/235597279952?_skw=sealed+new+kitchenaid+stand+mixer&hash=item36dab132d0:g:4tMAAOSw~shmYjxW",
-    "clusterMedian": 32.5,
-    "spreadPct": -0.077,
-    "marginPct": -0.643,
-    "margin": -29.34,
-    "signals": [
-      "best_offer"
-    ],
     "sellerOk": true
   },
   {
@@ -2157,7 +1957,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 3510
+      "feedbackCount": 3511
     },
     "itemWebUrl": "https://www.ebay.com/itm/366180146064?_skw=sealed+new+instant+pot&hash=item5542099b90:g:ZSEAAeSwzX1phbgT",
     "clusterMedian": 11.94,
@@ -2178,7 +1978,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 2454
+      "feedbackCount": 2455
     },
     "itemWebUrl": "https://www.ebay.com/itm/168054491613?_skw=sealed+new+instant+pot&hash=item2720d409dd:g:9k4AAeSwH8tpWSTi",
     "clusterMedian": 11.94,
@@ -2201,7 +2001,7 @@
       "feedbackPct": 99.4,
       "feedbackCount": 9769
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl",
+    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSZ5SfIE4WpHHYRuJCir%2Bn3rMuw30QnPhxcem7y8HPpRY6U7iVH%2FL92cHEkMPKPkWMQY9EypqandDiKsyKKBTIrJRnbAgAsF29%2FW0tZt64TtM%2Ft73CZ274MJpqdD78%2FbajDpyYEDXX6CbX66Xx1%2BtcTFYI1KLuOhDE11SZG1RBj4FQ%3D%3D",
     "clusterMedian": 11.41,
     "spreadPct": -0.095,
     "marginPct": -1.097,
@@ -2222,7 +2022,7 @@
       "feedbackPct": 99.6,
       "feedbackCount": 478
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9DU1UqZukgp4VebbLs4L2n25h462RooL0rRYEsgaEHSXlsgE83kTOKs3vkMctHnc%2BkmmRcxDfGZrTqU2fFmjnqfpzwUxqdMHVCIFvbFFKLWVr4x8tfmsgQXlO5KaoxlM%2FbZ2MbWK3WZPy%2Be3VTLH5C3vVm8fcB03IzGG%2FjxrJwyzg%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9B89M3nkWySsTFghFz5TBF5lRByACJob7mSfsbcIhvfdoIlG2G7UKlRkaTyvTKETB%2BP%2Bg606Qz947S9o6vDHIX8JRKoF7jp6g6AZGYn9syImY%2BQ2BF5AgTNpLOVwsEl6Nx8F4KSUrTj9fxQQ5klhE5GhEWeZ0DjYF6csiyAuEChBQ%3D%3D",
     "clusterMedian": 11.41,
     "spreadPct": -0.037,
     "marginPct": -1.1,
