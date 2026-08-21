@@ -268,7 +268,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 193
+      "feedbackCount": 194
     },
     "itemWebUrl": "https://www.ebay.com/itm/318660221019?_skw=sealed+new+nintendo+switch+oled+console&hash=item4a31a1185b:g:kjgAAeSweEtqekJp",
     "clusterMedian": 409.5,
@@ -302,27 +302,6 @@
       "best_offer"
     ],
     "sellerOk": false
-  },
-  {
-    "id": "v1|398298240677|0",
-    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
-    "category": "Power Tools",
-    "price": 414.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 694
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/398298240677?_skw=sealed+new+milwaukee+tool+combo&hash=item5cbc6cd6a5:g:Qt8AAeSwSytqg9Uf",
-    "clusterMedian": 432.47,
-    "spreadPct": 0.04,
-    "marginPct": -0.198,
-    "margin": -89.87,
-    "signals": [],
-    "sellerOk": true
   },
   {
     "id": "v1|157850376447|0",
@@ -605,7 +584,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 3
     },
-    "itemWebUrl": "https://www.ebay.com/itm/128018812283?_skw=sealed+new+dewalt+drill+kit&hash=item1dce840d7b:g:pMcAAeSwU21qeXuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9n3aftYAJhmhSX%2FMbPYx9ahQKedkcvdXz9faff1oX9cuU2tqpIuOVL%2Ff1QB%2Bzgsti9rkb6--3d%2B7JV5EMZkwmhqOzwcHFyVzzqztkPzOpRQ9AtedkUwT%2B%2BSXXC%2FN81JGzTdjMAcZObU%2BsqvxvNssi47XEcdU3Y6uehfC4P07U6pG2EPBv62QoJaVoJaXoPnkcPgOyeRzFFaVeVlzRyVP3KZU2YBuiKt732U9COacVf5msKEYsohg%2BdhzR0aF3meTmkPz%2F1ODUTNh0Q05r8TBzANSH%2F9cRgR1Nr%2BIdGg6dXEJNbCfC9jAPHjIR1WjckkA%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/128018812283?_skw=sealed+new+dewalt+drill+kit&hash=item1dce840d7b:g:pMcAAeSwU21qeXuZ",
     "clusterMedian": 171.99,
     "spreadPct": 0.076,
     "marginPct": -0.231,
@@ -658,6 +637,29 @@
     "sellerOk": false
   },
   {
+    "id": "v1|336749557325|0",
+    "title": "FACTORY SEALED Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
+    "category": "Power Tools",
+    "price": 325.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 45
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/336749557325?_skw=sealed+new+milwaukee+tool+combo&hash=item4e67d6764d:g:cF4AAeSw1uFqUoWX",
+    "clusterMedian": 327.0,
+    "spreadPct": 0.006,
+    "marginPct": -0.238,
+    "margin": -84.88,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
+  },
+  {
     "id": "v1|318633892298|0",
     "title": "DEWALT DCK250QQ2 20V MAX XR Hammer Drill Impact Driver Combo Kit 2x 4Ah Battery",
     "category": "Power Tools",
@@ -698,6 +700,29 @@
     "spreadPct": 0.02,
     "marginPct": -0.242,
     "margin": -66.87,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|278302230438|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
+    "category": "Power Tools",
+    "price": 329.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 355
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/278302230438?_skw=sealed+new+milwaukee+tool+combo&hash=item40cc1b07a6:g:P1MAAeSw04tqiGSF",
+    "clusterMedian": 327.0,
+    "spreadPct": -0.006,
+    "marginPct": -0.247,
+    "margin": -89.19,
     "signals": [
       "best_offer"
     ],
@@ -748,29 +773,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|117261632869|0",
-    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
-    "category": "Power Tools",
-    "price": 449.95,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.7,
-      "feedbackCount": 1147
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/117261632869?_skw=sealed+new+milwaukee+tool+combo&hash=item1b4d568565:g:yAMAAeSwripqOEfQ",
-    "clusterMedian": 432.47,
-    "spreadPct": -0.04,
-    "marginPct": -0.259,
-    "margin": -127.45,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|800417165040|0",
     "title": "DEWALT DCD703F1 XTREME 12V MAX 5-in-1 Brushless Drill/Driver Kit",
     "category": "Power Tools",
@@ -783,7 +785,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 25
     },
-    "itemWebUrl": "https://www.ebay.com/itm/800417165040?_skw=sealed+new+dewalt+drill+kit&hash=itemba5c94aef0:g:y48AAeSw0sdqZ4SG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbY6KOOYvUnDC%2FBrCzManPXDzS1gVWWkGjlJuGyeBbmn%2FmK1Qoe8w5TmYxjNVKIMvNNkNtSc7X3dMc2UFqpJ0G%2B4fKbxNhU3F71oQSgJUJlgy9sI8CvZTUuIfDgjEWQAZnMzVLRbf%2BTuu52q2XRPpk02f2lQixta4b%2BykHy8TwNbyJfAeWMdv%2F4HStBmnDSMXkNDQ45w3EK1SrsalYJyIxp4IdXDL3SfHAtWNImgaYE6JNpByYGEXmcEEl6KeXoGqNM6BOLjRBT0UxNRxWtlLhNKrpnJmjv1%2FY7XG%2FfYtIe33LixAx%2FP3xyORQrq5kXUp8%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/800417165040?_skw=sealed+new+dewalt+drill+kit&hash=itemba5c94aef0:g:y48AAeSw0sdqZ4SG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbY6KOOYvUnDC%2FBrCzManPXDzS1gVWWkGjlJuGyeBbmn%2FmK1Qoe8w5TmYxjNVKIMvNNkNtSc7X3dMc2UFqpJ0G%2B4fKbxNhU3F71oQSgJUJlgy9sI8CvZTUuIfDgjEWQAZl2yRWXzmR7y9HX5gZ9fm5OIUtyhiCAaesUjLUP%2BQbyGoh%2F44mhQa8TOKnU9ol0ev%2FgAqvzrjz94O6ZzbpBkTkttPL8NgY1IOCEzJ0AJvUjg65pswZl0lpHKA%2BhCzKFOvh93wqZGxIwVRmWXfmrV2aDF0IDEysF9ARsfXsfCRCGYL9zOjZSgy44ZZntRhQ5fyc%3D",
     "clusterMedian": 129.72,
     "spreadPct": 0.079,
     "marginPct": -0.261,
@@ -915,7 +917,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.6,
-      "feedbackCount": 10484
+      "feedbackCount": 10485
     },
     "itemWebUrl": "https://www.ebay.com/itm/278281035183?_skw=sealed+new+kitchenaid+stand+mixer&hash=item40cad79daf:g:IjYAAeSwtGBqf5~w",
     "clusterMedian": 254.97,
@@ -1156,7 +1158,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 28
     },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pa0abGei8BqzJ5P7CFwQNpYzKsU11Z5oALcPUaxk0tuI%2BaL0hMXqL6bismUEcEKC8eTUXaTbvnxIfv%2B7KywFsFhgaIZ2UF0QFaqNiHJu43ejabDnBT4AdZHHSvRB4%2FkbpZlCIyyktBoJdJYCaOtC8c8dF5FTp9YFx%2BqDAqi8yHQOhc%2FZnjn76FxTCoa7UuvuNY%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pbXOadGOxFeoHuonW1wX7aviyCdJOxxoXBYqaB7yKzgX2NVZ2zpTxca4ZMlC9rjZjqFbRCYYW1P0WRU2n2QRo2%2BHnq3Ffrp%2F5NnfpU6wenrVQmT2DxeuJC008Jn3J%2FvtQs3LWfipWoFjfjN9yygJmZJoR1CClVFzy3SSRf%2B1fiit7gSBlH17MXB6LsxD3rueMo%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1179,7 +1181,7 @@
       "feedbackPct": 97.5,
       "feedbackCount": 70
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBgkcSKEQo3bYwSE5X0f4i9EsjFS%2BRaOEd4kEGwCKXfCGhAde%2FiYcv8si760XzsWiqRzte3LCzdBOnAauEYIacb1vD%2BPDltQ%2Bbz33FC84JnJ2QG%2FUmGeTzb%2BqO%2B2mRNj6qHzacuA0JGy1Wr5Egh7DBlB7dq3UiEh9B7Jcd%2BdXMFaepHdD%2BZ9ljZZrO%2FdjiJP6nY%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBirkYWCYgdve8EMN7Hj7Tr5QpF7ITmWE5QIJ8gzlNN%2B7kxm%2FWtsppFmOfeRUwXRQb319zPtR4FHZFskIdmFzaIozvXpZnVJpRs9jInN%2FaGMCayx94DNefEoF2Rqiyxs%2FSVwC4Un9k23hsnRATdGZXTRe9yxWjUQF0ahp4nZdSuhf3jMqgdMCh4RTWLpSCXzmao%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1378,7 +1380,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyp2r%2FVW8kObibCsKO3OAsSvwHj0hZNOrShHhcS2C3MWmbMPmm2XsTMF9tbTDYa3OY606fiMgV8CsgHdHsSGZIxEjSPIAcxK7ZytyT5%2B%2Bssy3dJfixTtZFMC1Xb58EoNe%2Fx1Kd12pnFZO1CmKqE2NCz7B%2F8pBzfP1VljCKgrJRgxQV1RfjFnBzkMpUmjj1%2Fet4U%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1445,7 +1447,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 4
     },
-    "itemWebUrl": "https://www.ebay.com/itm/800536671150?_skw=sealed+new+dewalt+drill+kit&hash=itemba63b433ae:g:S9UAAeSwu3ZqhjXC",
+    "itemWebUrl": "https://www.ebay.com/itm/800536671150?_skw=sealed+new+dewalt+drill+kit&hash=itemba63b433ae:g:S9UAAeSwu3ZqhjXC&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYNwMbiDRQbRvRB50FdfZhzP8kit7QZ93xjdp26R6iKSCxD8w2Tf0ZiVEe4Dek70z2jsBTNY--SlRsn3C1489BJ5QP2Jpf1BsZ%2BOVB1GXuGq7qOaNm1bN3wmJFpDp%2Fjet0538fGW9%2Blt%2FkewPjQqa6bYNORH2v2K8fBTcfBgfka7Mos4iI7%2FPFnkKJObwY0thJ9qVl%2BMsZIxNdxGaaoRUjBWAUX8hMGBwAnktC0SC0y10Ri%2FT2sYR%2BrProFqTmG3r2R2BTy5TBS4LLGmJJ2xQZ2RF%2FNq1A8vzCVcYHJ2F4%2F0C3p6kqbzkwfdtpoYKjSFWY%3D",
     "clusterMedian": 171.99,
     "spreadPct": -0.076,
     "marginPct": -0.335,
@@ -1531,7 +1533,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 144
+      "feedbackCount": 145
     },
     "itemWebUrl": "https://www.ebay.com/itm/407111564152?_skw=sealed+new+kitchenaid+stand+mixer&hash=item5ec9bd7b78:g:EKsAAeSwlslqbS8Q",
     "clusterMedian": 66.99,
@@ -1556,7 +1558,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 16
     },
-    "itemWebUrl": "https://www.ebay.com/itm/178352197523?_skw=sealed+new+dewalt+drill+kit&hash=item29869e8f93:g:EcIAAeSwRydqaf4o&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbxiXiRU1ego%2BaIvKHQlyAXuQmqT0XmbWnGL72QMTXTdUpNpZnNuM%2FBJ7Pc5Mu7LoS9c%2Fm6UGWZ1at%2FdssnEth%2FrEAvQQloF%2BecBYGDhz5f6%2BZDesSvA3UCog49R544SLv%2B0vixtFyQ7DTT7MDxi%2Fy6mHvitRw0F8P6m4U%2FcQOheic9nrDk8CmJoyuThBMbopnRJkTwN09kt9RpGXuhwBzrTV5gurYzBENciJmx8CCWyJZ1VoCz6161hpAzw37If%2BH8tNVjfvD%2Btiv2hKdeaDqnIskG%2FfQLHvVuo7XxuwYzMPXIi69hW0ubSfKB8je68G0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/178352197523?_skw=sealed+new+dewalt+drill+kit&hash=item29869e8f93:g:EcIAAeSwRydqaf4o&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbxiXiRU1ego%2BaIvKHQlyAXuQmqT0XmbWnGL72QMTXTdUpNpZnNuM%2FBJ7Pc5Mu7LoS9c%2Fm6UGWZ1at%2FdssnEth%2FrEAvQQloF%2BecBYGDhz5f6%2BZDesSvA3UCog49R544SLsqY5gXDXsGra8ZFZoYYUVI3c0YcZVoIj0wIkKnfJ8ZVPotgz23S28bdmAR8JH8JAdGRhJpXC%2F6Fu%2FO31SsChI%2FOHuwu04l9G25%2Fl3R6%2F6m4Wnv29yuUhcBp7si0JrrcexH6ck13Ot7THgba7RoCaHqyDX28ZsAAz%2B4N6pkwrDkurPMCfU--m%2BhM2D1qrT1WdY%3D",
     "clusterMedian": 129.72,
     "spreadPct": -0.079,
     "marginPct": -0.363,
@@ -1590,52 +1592,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|800533507739|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 43.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.5,
-      "feedbackCount": 773
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/800533507739?_skw=sealed+new+dewalt+drill+kit&hash=itemba6383ee9b:g:3tMAAeSwxB9qhXvm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYkEOZH5qtz5M7gpHcKP4lyY5UxyVnmeGgOqxUtTVau6W%2FXlz1jDuzY%2Fc9hXsTt1UszhhzMPJGPOf1FcoQnlLdCuBpnH2L2rJVbDG1BKunjk%2BKLrCD%2B73Yhig0saOysI6YcNqXzuN3Zp%2FmiWLz5Yc2yV5jKREvDCtZGDPXUjV9sHP9%2FCcxJ7%2FfmRgfJcZMvjGxijACNYx08dOdbqGmQwN%2FGNvmpxviLTd3Sy30bY2QDARVyrfntTWz3msbldmJP%2BO2xZcswmnOyhm5V41njLHyA3lzuEITyaHtvO6b0X6bXuCZg%2B09mf1w2c0EFEh6L2Ys%3D",
-    "clusterMedian": 48.99,
-    "spreadPct": 0.102,
-    "marginPct": -0.446,
-    "margin": -24.67,
-    "signals": [
-      "below_cluster"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|127893884340|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 44.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.6,
-      "feedbackCount": 2171
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3IDPqm7QFXBRWpEhLlRNrvX97JK1JhVN177qABnPVCHXrMSWFWlWEo0Eun5%2Bj90T78Qc3xc%2BO66dNzwrJqlXV6M4Hz%2BtIWudaaAbjzXsCQvByArnwL71RvheIDbvhKWbMd4CBofsCteTuiBWk0kJUAnT412u%2BELUASEbd76GlgCbDAXVZHmcVMqg7ISevmi0GKNeTiRxAfdbkJXBppEhLVDYvwbuGqppnBHkUMnbXJx6VrADvfe4HhU5MrXz877nwYtQ%2B80Nt%2FTFIpnBYldJoOk%2B9ad5Glnq3ZCH38sat9FWmMW8fvqubtPZUF%2FU78XY%3D",
-    "clusterMedian": 48.99,
-    "spreadPct": 0.082,
-    "marginPct": -0.457,
-    "margin": -25.74,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|188478347798|0",
     "title": "KitchenAid Sifter + Scale Stand Mixer Attachment - Brand New Sealed In Box",
     "category": "Kitchen Appliances",
@@ -1653,6 +1609,27 @@
     "spreadPct": -0.104,
     "marginPct": -0.471,
     "margin": -41.26,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|800533507739|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 43.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.5,
+      "feedbackCount": 773
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/800533507739?_skw=sealed+new+dewalt+drill+kit&hash=itemba6383ee9b:g:3tMAAeSwxB9qhXvm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYkEOZH5qtz5M7gpHcKP4lyY5UxyVnmeGgOqxUtTVau6W%2FXlz1jDuzY%2Fc9hXsTt1UszhhzMPJGPOf1FcoQnlLdCuBpnH2L2rJVbDG1BKunjk%2BKLrCD%2B73Yhig0saOysI6bUMOXOlezCP3HaKe%2Bt2siAlBJ5k47H2zpldgXpEPTZoIcNJaZpT1GRTnj5riKDoAttRMAGQmQwPsdjKlyPd%2FHJ3u%2B8GgNvUD8f%2FV0GnJGwfKtpd%2Fm9iYeloOjB54fb5NR%2BFKz2BflBRX0gZ%2Bvo65%2Fbc0u%2BThAqmupLgLqyC82G3n%2Bjfy5p5z96LCmIMt6e7Fw%3D",
+    "clusterMedian": 46.99,
+    "spreadPct": 0.064,
+    "marginPct": -0.478,
+    "margin": -26.41,
     "signals": [],
     "sellerOk": true
   },
@@ -1678,24 +1655,26 @@
     "sellerOk": false
   },
   {
-    "id": "v1|198561014049|0",
+    "id": "v1|127893884340|0",
     "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
     "category": "Power Tools",
-    "price": 48.99,
+    "price": 44.99,
     "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": false,
+    "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 98.5,
-      "feedbackCount": 4114
+      "feedbackPct": 98.6,
+      "feedbackCount": 2171
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe",
-    "clusterMedian": 48.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.495,
-    "margin": -30.04,
-    "signals": [],
+    "itemWebUrl": "https://www.ebay.com/itm/127893884340?_skw=sealed+new+dewalt+drill+kit&hash=item1dc711cdb4:g:680AAeSwKkRqGwjM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3IDPqm7QFXBRWpEhLlRNrvX97JK1JhVN177qABnPVCHXrMSWFWlWEo0Eun5%2Bj90T78Qc3xc%2BO66dNzwrJqlXV6M4Hz%2BtIWudaaAbjzXsCQvByArnwL71RvheIDbvhKWY2r0S81hrIrxUWUzm8hDmZ8zE7LgeWbEf9%2FaXT6d1Mh86cTu%2FL7cTzz6LCkL3C5QWgrx22nF5%2BS%2B%2BFw%2Bq3zBTyC3bg6ZS9SgMPXPLrkQRGOVkfqkfiJt9Bl36Z7mwdMjX8LzZUuyTnLAccRJGbDCYSqjWNc272B%2BqN3mXHQsYhIHu1ZfcyBmM9VO93jFeClnA%3D",
+    "clusterMedian": 46.99,
+    "spreadPct": 0.043,
+    "marginPct": -0.488,
+    "margin": -27.48,
+    "signals": [
+      "best_offer"
+    ],
     "sellerOk": true
   },
   {
@@ -1722,6 +1701,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|198561014049|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 48.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.5,
+      "feedbackCount": 4114
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe",
+    "clusterMedian": 46.99,
+    "spreadPct": -0.043,
+    "marginPct": -0.524,
+    "margin": -31.78,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|117354994341|0",
     "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
     "category": "Kitchen Appliances",
@@ -1741,27 +1741,6 @@
     "margin": -26.85,
     "signals": [],
     "sellerOk": true
-  },
-  {
-    "id": "v1|407136956302|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 54.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 0
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/407136956302?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb40ef8e:g:xBMAAeSwd3dqe2CP",
-    "clusterMedian": 48.99,
-    "spreadPct": -0.122,
-    "marginPct": -0.544,
-    "margin": -36.49,
-    "signals": [],
-    "sellerOk": false
   },
   {
     "id": "v1|267140327301|0",
@@ -1827,6 +1806,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|407136956302|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 54.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 0
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407136956302?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb40ef8e:g:xBMAAeSwd3dqe2CP",
+    "clusterMedian": 46.99,
+    "spreadPct": -0.17,
+    "marginPct": -0.57,
+    "margin": -38.23,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
     "id": "v1|127962653598|0",
     "title": "New Sealed Rethone 3-in-1 Pasta Roller Cutter KitchenAid Stand Mixer Attachment",
     "category": "Kitchen Appliances",
@@ -1860,34 +1860,13 @@
       "feedbackPct": 100.0,
       "feedbackCount": 241
     },
-    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZG1jIwG6Xz2TWNiYpQ6uZGOWWYbpe0yxWO%2BAEfXFqTzEvKISX0m%2F7PsmGYpZeiTJv9AGkbgSmNeQ0uwuYhehoxQ1t2FptcYXkcRG5u3W%2Fv%2FyHPCa8nGNTOuWynxMpO3qmNZM5EMk0K7fEsbCkr7%2B6xhckurGHiesWP5Ro0YY7Nehgh9EVQjs07w1Y2dalHPOgUlzPD63DA7qj0h45HFRftjPCyUMLInFtpntEH0QYVyn4Qi3XUdD7a5e3xQY1M%2F4uYCdl55tw%2FDhWxHha4lTBpd%2FzrTl8M1zArnIRpiK3lquCEPR5hdmMMl6inbKTid1E%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZG1jIwG6Xz2TWNiYpQ6uZGOWWYbpe0yxWO%2BAEfXFqTzEvKISX0m%2F7PsmGYpZeiTJv9AGkbgSmNeQ0uwuYhehoxQ1t2FptcYXkcRG5u3W%2Fv%2FyHPCa8nGNTOuWynxMpO3qlCkiu7RVJWgVfKiOnImSYl9jW3EcVeqs4trwVLSUz43WgzGIeZujaYJdeVameyRU1By7yd%2FyqiOotixCTBjoxho%2BX1HNZ7chY3OeNtO40iyMl4kLZMDC96KFCafYFIopZRWsmSJl6xhTKf1q0opWUEVhUEntlPTkQ4ki3nUpfa0hk1bKX6KnkArOBqJB6IS4c%3D",
     "clusterMedian": 32.5,
     "spreadPct": 0.077,
     "marginPct": -0.596,
     "margin": -23.98,
     "signals": [],
     "sellerOk": true
-  },
-  {
-    "id": "v1|358908009435|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 64.12,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 93.5,
-      "feedbackCount": 27
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/358908009435?_skw=sealed+new+dewalt+drill+kit&hash=item5390959bdb:g:1IkAAeSwOk1qcJOB&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcd5hh%2Fq2ROrK78dDlWg%2FW3%2FvnOTclyFCM8x3gUNWL6Ps4jyyL2HuOjbHvB07TxaH0XwIOwOaPgwVZm%2FCDDnkbOljvxTiBgAVfULREpUViLgkoDBIkZovlbcSgA41feBDfkEicXLSRRBgNcWxN4kOq7Qcut1fxpm9W7%2B4VhCCGXOLkXW%2Bapnh0soo0Jy3B5oVSnBYHBQZKWKrjEdYO5VLP9vp8RRAzcXFJ3%2Fzrsi7XpytJFlA7baj7xgua7x1Qme2HU4vTZTHcfE9UlbmESJNzQ3fxbbURaYJJgNbgK5gjXJgS7zUrVpoZvVU3Cxv8h7c%3D",
-    "clusterMedian": 48.99,
-    "spreadPct": -0.309,
-    "marginPct": -0.602,
-    "margin": -46.31,
-    "signals": [],
-    "sellerOk": false
   },
   {
     "id": "v1|227390141048|0",
@@ -1944,7 +1923,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 6920
+      "feedbackCount": 6924
     },
     "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
     "clusterMedian": 14.88,
@@ -1967,9 +1946,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 4415
+      "feedbackCount": 4417
     },
-    "itemWebUrl": "https://www.ebay.com/itm/377314003431?_skw=sealed+new+instant+pot&hash=item57d9aac9e7:g:GK8AAeSwEJNqRy3B&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYRXYAhmLmMuZmfv8fkJJZxkpUh2ZKqKTZP2ibNZex8H5YHbDjBubD%2B6UOJRizKtUHkB6dB2af%2FLbQohQtkKwHaUOduO9mw2x5sqYILgUr7oMO1DUCetUyKHfGoQ%2BatqHsAMqF%2FHJKvP%2BoIbqXDOG7g8wl59cwOU974E1Ou3pSMo%2B5mP07Hfawa%2BvX8XsjgkJcx8A0gIk2vWzpPVHCVEjrVOCFad8%2FyG4yCYBr1enoSZs%2FPlkAwibt87XmO8yp6SQFWMcayDMbcERhW0mwt8eawwcuiDEtLx1K%2B8c9aP4JHZA%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/377314003431?_skw=sealed+new+instant+pot&hash=item57d9aac9e7:g:GK8AAeSwEJNqRy3B&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYRXYAhmLmMuZmfv8fkJJZxkpUh2ZKqKTZP2ibNZex8H5YHbDjBubD%2B6UOJRizKtUHkB6dB2af%2FLbQohQtkKwHaUOduO9mw2x5sqYILgUr7oMO1DUCetUyKHfGoQ%2BatqHs3aCfRRO2P1T6PxsEIBYhxvPzUFf6uNBUm3WKq54%2FB%2FrNgxghzZb0xHfPi0jPlMnGam0Dd1u%2FSu2egfaiWYJLp8vbNqv1OgwFrTZm6ux5ZOpnQzWVqxa0DtF%2Bx1Qq6qYrsWcvUmhUz8KaCIyDJ5GgL0D0VIj2S%2FWnKtxyl%2Fd3viw%3D%3D",
     "clusterMedian": 14.88,
     "spreadPct": -0.209,
     "marginPct": -0.965,
@@ -1988,7 +1967,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 1288
+      "feedbackCount": 1289
     },
     "itemWebUrl": "https://www.ebay.com/itm/336640787631?_skw=sealed+new+instant+pot&hash=item4e615ac4af:g:y88AAeSw9mVqMEWC",
     "clusterMedian": 12.11,
@@ -2011,7 +1990,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 3533
+      "feedbackCount": 3537
     },
     "itemWebUrl": "https://www.ebay.com/itm/366180146064?_skw=sealed+new+instant+pot&hash=item5542099b90:g:ZSEAAeSwzX1phbgT",
     "clusterMedian": 12.11,
@@ -2032,9 +2011,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 9794
+      "feedbackCount": 9795
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSakcb9ch0e%2BcLX%2BIJm4xsHbZfKKyBK5ojVvLbQxSjtMRQOIdXKcADTvbGE5pd0iivG8gNr2IrTZhGi4GVD1CWo0qQ0Top6MNGAs25YEtcgRvtz%2FVM%2BY7tU0%2BPo8OhkOFO7YqrZSBkEWn6T6N9jxPZ9b9xCpQVdQ75T8Mze%2FNXdSvQ%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSaQLskzCH5W9qtbAwxRD5EZNJ6IhGUdKpZjbt%2B9nQhVDwwsEY0nzSLMBZGIzIjXR5rNte6MUUQRg8S666XOnmwVMGrXmVcX8KmGGIf642UTevGpKyBGfvXtVm8EI6tLMTHmTCsQBpcfKx%2B93cpRVvCK0O35J9PPt4S72p6FoZI5fA%3D%3D",
     "clusterMedian": 11.41,
     "spreadPct": -0.095,
     "marginPct": -1.097,
@@ -2055,7 +2034,7 @@
       "feedbackPct": 99.6,
       "feedbackCount": 483
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9DA3dumqiG826Y2EVE5Tt0hJhZv6HHoONmS0fkFUOc1JAvAItMKEAmoipTvrEqrhfGIwnNDlpX2G5f7za9WWxjxXUnFdxHEbUkgN8U6IfAfYLjxxq5YeZGQOtSqyWaRlVt4JdTmB1KwMEIto9xyBVaDspiQZnCHDFohJG69dl%2BiBg%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366212815389?_skw=sealed+new+instant+pot&hash=item5543fc1a1d:g:NM8AAeSw71Npluhn&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbHIu4eZlw8ItS2isIdQY0dlhWLaZQ7fMGFm%2FAN3haUTE5VYGHeRDjh08HbIztmeXXrxL8GU0cER21Vw158Fn%2F40mjHaTZw%2BXtU5gkblxRM%2FZYha0ZwqNTNfZlifg9Zo9B%2BK0MHbzSq5sHuhmgB2HQBC1K2pE5wbxQsl6NpLPCrhIwnlcukHtnRkouk9hye1YPkaS%2Fv9LORjTkvic7h7wk5NW3ab5fuzT43stbRwrXSkvtTh6t9tp6arBFIdLzXusWN5F03SbSPhrfGrJyv6GZE0dhllIa%2F2BUgfkqFk6bEnA%3D%3D",
     "clusterMedian": 11.41,
     "spreadPct": -0.037,
     "marginPct": -1.1,
@@ -2095,7 +2074,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 913
+      "feedbackCount": 915
     },
     "itemWebUrl": "https://www.ebay.com/itm/137495432899?_skw=sealed+new+instant+pot&hash=item20035dcec3:g:-XoAAeSwAUpqTlgX",
     "clusterMedian": 11.41,
@@ -2105,6 +2084,48 @@
     "signals": [
       "below_cluster"
     ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|406965618192|0",
+    "title": "2Pack Sealing Ring 3 Quart for Instant Pot, BPAFree Sealing Ring Replacement ...",
+    "category": "Kitchen Appliances",
+    "price": 8.25,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 944
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/406965618192?_skw=sealed+new+instant+pot&hash=item5ec10a8610:g:PDIAAeSw-BlqHUMj",
+    "clusterMedian": 8.2,
+    "spreadPct": -0.006,
+    "marginPct": -1.288,
+    "margin": -21.73,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|377418438093|0",
+    "title": "2Pack Sealing Ring 3 Quart for Instant Pot, BPAFree Sealing Ring Replacement ...",
+    "category": "Kitchen Appliances",
+    "price": 8.15,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 85
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/377418438093?_skw=sealed+new+instant+pot&hash=item57dfe455cd:g:Na4AAeSwUcpqfz3y",
+    "clusterMedian": 8.2,
+    "spreadPct": 0.006,
+    "marginPct": -1.29,
+    "margin": -21.63,
+    "signals": [],
     "sellerOk": true
   }
 ]
