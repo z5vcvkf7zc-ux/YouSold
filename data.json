@@ -152,7 +152,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 14960
+      "feedbackCount": 14964
     },
     "itemWebUrl": "https://www.ebay.com/itm/158162213071?_skw=sealed+new+xbox+series+x+console&hash=item24d333d8cf:g:4VYAAeSwdUJqdUUH",
     "clusterMedian": 1747.49,
@@ -266,7 +266,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 39470
+      "feedbackCount": 39471
     },
     "itemWebUrl": "https://www.ebay.com/itm/185674820082?_skw=sealed+new+milwaukee+tool+combo&hash=item2b3b14e9f2:g:mWIAAeSwUpBo~E-K",
     "clusterMedian": 373.99,
@@ -557,7 +557,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPRaeO25GwvkngYoCayMBPqrpC9WUWi8Y4hP0PaF6%2F%2B4auSfNR4I0P2HZ2EiSBVN792tIACrizk7nKelejmau0aqP%2BSrpRwm8OjYO2FyMeOjNGOkdO4MJiFmMbkuQuDlPwtWVznEdYWjzieF2yVbOx6pGTv3--8bwPq5sPoBRLqIRLYSGXxp0eT5cyT6g9%2FYu8%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPWQOqggyhCW1lXN%2FT5uHbn01IiqzTTG9Bk%2BvAUzJpyhxl4IJvnt764Nib75%2Fmc0gtMASKE%2BeFTJF2QFquZgvkjF2npEq4h5JdVWxtGnbEXSO3hNWjzXM6gPRwMSstkxvfw7ZOjyEM7QDJVu4hGwd1pdGMH04xBoXM7LeSJ021q%2FiA0xILFCjI1mwlIdxDLF0M%3D",
     "clusterMedian": 549.0,
     "spreadPct": 0.002,
     "marginPct": -0.22,
@@ -654,6 +654,50 @@
     "sellerOk": false
   },
   {
+    "id": "v1|227483438775|0",
+    "title": "DEWALT DCK250QQ2 20V MAX XR Hammer Drill Impact Driver Combo Kit 2x 4Ah Battery",
+    "category": "Power Tools",
+    "price": 298.98,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1367
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/227483438775?_skw=sealed+new+dewalt+drill+kit&hash=item34f711ceb7:g:XzAAAeSwR8JqhoFM",
+    "clusterMedian": 299.37,
+    "spreadPct": 0.001,
+    "marginPct": -0.246,
+    "margin": -80.96,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|318633892298|0",
+    "title": "DEWALT DCK250QQ2 20V MAX XR Hammer Drill Impact Driver Combo Kit 2x 4Ah Battery",
+    "category": "Power Tools",
+    "price": 299.75,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.4,
+      "feedbackCount": 171
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/318633892298?_skw=sealed+new+dewalt+drill+kit&hash=item4a300f59ca:g:soEAAeSwWEBqZJCx",
+    "clusterMedian": 299.37,
+    "spreadPct": -0.001,
+    "marginPct": -0.248,
+    "margin": -81.78,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
     "id": "v1|185115551116|0",
     "title": "apple airpods pro new in box sealed",
     "category": "Apple Accessories",
@@ -689,7 +733,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 292
     },
-    "itemWebUrl": "https://www.ebay.com/itm/147494039781?_skw=sealed+new+instant+pot&hash=item22575470e5:g:mWAAAeSw4vtqeQHt&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb0S4H2mwBSV0qyP6CPAvjvOfQldRn5UpMqjgLlxIbboA93LRGyTMs5knrZQ7ZHgfHwzdFX4i1BHWRQL%2FzhwpRjwFXulndNs0ARIN4hHUUt5csyzxr8KkVswCUZTMWCQOc2VsV6c6r%2B2qpfXh9Q5PGTmy7pRX1UFGfDXPJ0QiN59rJEud6XfhBw7BXCs2SUXZajDh%2Bi0Z17JuT%2Bh0RlYzlOr2Z0Km7fY5lJqhCijBq0AgGvMgj8t7pHJZqG%2BM%2BhFlrUW0cHlleYK0r%2FENQ23kgkqvPfY9idKkPqreB1JJSX3Q%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/147494039781?_skw=sealed+new+instant+pot&hash=item22575470e5:g:mWAAAeSw4vtqeQHt&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb0S4H2mwBSV0qyP6CPAvjvOfQldRn5UpMqjgLlxIbboA93LRGyTMs5knrZQ7ZHgfHwzdFX4i1BHWRQL%2FzhwpRjwFXulndNs0ARIN4hHUUt5csyzxr8KkVswCUZTMWCQOepgu7735%2BvWLmMtNX8CzAwAqKWmtf0cfokjvx2ahirnjIth79yiK2rcqplrU69UNgKnVAVKAULr0e06m2JeIqXUEv94BDciLSy2RwSaJ2N1G9nM5FngBbe%2Fckc%2BySXx%2FHW8psvEifiGlIdi%2Fc5hm5JzwrlJjL%2FoBwWxqHwenvCLA%3D%3D",
     "clusterMedian": 195.0,
     "spreadPct": 0.026,
     "marginPct": -0.257,
@@ -731,7 +775,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 6799
+      "feedbackCount": 6800
     },
     "itemWebUrl": "https://www.ebay.com/itm/800533919419?_skw=sealed+new+milwaukee+tool+combo&hash=itemba638a36bb:g:Q7UAAeSwbS9qhZRB",
     "clusterMedian": 471.5,
@@ -805,6 +849,75 @@
     "spreadPct": 0.0,
     "marginPct": -0.263,
     "margin": -67.15,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|237028238191|0",
+    "title": "Pokemon Ascended Heroes Mega Gengar EX Mega Attack Rare #269 PSA 10 GEM MINT",
+    "category": "Trading Cards",
+    "price": 219.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 610
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/237028238191?_skw=PSA+10+graded+pokemon+card&hash=item372ffbe36f:g:KgEAAeSwoxhqjOl-",
+    "clusterMedian": 219.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.266,
+    "margin": -65.1,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|147525280221|0",
+    "title": "Pokemon Ascended Heroes Mega Gengar EX Mega Attack Rare #269 PSA 10 GEM MINT",
+    "category": "Trading Cards",
+    "price": 219.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 133
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/147525280221?_skw=PSA+10+graded+pokemon+card&hash=item22593121dd:g:AsoAAeSwiOxqjPTs",
+    "clusterMedian": 219.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.266,
+    "margin": -65.1,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|147525285462|0",
+    "title": "Pokemon Ascended Heroes Mega Gengar EX Mega Attack Rare #269 PSA 10 GEM MINT",
+    "category": "Trading Cards",
+    "price": 219.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 133
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/147525285462?_skw=PSA+10+graded+pokemon+card&hash=item2259313656:g:C7EAAeSwpN5qjPbv",
+    "clusterMedian": 219.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.266,
+    "margin": -65.1,
     "signals": [
       "best_offer"
     ],
@@ -916,27 +1029,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|225143228820|0",
-    "title": "apple airpods pro brand new sealed",
-    "category": "Apple Accessories",
-    "price": 200.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 4
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/225143228820?_skw=sealed+new+airpods+pro&hash=item346b950994:g:C5MAAOSwpnpjD52F",
-    "clusterMedian": 200.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.274,
-    "margin": -61.0,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
     "id": "v1|366586690478|0",
     "title": "Apple AirPods Pro 3 Brand New Sealed",
     "category": "Apple Accessories",
@@ -957,6 +1049,27 @@
     "signals": [
       "best_offer"
     ],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|225143228820|0",
+    "title": "apple airpods pro brand new sealed",
+    "category": "Apple Accessories",
+    "price": 200.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 4
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/225143228820?_skw=sealed+new+airpods+pro&hash=item346b950994:g:C5MAAOSwpnpjD52F",
+    "clusterMedian": 200.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.274,
+    "margin": -61.0,
+    "signals": [],
     "sellerOk": false
   },
   {
@@ -1039,7 +1152,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 30
     },
-    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pbNC38PMYDSDg3FPzUXrTMAnZDCGM3qOZt9pGqvWNSVbRGYu0MTG1EkPEwaqrYRkk%2BTPXD7sCgrpk0mOWHwkysa6RrZCDh54sctE%2BDx6VCgWf4bj5pL3HNlSuTydmFOg8zyzDVcSUQBXIoN4Y1gyqtx2%2B0goBn%2F3a%2BZP6wxtDI1b7wimou1dwJAW%2FX%2B21aKAUw%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/236917037976?_skw=sealed+new+dewalt+drill+kit&hash=item37295b1b98:g:oxUAAeSw9zVqSWOG&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa9R2Vgt8l%2BbpRinjFSXageJuRAmBnTkRk0R4PjR0V0DN6Lapq4cgKmHT%2BG6cgKM4wD%2BSgRCrpHGAQYTbssRUjZM5JDxyBYRTMZjX01yIEkWRBWNwL%2FYUpSL3w%2BLFke6pba6oqf8LNSsgv2yUwkQG09d192yKLz2VQ5t9aCOEBsiBRQw1r0c0fv9x%2B0VtJTu6P%2FbCMMT%2BhtOW4QZdIwjwwFcoCTTckQmXlBw4DZKuU%2BsnwZzEQlQnVDN%2Bdus%2F%2BPWAsrdkGeQqGKUiHvf9sxyWgxLo0ygNuQkWVBz37oVKbdp%2BzDKrlI0AENRc3hL%2FiNP1E%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1062,7 +1175,7 @@
       "feedbackPct": 97.6,
       "feedbackCount": 71
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBhSzLLEVmDJ8TVv4ygpcvaG6GdFdMYtFiwqjv97IExlo8xtvr85mFtaZg6HlpbpMa8PlJU72YKz0z%2BW%2B4UHj4X0FykEOA34gYDJPAWPvEE7icZHHQCVihkzVYi0jn%2FRbKEdoXEd%2F6RF9sIDIPMVNhInyAQtVWi2a%2BakvNE%2BtNBWc7SPk89YS77ljoagK4T0%2FyI%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407137437568?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb484780:g:qZEAAeSwiuJqe671&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZH%2BauoHPVpU66p4%2FhdzvcB8wjIBGHHp86aRvwMnAO1DPiuqcqnqCzRu7QMt87jakE0kCdIy50aqkIWH10No33OQ8t%2FsN24o9PEmTjNBwHfhsIKXMx9Er2ul%2BsTamjofBhTB30rfpZsCX0gI7YkPVLUXmOqD%2FTwdNdzwLWd2e%2BIeFoVW7X1T4f%2BLOM0sG%2FqbmC7jpsFX4tEElc5kbjtbKn8P39Npjtg47qYlwMuLDqfjCDNkWxXIs4zSzeIxoQwzx5pIfH%2Byl%2BD2yn9oX%2Bfn%2BMFGbz%2FHap75k%2F7OZfd5Jx3pq4QG%2FC9V0Lf%2BlIkHEj6MmQ%3D",
     "clusterMedian": 190.0,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1218,7 +1331,7 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.1,
+      "feedbackPct": 99.0,
       "feedbackCount": 10256
     },
     "itemWebUrl": "https://www.ebay.com/itm/278307790287?_skw=sealed+new+kitchenaid+stand+mixer&hash=item40cc6fddcf:g:HXgAAeSwjhxqjJJe",
@@ -1286,7 +1399,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.5,
-      "feedbackCount": 876
+      "feedbackCount": 877
     },
     "itemWebUrl": "https://www.ebay.com/itm/168568794413?_skw=sealed+new+milwaukee+tool+combo&hash=item273f7bad2d:g:nhkAAeSwgUdqaA-H",
     "clusterMedian": 229.99,
@@ -1309,7 +1422,7 @@
       "feedbackPct": 99.8,
       "feedbackCount": 188107
     },
-    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~",
+    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa4Uibz5ZtGmiGTkXWrUOTQSX4eEoVwaf1GKF9B%2BhmrndWdc3S5qZjVTUYxM819V3JH2PBvULAHU%2FdgVdg1NQSjcZt0bIzTSqpIa2SJXcDs8neu9flLL4AreKCV7sxFx3IVEx610VPBCKqx3Vm%2BZLq84JzxfgntvsFKUas4wVDPliTJx3OMvmPigY0fHBS5C5I%2F6oQzTKjyFJrTXeXDTT4FI4GuQMHXIzCrgLG8KKyWm5KRueqdmWZdFSnFuvr%2Fnw1DLxWyCex3xJO5HftsTnrKWlBzNsNkvGeBA6A1uH4Op6dbn7Pm9q8j1DzwJxACGMo%3D",
     "clusterMedian": 439.48,
     "spreadPct": -0.135,
     "marginPct": -0.32,
@@ -1397,7 +1510,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 149
     },
-    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyoa1INalwYEwKzaVC8UNrLCNiLhIQGiV29jIH7PyN4%2BKZFoO5iAnZauUmTgkjWylWh2reU9e2AjMCw8UMJ%2F8uwK03w3sgDTBOS%2FU0hWHFpOXrEAsdHfNtBaVAfRtn1JYlLbCF6zg1mr4d7u%2BeOPkTIkVU7XAlxIf3q3G0ODESUwzGCtHJYbCxaWgoSnnc9Brlw%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/277608073100?_skw=sealed+new+sony+playstation+5+slim+console&hash=item40a2bb078c:g:KdwAAeSwNoZnxSbO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZlWwG%2F0Z4qdnunyJlbiONThybgNHBP8RZNiNS6mjtjEZf61%2FYYzuN6wPeqG7Pfy3N%2FwJg9sZ59FAt%2FMlIsRlr5rdj1zkDpDlYIS3mcGnz3pYjJYUFb3P8SYRR7adTXNyoD3aT4QnV4wv%2Ff076cvtBF9pdHu9%2F2bl3xeDfTp7k3vPMm7i%2BlsKEbYLEwbFbK6wUlKY7pOXlSHDGTvIM3zN6nG4QM2p8sEgeqd9PJlUF5TcPK9pP0WXRaGQcRSQlyDAx%2FZNDy7PaTEOv8se3KG9LlHXVISwJggiPl6VbYzDmjEsyVKfsyK5BW%2FdYskYuLwFA%3D",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1475,52 +1588,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|237028230661|0",
-    "title": "PSA 10 Dewgong 097 Illustration Rare - 2025 Pokemon ME Phantasmal Flames",
-    "category": "Trading Cards",
-    "price": 79.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 610
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/237028230661?_skw=PSA+10+graded+pokemon+card&hash=item372ffbc605:g:e7wAAeSwMcdqjOjN",
-    "clusterMedian": 79.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.387,
-    "margin": -36.4,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|237028154129|0",
-    "title": "PSA 10 Dewgong 097 Illustration Rare - 2025 Pokemon ME Phantasmal Flames",
-    "category": "Trading Cards",
-    "price": 79.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 610
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/237028154129?_skw=PSA+10+graded+pokemon+card&hash=item372ffa9b11:g:0YUAAeSwpEtqjNlm",
-    "clusterMedian": 79.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.387,
-    "margin": -36.4,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|304182919553|0",
     "title": "apple airpods pro new in box sealed",
     "category": "Apple Accessories",
@@ -1556,7 +1623,7 @@
       "feedbackPct": 98.5,
       "feedbackCount": 777
     },
-    "itemWebUrl": "https://www.ebay.com/itm/800533507739?_skw=sealed+new+dewalt+drill+kit&hash=itemba6383ee9b:g:3tMAAeSwxB9qhXvm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZjrOktfjw8CIv212G7iPqc%2BAYBXSVgdCA7Uk2MUiVFXjeJ%2BUL1oBZno2FVL8QLps1AZDRFVoDt%2FeZDN3gAcUBfrZIu1xFifGiwsXQuWU8jg9ElgbJKcCtmJcUPt6QAYDEAaQ6%2B0n9hfz20ZI2evKgS0YmZOjYiTNVA5tOq5bvbXUQIUnFhCM3jLgoUmmTnvBmuWo1RXxrnQsUzJnaDGIAmtvEh6ES02VJRaF%2BDvyD4VZs%2Bl3qXl2gLA7v8eizQl245XsxNq0V8kJKwPydmInC4B7Xhg5%2FBrW2aehyIGn%2BpCJ%2FnkXXDRXH0gnZqk315t3U%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/800533507739?_skw=sealed+new+dewalt+drill+kit&hash=itemba6383ee9b:g:3tMAAeSwxB9qhXvm",
     "clusterMedian": 48.99,
     "spreadPct": 0.184,
     "marginPct": -0.399,
@@ -1710,10 +1777,31 @@
       "feedbackCount": 4883
     },
     "itemWebUrl": "https://www.ebay.com/itm/117354994341?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1b52e71aa5:g:IZwAAeSwBXxqfEk1",
-    "clusterMedian": 39.99,
-    "spreadPct": 0.031,
-    "marginPct": -0.541,
-    "margin": -26.85,
+    "clusterMedian": 40.62,
+    "spreadPct": 0.046,
+    "marginPct": -0.53,
+    "margin": -26.31,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|800484183297|0",
+    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
+    "category": "Kitchen Appliances",
+    "price": 39.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.6,
+      "feedbackCount": 2130
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/800484183297?_skw=sealed+new+kitchenaid+stand+mixer&hash=itemba60934d01:g:sWMAAeSwUiNqeTKz",
+    "clusterMedian": 40.62,
+    "spreadPct": 0.015,
+    "marginPct": -0.542,
+    "margin": -27.65,
     "signals": [],
     "sellerOk": true
   },
@@ -1739,27 +1827,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|800484183297|0",
-    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
-    "category": "Kitchen Appliances",
-    "price": 39.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 2130
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/800484183297?_skw=sealed+new+kitchenaid+stand+mixer&hash=itemba60934d01:g:sWMAAeSwUiNqeTKz",
-    "clusterMedian": 39.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.553,
-    "margin": -28.2,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|227464780546|0",
     "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
     "category": "Kitchen Appliances",
@@ -1773,10 +1840,10 @@
       "feedbackCount": 2401
     },
     "itemWebUrl": "https://www.ebay.com/itm/227464780546?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f5f51b02:g:pUEAAeSwEG1qdIJQ",
-    "clusterMedian": 39.99,
-    "spreadPct": -0.031,
-    "marginPct": -0.564,
-    "margin": -29.54,
+    "clusterMedian": 40.62,
+    "spreadPct": -0.015,
+    "marginPct": -0.554,
+    "margin": -29.0,
     "signals": [],
     "sellerOk": true
   },
@@ -1814,7 +1881,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 242
     },
-    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI",
+    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZG1jIwG6Xz2TWNiYpQ6uZGOWWYbpe0yxWO%2BAEfXFqTzEvKISX0m%2F7PsmGYpZeiTJv9AGkbgSmNeQ0uwuYhehoxQ1t2FptcYXkcRG5u3W%2Fv%2FyHPCa8nGNTOuWynxMpO3qk6o8QqrEXwj%2FtJI%2FX%2BFzj4arjN1sRKBmFa8L7%2F3po1HHK4gzxCWo8ZMglCADK1MCmqkXHY9%2FS%2FlBjb%2FIFcXC8H85TSuDZy9CHM7uK00fNRSfkytTc94lIM2optGfPbtj5XXwiHHZefiheOaZ7XEKNJfCYszLPfr2US%2FStNPzrT9YOlj4naWFuQCpukg8s0UwU%3D",
     "clusterMedian": 32.5,
     "spreadPct": 0.077,
     "marginPct": -0.596,
@@ -1823,26 +1890,24 @@
     "sellerOk": true
   },
   {
-    "id": "v1|168636987249|0",
-    "title": "2022 Topps Chrome Oneil Cruz rookie card #128 PSA 10",
-    "category": "Trading Cards",
-    "price": 30.0,
-    "condition": "Graded",
+    "id": "v1|128020362807|0",
+    "title": "Juicer Attachment for KitchenAid Stand Mixer with 2 Size Reamer",
+    "category": "Kitchen Appliances",
+    "price": 47.01,
+    "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": true,
+    "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 1647
+      "feedbackPct": 98.9,
+      "feedbackCount": 229
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168636987249?_skw=PSA+10+graded+baseball+card&hash=item27438c3771:g:12oAAeSwhthqjOGE",
-    "clusterMedian": 31.88,
-    "spreadPct": 0.059,
-    "marginPct": -0.609,
-    "margin": -24.52,
-    "signals": [
-      "best_offer"
-    ],
+    "itemWebUrl": "https://www.ebay.com/itm/128020362807?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1dce9bb637:g:lb4AAeSwrKZqesEq",
+    "clusterMedian": 40.62,
+    "spreadPct": -0.157,
+    "marginPct": -0.601,
+    "margin": -35.2,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -1890,71 +1955,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|168636985876|0",
-    "title": "2022 Topps Chrome Oneil Cruz rookie card #128 PSA 10",
-    "category": "Trading Cards",
-    "price": 33.75,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 1647
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/168636985876?_skw=PSA+10+graded+baseball+card&hash=item27438c3214:g:OQ8AAeSwt3xqjODy",
-    "clusterMedian": 31.88,
-    "spreadPct": -0.059,
-    "marginPct": -0.645,
-    "margin": -28.55,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|398269014514|0",
-    "title": "3PCS Silicone Sealing Ring for Instant Pot 6 Quart, Insta Pot Seals Replacement",
-    "category": "Kitchen Appliances",
-    "price": 20.89,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.5,
-      "feedbackCount": 180
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/398269014514?_skw=sealed+new+instant+pot&hash=item5cbaaee1f2:g:xsIAAeSwpAlqeWPV",
-    "clusterMedian": 22.5,
-    "spreadPct": 0.071,
-    "marginPct": -0.751,
-    "margin": -22.89,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|206511027796|0",
-    "title": "3PCS Silicone Sealing Ring for Instant Pot 6 Quart, Insta Pot Seals Replacement",
-    "category": "Kitchen Appliances",
-    "price": 24.1,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.5,
-      "feedbackCount": 642
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/206511027796?_skw=sealed+new+instant+pot&hash=item3015043654:g:60UAAeSwvk9qiyC2",
-    "clusterMedian": 22.5,
-    "spreadPct": -0.071,
-    "marginPct": -0.777,
-    "margin": -26.34,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|287523501953|0",
     "title": "2 Pack Sealing Ring 8Qt for Instant Pot Sealing Ring 8 Quart, Premium Silicone G",
     "category": "Kitchen Appliances",
@@ -1990,7 +1990,7 @@
       "feedbackPct": 99.8,
       "feedbackCount": 8539
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168549207243?_skw=sealed+new+instant+pot&hash=item273e50cccb:g:jOQAAeSw3mlqXdvs&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZ6znusi2MLy2%2Fm%2BfpEJQAG3avM0M%2Ffere2tK0RaN2dK72qobU7Z3ti4BVFI7050LMFYxOCmgqJx%2Bvg26eg9iaiGpNYevHRuTym42dD5ZCnDPFpEMSEcFzjHq4Cmkj%2Fut16wjbo0hZlB5YRHzAgzXAYJSEKERLwYdEppd%2FeACCxd5hPu39EdvVSRsnjY8PfBegvCtz0GrkPvaLyxihMRJADtB6kL2F%2Fk9pP0wQY9f2qirkSCdXSh0ALB0j2PdZ9FRW4upgngZQyAzYxrtTbV%2FvQsDsxzEKskULtCv0J4iRH%2Bw%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/168549207243?_skw=sealed+new+instant+pot&hash=item273e50cccb:g:jOQAAeSw3mlqXdvs&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZ6znusi2MLy2%2Fm%2BfpEJQAG3avM0M%2Ffere2tK0RaN2dK72qobU7Z3ti4BVFI7050LMFYxOCmgqJx%2Bvg26eg9iaiGpNYevHRuTym42dD5ZCnDPFpEMSEcFzjHq4Cmkj%2Fut3zeT0WJkXzYdQ2kk1YrwzwfxRFs9h%2FjXr5QyM0NzxQlHigK5Q6612Gzmbqw2dX0Gq9IV3rIbVWax5ZtRbjJWtHGIqfZIKL%2FkBibTtLUEh1TuI3WWtHw7K4EUeMsnDlgrO7CU4ORUHn5kBkxUZrNDJapv73rXZMVbPZLSIxWqQsKA%3D%3D",
     "clusterMedian": 13.91,
     "spreadPct": -0.221,
     "marginPct": -0.996,
@@ -2009,9 +2009,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 9853
+      "feedbackCount": 9855
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSaigtsEhMkEn1ypZ4V%2BnIIh2KgHr4by5Bm0Jol4iTW3%2BmDTyFWhGcPKnXF4WXYmAbYaX6IhF2EXkPZFnS2O2rTvnPU7eZR8JC2lItNGqTGZyXfXJ63wd9E8cFen09KbPEZJJie3IipMKLVxsbAyzA%2BdzT%2Bg3e6YUtV%2BA237%2BTj60w%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407018749209?_skw=sealed+new+instant+pot&hash=item5ec4353d19:g:uM8AAeSwvLpqOOAl&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaIR6XLqNqA7UPNMukQYrG%2BoteKOhGqf32HS68%2BgSBHHW619jn1Lh492NGlEDyhq1KnNjhL1SIyuXUUarjqyAU4XlFUY2SWLPX32Su%2F5jKSL%2FZv254KoXQUxEmqIebGMSZh4pT0NP4Z5D1%2Fjkdy11jcdjlQymNpqDULea3%2F1j0%2F1WROzhko4hz7fupXC06mfE2iKEI4MRioAGqM3y61J0lg9YXPRL4HYeXfLOE1qsMBQpM2QRt38RO8WPqnXF8oUIw5CQw%2FBEEi5nqE8LkNZofdltR%2B2Pepf0t7lYzuO4omIQ%3D%3D",
     "clusterMedian": 11.74,
     "spreadPct": -0.064,
     "marginPct": -1.083,
@@ -2095,7 +2095,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 993
+      "feedbackCount": 994
     },
     "itemWebUrl": "https://www.ebay.com/itm/406965618192?_skw=sealed+new+instant+pot&hash=item5ec10a8610:g:PDIAAeSw-BlqHUMj",
     "clusterMedian": 8.2,
