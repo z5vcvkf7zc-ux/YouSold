@@ -58,7 +58,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 9333
+      "feedbackCount": 9334
     },
     "itemWebUrl": "https://www.ebay.com/itm/298607409067?_skw=sealed+new+milwaukee+tool+combo&hash=item45866377ab:g:LJ8AAeSwJFFqiJEp",
     "clusterMedian": 439.48,
@@ -176,7 +176,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 164
+      "feedbackCount": 165
     },
     "itemWebUrl": "https://www.ebay.com/itm/237000752933?_skw=sealed+new+sony+playstation+5+slim+console&hash=item372e587f25:g:rpYAAeSwPAZqZ9C6",
     "clusterMedian": 936.95,
@@ -208,6 +208,30 @@
     "margin": -80.69,
     "signals": [],
     "sellerOk": true
+  },
+  {
+    "id": "v1|185223422700|0",
+    "title": "apple airpods pro new in box sealed",
+    "category": "Apple Accessories",
+    "price": 170.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 43
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/185223422700?_skw=sealed+new+airpods+pro&hash=item2b202d22ec:g:zt8AAOSw-W5hvAo0",
+    "clusterMedian": 200.0,
+    "spreadPct": 0.15,
+    "marginPct": -0.151,
+    "margin": -28.75,
+    "signals": [
+      "below_cluster",
+      "best_offer"
+    ],
+    "sellerOk": false
   },
   {
     "id": "v1|318660221019|0",
@@ -251,30 +275,6 @@
     "marginPct": -0.171,
     "margin": -138.96,
     "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|185223422700|0",
-    "title": "apple airpods pro new in box sealed",
-    "category": "Apple Accessories",
-    "price": 170.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 43
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/185223422700?_skw=sealed+new+airpods+pro&hash=item2b202d22ec:g:zt8AAOSw-W5hvAo0",
-    "clusterMedian": 195.0,
-    "spreadPct": 0.128,
-    "marginPct": -0.174,
-    "margin": -33.1,
-    "signals": [
-      "below_cluster",
-      "best_offer"
-    ],
     "sellerOk": false
   },
   {
@@ -445,7 +445,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 29125
+      "feedbackCount": 29126
     },
     "itemWebUrl": "https://www.ebay.com/itm/137684365962?_skw=sealed+new+xbox+series+x+console&hash=item200ea0b28a:g:r7gAAeSwjspqliKE",
     "clusterMedian": 789.99,
@@ -456,27 +456,6 @@
       "best_offer"
     ],
     "sellerOk": true
-  },
-  {
-    "id": "v1|165384653323|0",
-    "title": "Apple AirPods Pro NEW IN BOX SEALED",
-    "category": "Apple Accessories",
-    "price": 179.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 10
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/165384653323?_skw=sealed+new+airpods+pro&hash=item2681b18a0b:g:hdoAAOSwg0hiL9r~",
-    "clusterMedian": 195.0,
-    "spreadPct": 0.082,
-    "marginPct": -0.213,
-    "margin": -42.77,
-    "signals": [],
-    "sellerOk": false
   },
   {
     "id": "v1|277608073100|0",
@@ -515,7 +494,7 @@
       "feedbackPct": 99.6,
       "feedbackCount": 484
     },
-    "itemWebUrl": "https://www.ebay.com/itm/800593148898?_skw=sealed+new+milwaukee+tool+combo&hash=itemba6711fbe2:g:~zUAAeSwuxVqlghS&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbxplcCXhJdt7tapb57FyI6uvRkMYcjxWqZknNIKsMqc2lPKrKIHtzNs4QYRtlfwyRJ5ddVc8Vvy%2FAUuWUSVIoZ8l9pgHJIUbT3htRqRZltYeA1fD97sAeqCGPHqCjczdJUD2w7P5FMlvxnPB7xaRzA7NX7nVGBn1R%2Bpzl3UrScROyZqJsAzYf4UD90tbbLz%2B2hrhP0GN0zYIWwy3qBWW%2BpSpHQE24X6WG3xsDb3MrULzYCeeZfO%2BMGdCs3en9Q%2FWurg2xlHrVgID6FcPd3IZ7ylIzxUzoUtXlDD0%2BePn5T8yyklzM9Psgz6R%2Ffe8FGFgA%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/800593148898?_skw=sealed+new+milwaukee+tool+combo&hash=itemba6711fbe2:g:~zUAAeSwuxVqlghS&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbxplcCXhJdt7tapb57FyI6uvRkMYcjxWqZknNIKsMqc2lPKrKIHtzNs4QYRtlfwyRJ5ddVc8Vvy%2FAUuWUSVIoZ8l9pgHJIUbT3htRqRZltYeA1fD97sAeqCGPHqCjczdLgF0Hi5QMCZ%2BWl4mqQWQmTFb2EjYhX2yTXr9DSztj%2BuOwhB0aPGdn5oTi%2B6%2FKTzylJOUvBCh8hnyccA7q%2FM43C9xN2MpCcKjgpTlr4tnFCsmOJMYHLYrvcKFltjvwESIiAx7iCKpQc8ZDS5PhW0sg3iRacKbl62Jg7M2rSy2lDM2K2mp80WvjjQ7K6dx0ab2c%3D",
     "clusterMedian": 674.99,
     "spreadPct": 0.0,
     "marginPct": -0.216,
@@ -580,7 +559,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnOvfNJFD%2FuRB7G1bnpzxlsr%2FYXP5lkfRMY416QlYcCNcXGZn27cGG8qDFKqZfcJmz64zCxXXcwUDoNBzx%2BvjPPJlSxUoFZUxnKN9XRwLpwaXCXD8SnvIeO8Ih8YWPT1PQFfXRPh93TyP7XeLyDGvhjN2pI7G6A%2Bcfw80ai4%2BMnsgfFlrcTusgfceIErAjgG6xk%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnOOysCEXehGca5woRxGj1N8tS5lAKfIiYxgHh0KE%2Bs3cLRO79qtX%2FaB9NxzyO0pjEZvcHbggRpRqegAR3BQYevXzFCwSif8%2FVfzwwmCkq9PbFdsZcQ7JonvvFmep2%2BzMrKn7HS03CGGN5mS%2BLjITK9wElj43Ne6quzIiyvs7vS8jJnpECy4msGS2RPklKoS71I%3D",
     "clusterMedian": 548.0,
     "spreadPct": 0.0,
     "marginPct": -0.222,
@@ -643,7 +622,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 3363
+      "feedbackCount": 3364
     },
     "itemWebUrl": "https://www.ebay.com/itm/398246734573?_skw=sealed+new+milwaukee+tool+combo&hash=item5cb95aeaed:g:gaEAAeSwS0BqcSlE",
     "clusterMedian": 674.99,
@@ -654,6 +633,29 @@
       "best_offer"
     ],
     "sellerOk": true
+  },
+  {
+    "id": "v1|185115551116|0",
+    "title": "apple airpods pro new in box sealed",
+    "category": "Apple Accessories",
+    "price": 190.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 48
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/185115551116?_skw=sealed+new+airpods+pro&hash=item2b19bf258c:g:sQMAAOSwXPhhN87Q",
+    "clusterMedian": 200.0,
+    "spreadPct": 0.05,
+    "marginPct": -0.237,
+    "margin": -50.25,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
   },
   {
     "id": "v1|358845133118|0",
@@ -677,29 +679,6 @@
       "best_offer"
     ],
     "sellerOk": true
-  },
-  {
-    "id": "v1|185115551116|0",
-    "title": "apple airpods pro new in box sealed",
-    "category": "Apple Accessories",
-    "price": 190.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 48
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/185115551116?_skw=sealed+new+airpods+pro&hash=item2b19bf258c:g:sQMAAOSwXPhhN87Q",
-    "clusterMedian": 195.0,
-    "spreadPct": 0.026,
-    "marginPct": -0.257,
-    "margin": -54.6,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
   },
   {
     "id": "v1|820056056223|0",
@@ -800,7 +779,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 44927
+      "feedbackCount": 44928
     },
     "itemWebUrl": "https://www.ebay.com/itm/298584884072?_skw=sealed+new+milwaukee+tool+combo&hash=item45850bc368:g:GX0AAeSwIGNqfcxc",
     "clusterMedian": 422.99,
@@ -889,6 +868,29 @@
       "feedbackCount": 0
     },
     "itemWebUrl": "https://www.ebay.com/itm/366586690478?_skw=sealed+new+airpods+pro&hash=item555a44fbae:g:Ck0AAeSweXxqcm4C",
+    "clusterMedian": 200.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.274,
+    "margin": -61.0,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|373904364881|0",
+    "title": "Apple Airpods Pro New in Box (Sealed)",
+    "category": "Apple Accessories",
+    "price": 200.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 1
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/373904364881?_skw=sealed+new+airpods+pro&hash=item570e6fd551:g:v60AAOSwl6dh6Ow1",
     "clusterMedian": 200.0,
     "spreadPct": 0.0,
     "marginPct": -0.274,
@@ -995,9 +997,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.5,
-      "feedbackCount": 500
+      "feedbackCount": 502
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYvutP0H2zTbBwCVg9V9XwoRwaQG0%2BqxZypxKte6O2ifbfSyt%2BNKAH7n7Ty7aZjWnUvbD9DUP4ykJqfb%2F5PHI7eLC%2F0MUOj3oYqde8QKm%2Byhr4mHayx0q4Jkg%2FKB6kfzXrXOVFLgEDA5pxczleIp1ntBUjQSH5ysipdOZ3JU0ZJJtuWqITDQridLVD6ZIBNaQwFGNjTHYuU2Xs%2Fflelrhg3o3RaHUOYqXhc9FsJaNDcddKtcocHXU2iAXVqJ0WiGnatQuATHGp1iU0tC9HMk80tx2ghsNFSDGyYLUMqq8zsidbyTEzmiRLzZxVDXpMdjjU%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366063452501?_skw=sealed+new+nintendo+switch+oled+console&hash=item553b150155:g:12gAAeSwTDhpQmK9&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYvutP0H2zTbBwCVg9V9XwoRwaQG0%2BqxZypxKte6O2ifbfSyt%2BNKAH7n7Ty7aZjWnUvbD9DUP4ykJqfb%2F5PHI7eLC%2F0MUOj3oYqde8QKm%2Byhr4mHayx0q4Jkg%2FKB6kfzXpcOJWtQPrsddKGfHed9M86mwPZA7xKDHgp%2FZVptb3bFF2qt78lsh5VfJ9xDKYUvjRsy9XbKNm962jds4JeY25yjO4N%2B9fdpQJ8apV%2FiqgNNzNzLbS2UZWdWwCPMq%2BKtf%2B%2FX6uMrTHa03Q6rIugcIfjHmviifAFde7TY2XoEJ2Nt9hHDZjdW%2FJy%2Fk2fa1z1gOE%3D",
     "clusterMedian": 404.99,
     "spreadPct": -0.086,
     "marginPct": -0.292,
@@ -1026,29 +1028,6 @@
     "marginPct": -0.292,
     "margin": -52.15,
     "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|373904364881|0",
-    "title": "Apple Airpods Pro New in Box (Sealed)",
-    "category": "Apple Accessories",
-    "price": 200.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 1
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/373904364881?_skw=sealed+new+airpods+pro&hash=item570e6fd551:g:v60AAOSwl6dh6Ow1",
-    "clusterMedian": 195.0,
-    "spreadPct": -0.026,
-    "marginPct": -0.293,
-    "margin": -65.35,
-    "signals": [
-      "best_offer"
-    ],
     "sellerOk": false
   },
   {
@@ -1167,7 +1146,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 189022
+      "feedbackCount": 189036
     },
     "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~",
     "clusterMedian": 439.48,
@@ -1245,48 +1224,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|257721446248|0",
-    "title": "2024 Topps Now Offseason Shohei Ohtani OS-6 PSA 10 GEM MINT",
-    "category": "Trading Cards",
-    "price": 89.2,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 1682
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/257721446248?_skw=PSA+10+graded+baseball+card&hash=item3c01652f68:g:6sYAAeSwseRqmd4q",
-    "clusterMedian": 89.2,
-    "spreadPct": 0.0,
-    "marginPct": -0.369,
-    "margin": -38.29,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|257721447206|0",
-    "title": "2024 Topps Now Offseason Shohei Ohtani OS-6 PSA 10 GEM MINT",
-    "category": "Trading Cards",
-    "price": 89.2,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 1682
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/257721447206?_skw=PSA+10+graded+baseball+card&hash=item3c01653326:g:vwcAAeSwiTNqmd7S",
-    "clusterMedian": 89.2,
-    "spreadPct": 0.0,
-    "marginPct": -0.369,
-    "margin": -38.29,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|318640342258|0",
     "title": "Brand New Sealed In Box Apple AirPods Pro 3",
     "category": "Apple Accessories",
@@ -1300,10 +1237,33 @@
       "feedbackCount": 2
     },
     "itemWebUrl": "https://www.ebay.com/itm/318640342258?_skw=sealed+new+airpods+pro&hash=item4a3071c4f2:g:~KMAAeSwC~ZqZvgK",
-    "clusterMedian": 195.0,
-    "spreadPct": -0.179,
-    "marginPct": -0.382,
-    "margin": -97.6,
+    "clusterMedian": 200.0,
+    "spreadPct": -0.15,
+    "marginPct": -0.365,
+    "margin": -93.25,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|304182919553|0",
+    "title": "apple airpods pro new in box sealed",
+    "category": "Apple Accessories",
+    "price": 235.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 2
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/304182919553?_skw=sealed+new+airpods+pro&hash=item46d2b70181:g:zgUAAOSw~9phVi0x",
+    "clusterMedian": 200.0,
+    "spreadPct": -0.175,
+    "marginPct": -0.378,
+    "margin": -98.62,
     "signals": [
       "best_offer"
     ],
@@ -1331,29 +1291,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|304182919553|0",
-    "title": "apple airpods pro new in box sealed",
-    "category": "Apple Accessories",
-    "price": 235.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 2
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/304182919553?_skw=sealed+new+airpods+pro&hash=item46d2b70181:g:zgUAAOSw~9phVi0x",
-    "clusterMedian": 195.0,
-    "spreadPct": -0.205,
-    "marginPct": -0.395,
-    "margin": -102.97,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
     "id": "v1|318541266609|0",
     "title": "DEWALT DCD805 20V MAX Brushless Hammer Drill Impact Screwdriver Bare Tool Only",
     "category": "Power Tools",
@@ -1364,9 +1301,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 97.5,
-      "feedbackCount": 500
+      "feedbackCount": 502
     },
-    "itemWebUrl": "https://www.ebay.com/itm/318541266609?_skw=sealed+new+dewalt+drill+kit&hash=item4a2a89feb1:g:kAMAAeSwKIVqSNXV&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbNsLbPUhQCZY%2FSbVSQ9HazqReocOOoT5ywMZ8jTbrxP6U%2BFJ0glIyjT2mkKKV3pdvuv3zvnmEhuxD5gPZFlV%2BzOXUywBE9PT1U8ncAAUoUwDBg%2ByzpzZ9N5M9RtrtyC7T6fy%2B1x3DBIuypbjEi2RBAZl8HQFkDIadlLp--ZhyqCg9Q25An3TtuSdXgaM476LW3T%2FycmkB1hQhhTrmRO0RYgPkyPDtMSu3R7yNOkkV5D5rnGzPmSo%2BMr4mG5S%2FxG9qQxuFNG8pAdk519n6HXGYsQjOC%2BgzzdjTENhvQh10jmCCUYmk6ihjaT%2FhJOv4Fkzk%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/318541266609?_skw=sealed+new+dewalt+drill+kit&hash=item4a2a89feb1:g:kAMAAeSwKIVqSNXV&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbNsLbPUhQCZY%2FSbVSQ9HazqReocOOoT5ywMZ8jTbrxP6U%2BFJ0glIyjT2mkKKV3pdvuv3zvnmEhuxD5gPZFlV%2BzOXUywBE9PT1U8ncAAUoUwDBg%2ByzpzZ9N5M9RtrtyC7TWOdFqzRsPbzGeXb3SSPl4h0NjRd3%2F1hcoSVWoww01%2B07DLDs5%2FIVHp4t8lnRjbXpdjuLdIIhGo7s7aOQGsEPo%2ByJ9gisH0rfpWCT27w8pY6YpvnzZ01rvpfxNUlCekDGnOpLg%2BDo1TAn%2BeSttY5ydLUKsrVE14I0tpbhkk223yGfNcL%2F%2BclgIBqD0EZFzo7k%3D",
     "clusterMedian": 59.99,
     "spreadPct": 0.092,
     "marginPct": -0.396,
@@ -1433,7 +1370,7 @@
       "feedbackPct": 98.5,
       "feedbackCount": 780
     },
-    "itemWebUrl": "https://www.ebay.com/itm/800533507739?_skw=sealed+new+dewalt+drill+kit&hash=itemba6383ee9b:g:3tMAAeSwxB9qhXvm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZjrOktfjw8CIv212G7iPqcgke02e6KqrqkhrcFztlzn%2FWtxnMjt5nIkn3deH6fFaXTWLLn9FPF13LaC4d7kwfCEAU2UcJhd0SUXdSiH4YRLXvYKMuPUNm9ZJQS8WGVVxTyHjq%2F46zJe2kiQI8JmZnkrJAju8wxg9obYZHKsuyn75O5KrJ6ysa1qHuPj3LNrGcG1XaUD%2Br8n9kEk9cBEIowowpLYxCVxIe8eqXDmJTSnN6xffW5V9qvu7fwZSH2O92SHa21szTZTxCEvX8NVCCBnr%2Bm750Z0pyYR0UaVo8wrtUvToOGNhgZmGjD5tzlOg8%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/800533507739?_skw=sealed+new+dewalt+drill+kit&hash=itemba6383ee9b:g:3tMAAeSwxB9qhXvm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZjrOktfjw8CIv212G7iPqcgke02e6KqrqkhrcFztlzn%2FWtxnMjt5nIkn3deH6fFaXTWLLn9FPF13LaC4d7kwfCEAU2UcJhd0SUXdSiH4YRLXvYKMuPUNm9ZJQS8WGVVxTyq%2FS0TzTsH5XDhhr2dZxp0hmRhUlpM8HD4mxthcz9VF56EC5YYw6b3SWMKLKi8bniR2qM4qLd9z6Qf3dltUNozImWtMydfDUj4D5G18%2FGsBki5gQvkoHQkHCx%2BIzAQaNk16H9L9Ii81x9ZBhOhK3gJPz%2FmGbiJp8vjAMY7TB%2FNa3DP3fs%2FJ2UeueQ2ggWr74%3D",
     "clusterMedian": 48.99,
     "spreadPct": 0.163,
     "marginPct": -0.412,
@@ -1500,7 +1437,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 1
     },
-    "itemWebUrl": "https://www.ebay.com/itm/820065445866?_skw=sealed+new+dewalt+drill+kit&hash=itembeefb5a7ea:g:Vj0AAeSwvDhqlC4I&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZpp3guDb7C24IRolIzyl6GlzatSBTl31XGG5EO7SB3whEnHotS8vscNv9BPeGxL7spWycrAgR5sTkpmeETue3wl8vSUhMqTVxWsRTPgMN%2Bkc1PYb68rCliNnQVEI5zQPuY4KhaH5LYQcghTatzk8pfO6ORUz0zzJAXNSdp%2FPRQtGsXeL5sYbOaHQCHXATWtwLQO9YpBqkESV%2F9iui40PMxSBLZkbocCsBihXSyJ208reKOJOo%2BJsDzAan5R%2Ffv6mn8aQs3gAc1SUr2OYeAmiCPCDGOtNCSZEF%2B83LnwhvPEzPejg3gZaYFbg2TMm28G1g%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/820065445866?_skw=sealed+new+dewalt+drill+kit&hash=itembeefb5a7ea:g:Vj0AAeSwvDhqlC4I&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZpp3guDb7C24IRolIzyl6GlzatSBTl31XGG5EO7SB3whEnHotS8vscNv9BPeGxL7spWycrAgR5sTkpmeETue3wl8vSUhMqTVxWsRTPgMN%2Bkc1PYb68rCliNnQVEI5zQPssaNyxvgDwbAOluID0762erZORy%2BNodcqxQaMNprbTOYr9BBAtfQ00YnxCeM1j7W9p2s9IBOH2CqPEh%2FSOWHLkeUpaV9xq7jvnl2OXUxcVjbDstavC7Eroio2EZrKhTjQ5bt1S%2BcAR%2BxSXjALC7SsRymvZhk2KryhvQ8Rn27fYmDpgp5QUhtQU%2FatV3f9OEPw%3D",
     "clusterMedian": 59.99,
     "spreadPct": 0.0,
     "marginPct": -0.446,
@@ -1563,9 +1500,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 98.5,
-      "feedbackCount": 4146
+      "feedbackCount": 4147
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm3QGH95srETrTaqMVBP1eVB4kIGUCLMJVtlFR6WJksQViuBIL0%2Bgr2cYvFxakKG%2FgkOGFknUKK%2FVQvRVJuYr3gUiBIj%2B%2F6hAe%2FxXY3RXfPcQMHhBwp8forFmqU5obvigBvhB3meIuRQGzjZhezALOAT78SlY%2F56YLlZEeyuH7Q%2B8xTAR0muEEVGSgGFoHw054g%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm0qb6P%2FyD32IpMuA2z%2Fk31MOmvwxddYc%2BfqUfoc0E6C2Kzh5fmZcLpSV92HqXNPYFwJl7yjOTtuwA6NHsYBEB%2Fv9VubDh61pJR2wkLeaZZEPozLnIXJXdf8ZLgX3q3qRiYdnkt7Lw5%2FGbWx4z%2FkbdTGFYPO%2BFDHyZNO2600piwDx0%2Fn8mOgokZiJl%2FHIX6R0OM%3D",
     "clusterMedian": 48.99,
     "spreadPct": 0.0,
     "marginPct": -0.495,
@@ -1607,7 +1544,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.6,
-      "feedbackCount": 5063
+      "feedbackCount": 5065
     },
     "itemWebUrl": "https://www.ebay.com/itm/117354994341?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1b52e71aa5:g:IZwAAeSwBXxqfEk1",
     "clusterMedian": 39.99,
@@ -1651,7 +1588,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 2464
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227464780546?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f5f51b02:g:pUEAAeSwEG1qdIJQ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZ45qYCV%2Fgfby5hWKQ22ciTVaNuRwWdcpRQu1sSq%2FykveGNguKCr0teBFtpBfAWZth7zs5KbZ01qeLWsVJiLczYEiyzj7qbjfKi5L3mM%2F1oFHB%2BGxw0YIanCeCrkdemMboY2KyooHGQ%2FCll11MKt1ggtQCd3rNqOme0Q%2Bns3zeoSpc33gGL%2FsF3vcNGJ%2FhDOD2gXUdGRQSyz3i8uHUJDCbAx8aj%2F45brYhETlvJdpU1gF9C47brZuJ71netQ1szcP25yWLhTJTLe1euU3NBFJlRWBcsBIYxpt64lPDO%2BGIN4vqyUwwez1I%2FbAewvqmlEg8%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/227464780546?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f5f51b02:g:pUEAAeSwEG1qdIJQ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZ45qYCV%2Fgfby5hWKQ22ciTVaNuRwWdcpRQu1sSq%2FykveGNguKCr0teBFtpBfAWZth7zs5KbZ01qeLWsVJiLczYEiyzj7qbjfKi5L3mM%2F1oFHB%2BGxw0YIanCeCrkdemMbrFv4FU%2Bz1V%2BXttVwPZ0JC2UFc2eabS0GpEDbRQnTEosEbfrP9Ed7cQdcjqRpD%2FZxxu9fW16SfsXwbfw4vF%2FS0VHz3cWq7YgXf3n0gPUisdNkH4mCv8CY0bzyKEvjgy7l4cyn2kaL605fKy9tlj0YHZ2q9FoD0pmCj0HziHA12aYX2lXfX%2FveSWr0ZpsCJTLIM%3D",
     "clusterMedian": 39.99,
     "spreadPct": -0.031,
     "marginPct": -0.564,
@@ -1693,7 +1630,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 98.8,
-      "feedbackCount": 1682
+      "feedbackCount": 1684
     },
     "itemWebUrl": "https://www.ebay.com/itm/377456493919?_skw=sealed+new+dewalt+drill+kit&hash=item57e229055f:g:BQoAAeSw6wNqkzU~",
     "clusterMedian": 48.99,
@@ -1737,9 +1674,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.1,
-      "feedbackCount": 1181
+      "feedbackCount": 1182
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227163145984?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34e3fa8700:g:TuoAAeSwWO9pXWXv&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDkhpSVXkkS7EN7ZnpQ1QPHD1BRsEcQbqWTFDyrA0%2Fpa9D7DWGq0mwh9PtQx%2B%2BEFNAa10m93QrqPucqhtOD1sePXtAkWe41XoL1vGLAE1ghuioyPsgpDpgLvfxXM7wEE5HqDafU4WXWB3WOYtV7dlq1bAkzOMV43FTdN1hz9gGg3y86%2FShv%2B%2FOHtR2SZVibRkpAwuL6DXG%2Fgje8qrqShxhCc6375H2q2VAvDio8TO4aJQNnDzSNp6oP4TkRPvIzG8Fu1nR6L5kdIFFfFAKr99LCQnQBMTUhoPeM7SJMU49lisg0OAn4h6NCmAocb%2BZnco%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/227163145984?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34e3fa8700:g:TuoAAeSwWO9pXWXv&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDkhpSVXkkS7EN7ZnpQ1QPHD1BRsEcQbqWTFDyrA0%2Fpa9D7DWGq0mwh9PtQx%2B%2BEFNAa10m93QrqPucqhtOD1sePXtAkWe41XoL1vGLAE1ghuioyPsgpDpgLvfxXM7wEE6VYcrb9MKx4MsFYSH8qQPv1JwByqjmxcIrKBrAOt%2BJYSmWwkdosu86GcHy6OUdhhdC49Khu18%2BtTQCLNzZgf6JpmcRbKxwUft1X74dMbHHcEjLORrPnp9WpyQ0uuo%2Fw%2BfQ5izzBhB4ISWcxSvNW%2FPGGelMdrdIQSaNeTznlrRMIqWSDvyA%2BNhzJcGMX0p6T1Y%3D",
     "clusterMedian": 21.2,
     "spreadPct": 0.062,
     "marginPct": -0.781,
@@ -1760,7 +1697,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 128
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227353351615?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34ef50d5bf:g:MQUAAeSw1rlqD4XM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcJyWOepTJl80ogVctFjuG06nMI5XCUEm--cats78xm%2FZlq7%2FBgbf%2B6ReAmQAvSniSrHX%2B%2FwPPnbKjmm5pY12hJNk9YV8cjLDWWdrmz548aMWKfaCggzHYVhgwyyb%2B3MhQg%2BVrPj7h79lMZWa5M3NLziu6gQOcIZthKtdPxiVqQicYTQ5Zr5RejvofVSkiofTuNetAjGIFiAilzQogPiMm2ozydDSVQ%2FeBPikJHZveZaYslKEJZpNIrZ%2FmYEn1ga38ZP2sQWXoglVhtortl%2Bu2VZy8gdxvP6deuDJN9tKmIH5a2uXveMnc%2FbiITpksPYs%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/227353351615?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34ef50d5bf:g:MQUAAeSw1rlqD4XM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcJyWOepTJl80ogVctFjuG06nMI5XCUEm--cats78xm%2FZlq7%2FBgbf%2B6ReAmQAvSniSrHX%2B%2FwPPnbKjmm5pY12hJNk9YV8cjLDWWdrmz548aMWKfaCggzHYVhgwyyb%2B3MgfI50XqY%2F7MKTpPVA%2BCqJByfSNqWZL4zlf%2FdjPhGSzkOMseh6meO2foCiTIOnj7UIkinXtTEWZbzg9k1%2BZ8jG62Tw4r7jmnohk7xRAXxE%2FMz4L6v41efaosPNCR65XG%2FpXya3JqD3yWU2wkyU9G3hz9uUsMH3tXfMorQ1f6nqCpid4IsxTo6X3jmm6ODmh%2BCU%3D",
     "clusterMedian": 21.2,
     "spreadPct": -0.062,
     "marginPct": -0.8,
@@ -1781,7 +1718,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.5,
-      "feedbackCount": 7602
+      "feedbackCount": 7607
     },
     "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
     "clusterMedian": 14.88,
@@ -1804,7 +1741,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 4848
+      "feedbackCount": 4854
     },
     "itemWebUrl": "https://www.ebay.com/itm/377314003431?_skw=sealed+new+instant+pot&hash=item57d9aac9e7:g:GK8AAeSwEJNqRy3B",
     "clusterMedian": 14.88,
@@ -1825,7 +1762,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 1171
+      "feedbackCount": 1172
     },
     "itemWebUrl": "https://www.ebay.com/itm/406965618192?_skw=sealed+new+instant+pot&hash=item5ec10a8610:g:PDIAAeSw-BlqHUMj",
     "clusterMedian": 9.19,
@@ -1846,7 +1783,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 130
+      "feedbackCount": 131
     },
     "itemWebUrl": "https://www.ebay.com/itm/377418438093?_skw=sealed+new+instant+pot&hash=item57dfe455cd:g:Na4AAeSwUcpqfz3y",
     "clusterMedian": 9.19,
