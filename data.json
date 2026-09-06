@@ -12,7 +12,7 @@
       "feedbackPct": 0.0,
       "feedbackCount": 0
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227503491872?_skw=sealed+new+airpods+pro&hash=item34f843cb20:g:zh4AAeSw0FZqmRex&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYrXAOrlJkZKvNuu7E2RMnFTQ7jE74DXdLyv82LTSqhHKZ0GksQrUjCoJhDglQXik5OVA7TesSJPjGf5Ev9tkzk8tlY41gt7b57VZ6qUQMVp2CAjBXNvOsiVpeL8bAmE4X0KGSeoaVS7ssllLUbp8JHYpoXw71uKH%2FxhZlK1UaOQqL%2BNXZrQY8we3bv%2B3rwYW7xCufi9UmWeMRAmau5d9R57aErIPU1mbHlAukyfmnOdcdVz9dYuyyrXREeCmvVRlEz5yhYzJtnzPlXWNC6BAkpJDPBq%2Bimd6V%2FNHs8uw2R4w%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/227503491872?_skw=sealed+new+airpods+pro&hash=item34f843cb20:g:zh4AAeSw0FZqmRex&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYrXAOrlJkZKvNuu7E2RMnFTQ7jE74DXdLyv82LTSqhHKZ0GksQrUjCoJhDglQXik5OVA7TesSJPjGf5Ev9tkzk8tlY41gt7b57VZ6qUQMVp2CAjBXNvOsiVpeL8bAmE4X2JWuVIuC20y%2F85E4B%2BJ0p3bkyxiT0IJFVQtZrRSZVP2xgy5unsfwEEHNsJUa5vjTPdvrjBL8X5Pqr94ICy1qGxNFizuv4tra1gP09aXVT2pqRdYzC6Gm5t83m8Za44sFUY4s9UIssND1Zo%2FxMRUEPtnkVHyqYl7GSnNZA%2FV5Zkw%3D%3D",
     "clusterMedian": 185.0,
     "spreadPct": 0.459,
     "marginPct": 0.29,
@@ -161,29 +161,6 @@
     "margin": -77.76,
     "signals": [
       "below_cluster",
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|313803533770|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console Brand New Sealed",
-    "category": "Consoles",
-    "price": 795.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 2
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/313803533770?_skw=sealed+new+xbox+series+x+console&hash=item491025edca:g:akoAAOSwvUVhw371",
-    "clusterMedian": 867.25,
-    "spreadPct": 0.083,
-    "marginPct": -0.139,
-    "margin": -120.12,
-    "signals": [
       "best_offer"
     ],
     "sellerOk": false
@@ -438,6 +415,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|298626138414|0",
+    "title": "NEW SEALED DEWALT DCK510P2 20V MAX Brushless 5-Tool Cordless Combo Kit & BATTERY",
+    "category": "Power Tools",
+    "price": 669.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 110
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/298626138414?_skw=sealed+new+dewalt+drill+kit&hash=item458781412e:g:AYwAAeSwhPJqkqvc",
+    "clusterMedian": 674.0,
+    "spreadPct": 0.007,
+    "marginPct": -0.21,
+    "margin": -152.79,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|278104006879|0",
     "title": "New Sealed Xbox Series X 1 TB SSD Console w/Controller - Model 1882",
     "category": "Consoles",
@@ -520,7 +518,7 @@
       "feedbackPct": 99.6,
       "feedbackCount": 493
     },
-    "itemWebUrl": "https://www.ebay.com/itm/800593148898?_skw=sealed+new+milwaukee+tool+combo&hash=itemba6711fbe2:g:~zUAAeSwuxVqlghS&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbxplcCXhJdt7tapb57FyI6uvRkMYcjxWqZknNIKsMqc2lPKrKIHtzNs4QYRtlfwyRJ5ddVc8Vvy%2FAUuWUSVIoZ8l9pgHJIUbT3htRqRZltYeA1fD97sAeqCGPHqCjczdLR0SzmCFVbvgyd2ENmJ04x0fvDtDe4ON%2F2yoR4vAkYlQNOnKUlHs1IMGSB5Bx1HYUnAtIyRpf93QEAISL%2BwVf4zA0cmWLpnX5Ew4%2FkJmRgyYUR4aPPowgg9pqzVdlYgRWn9pBZBp7sT73Ion1WgGzn%2F9ZXVHwuK2rHLZj%2FBSE9y7tnq51gnp%2FSo1xR2h9ac0g%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/800593148898?_skw=sealed+new+milwaukee+tool+combo&hash=itemba6711fbe2:g:~zUAAeSwuxVqlghS&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbxplcCXhJdt7tapb57FyI6uvRkMYcjxWqZknNIKsMqc2lPKrKIHtzNs4QYRtlfwyRJ5ddVc8Vvy%2FAUuWUSVIoZ8l9pgHJIUbT3htRqRZltYeA1fD97sAeqCGPHqCjczdIacOw77tyPalUgA0L5niWUNThWArwhSUbkyFjmq%2BvtL%2FMpk4qTLoPToCsRcUr244YNvBlZTzr5LhpKGvK0U2tpP3Wo%2FpcH4Wc4OiF8DcUsIuwLcLjVa6DWhAB1LvnuMTnALaWaBVPy%2B2ehbEbubyR7ziY6z24jnsmSCeDwPORnrrCZZadzbvLJxcArZCbxM7s%3D",
     "clusterMedian": 674.99,
     "spreadPct": 0.0,
     "marginPct": -0.216,
@@ -564,7 +562,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnOfC8KiJkaQXgw%2BBCJTnnEZLYxt2briWOxJGuMIlAMStvkfSQ%2BZqnaLdR3Xz6OwlwgQFZXtLWQ7p5G%2BlmxCOWiU%2FeXjDkQbf5elpvNhsBigU81JBahGEqZQDVo4xhTiGr%2Fx8BdTjl679BRmtCRm47PcizwiS1hcchSvVJS1uXgY%2BllGYhBHJ5Z0UsirBTPdP4Y%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnORos%2F%2Bhy89nOLgAJYRrkKF1RTNWQSmi6sN6cU7tVbAIRZxu4WRV1aRJN4Mkx1lJSA2ViGnmGLiH6wQnq3Vicbe%2FSao8P50Y%2FWACgdgsImTVAi6CGDKkkMjQbfIKc4tyGAxUmUFpjiUJd54q3TtBdyN%2FhvbpYZ2XH7JbQqjr5F%2FT9gUungY%2FoJl9Y9l4fg%2F878%3D",
     "clusterMedian": 548.0,
     "spreadPct": 0.0,
     "marginPct": -0.222,
@@ -572,6 +570,27 @@
     "signals": [
       "best_offer"
     ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|267764025243|0",
+    "title": "NEW SEALED DEWALT DCK510P2 20V MAX Brushless 5-Tool Cordless Combo Kit & BATTERY",
+    "category": "Power Tools",
+    "price": 679.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1100
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/267764025243?_skw=sealed+new+dewalt+drill+kit&hash=item3e57fac79b:g:5UsAAeSwhYZqiSEq",
+    "clusterMedian": 674.0,
+    "spreadPct": -0.007,
+    "marginPct": -0.222,
+    "margin": -163.54,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -715,7 +734,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 277925
+      "feedbackCount": 277926
     },
     "itemWebUrl": "https://www.ebay.com/itm/204282630720?_skw=sealed+new+milwaukee+tool+combo&hash=item2f90319240:g:to4AAeSwhYZqlxkT",
     "clusterMedian": 1172.0,
@@ -870,34 +889,11 @@
       "feedbackPct": 100.0,
       "feedbackCount": 17
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366651253767?_skw=sealed+new+milwaukee+tool+combo&hash=item555e1e2407:g:5kwAAeSwiTNqnG6Q&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaD8BzeIDkO%2BskCwl2fTgcPWgdWgDhnvcu%2BSVT7xQSpBl9yBkmCGP%2FhMw6%2F96RlZS65LeesMGWfLdBTUSK8umLiC%2Biqn5FDK0QOI7KAlbkg9yr6qOMwPjVtrHI%2Bp4vEVVpYmcroT3CA8I1wuFG8br9goAvlu313K54PM6xMQD%2FHZ0quhAv5gGKovaghsDQHTRwF2s4nRYMVpTdz8N%2FrYDxLkKWTX1vaz2BMtbYgFrWM6QHiAPTkD5k1N8o%2BKnLbEKoMjxN81utitHa%2BrZnvJmOoNRQa8cl0xFPfH3m6jYn2gwSDFSX3zz0xxznkJiaAO9Q%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366651253767?_skw=sealed+new+milwaukee+tool+combo&hash=item555e1e2407:g:5kwAAeSwiTNqnG6Q&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaD8BzeIDkO%2BskCwl2fTgcPWgdWgDhnvcu%2BSVT7xQSpBl9yBkmCGP%2FhMw6%2F96RlZS65LeesMGWfLdBTUSK8umLiC%2Biqn5FDK0QOI7KAlbkg9yr6qOMwPjVtrHI%2Bp4vEVVqNdpM0Ow5o9rIhEuQwnZ4Gfm5OmGiK8eADQWvSfSsNHqPzk5Z6QyyGUsF%2F4NWLYRK2ph8%2BrxN0cQ0X2489HJ5ktfAhrNyjETHW44hBdVkaoqK6zzE0548iyJTMng%2Bbg4qBhVisJYUnb%2BDfGiDf%2BhMb0XDGrUimrEgHUH%2B7C%2FfDyrObhbM3h6SZ6JgkooBT2E4%3D",
     "clusterMedian": 170.0,
     "spreadPct": 0.029,
     "marginPct": -0.267,
     "margin": -49.47,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|384532102582|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console - NEW & SEALED - FAST SHIPPING!",
-    "category": "Consoles",
-    "price": 939.5,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 0
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/384532102582?_skw=sealed+new+xbox+series+x+console&hash=item5987e63db6:g:R5cAAOSw5rthn~D4",
-    "clusterMedian": 867.25,
-    "spreadPct": -0.083,
-    "marginPct": -0.271,
-    "margin": -275.45,
     "signals": [
       "best_offer"
     ],
@@ -1162,29 +1158,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|157548143473|0",
-    "title": "Instant Pot Smart WiFi 6 Quart Electric Pressure Cooker,Smart WIFI 60 Sealed",
-    "category": "Kitchen Appliances",
-    "price": 60.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 45
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/157548143473?_skw=sealed+new+instant+pot&hash=item24ae99e371:g:8BMAAeSwNI1pQeoC",
-    "clusterMedian": 72.5,
-    "spreadPct": 0.172,
-    "marginPct": -0.296,
-    "margin": -21.42,
-    "signals": [
-      "below_cluster"
-    ],
-    "sellerOk": false
-  },
-  {
     "id": "v1|278307790287|0",
     "title": "KitchenAid Deluxe 4.5qt Mixer Tilt Head (Contour Silver) NEW FACTORY SEALED!",
     "category": "Kitchen Appliances",
@@ -1239,7 +1212,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 6224
+      "feedbackCount": 6225
     },
     "itemWebUrl": "https://www.ebay.com/itm/178470615669?_skw=sealed+new+dewalt+drill+kit&hash=item298dad7a75:g:yLYAAeSwo9lqZjAs",
     "clusterMedian": 189.94,
@@ -1260,9 +1233,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 189248
+      "feedbackCount": 189249
     },
-    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa4Uibz5ZtGmiGTkXWrUOTQSX4eEoVwaf1GKF9B%2BhmrndWdc3S5qZjVTUYxM819V3JH2PBvULAHU%2FdgVdg1NQSjcZt0bIzTSqpIa2SJXcDs8neu9flLL4AreKCV7sxFx3JBEWvrNH8RT6nh7TROmOmMlZtOOf6s25ixAueQX4ejyBEuGgetqwWuws4SnBmLiDTpweZoB8tzU4i7Od3RupMstVq8egSpV8eqEPYnJ932GosZy%2FQcGIUVL%2B399gC%2BkJZ54lXEY1PfkUetGdhWc0JQlq0PlCVErWLzhas6u4YircW3GXQk4RSxmL8PYTwMmro%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~",
     "clusterMedian": 439.48,
     "spreadPct": -0.135,
     "marginPct": -0.32,
@@ -1507,7 +1480,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 902
     },
-    "itemWebUrl": "https://www.ebay.com/itm/398318628481?_skw=sealed+new+instant+pot&hash=item5cbda3ee81:g:6UoAAeSwWOBqjBR2&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYurwyl7bQ2E9KHcI0nEgzJTBPZDWbbjqB1Y2h7oxJOcYxDH8iQEjm%2FG6KChRdazLfBNSccWii9F1fFIc7F%2BePeOspZE26rEJQ7RV1F5piHJ1pHL%2Bd1DSUpVQPv9VLwNHQVx0kEAj9wvbVV5qmkGHAa4oUrhlkE%2B8EASP3O8BoZpXvg6NJo9kT6D%2Fnkkw3kr3O5hRCqkLvRRt2DiBTuu6%2B0I6Xc%2FmcN5XklTXlDPjAiAAkkLDkA0ndT%2BCwhZchS%2F1E4BqSH7cJHZ7zbhJTscEy2rSrrceSUwoehcePunBttWQ%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/398318628481?_skw=sealed+new+instant+pot&hash=item5cbda3ee81:g:6UoAAeSwWOBqjBR2&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYurwyl7bQ2E9KHcI0nEgzJTBPZDWbbjqB1Y2h7oxJOcYxDH8iQEjm%2FG6KChRdazLfBNSccWii9F1fFIc7F%2BePeOspZE26rEJQ7RV1F5piHJ1pHL%2Bd1DSUpVQPv9VLwNHR3ixbidGlWoukoAJZRZhu2GVs%2FkP6%2F5pZwHG%2BbABbPY0gq4QFSewUFScClUeibmvMs4NdQ8T58RMBibfes4UwLFL0VBRcsfn1BOxHIJEqnM6kC6zLdr0mAha4fNJABvx8Bu4rUABwOL%2B5W7khHLQGoxRniBZN7L2Clv8oC1bAn6g%3D%3D",
     "clusterMedian": 53.67,
     "spreadPct": 0.016,
     "marginPct": -0.464,
@@ -1550,8 +1523,8 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 98.5,
-      "feedbackCount": 784
+      "feedbackPct": 98.4,
+      "feedbackCount": 783
     },
     "itemWebUrl": "https://www.ebay.com/itm/800533507739?_skw=sealed+new+dewalt+drill+kit&hash=itemba6383ee9b:g:3tMAAeSwxB9qhXvm",
     "clusterMedian": 44.99,
@@ -1574,7 +1547,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 902
     },
-    "itemWebUrl": "https://www.ebay.com/itm/398361199785?_skw=sealed+new+instant+pot&hash=item5cc02d84a9:g:VqUAAeSwJ9tqm7di&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaVFyz%2BSX7Mrvhn4%2Fv%2Bcug%2Ffqb2LkRXwCTZoJg8flfAoKhmEaYeftv9baYt8CDxV1Tz1Nkj5jyQuXQdrd%2FnUMmkaYbnJUY4FBuQbEQNHR98A1aXGR929Qhwxz3LaRvD%2BJdqijI5%2Fy0rH1B6x%2Fwq%2BolxSSA4gLGqIs0YWCNWAPtMcOmHoLb11Vn7XSth%2B9NnH8cA0I5hZVfEwOxRFN5hj7xoO562I75cXixZHgBJ%2FBxrbhlFYKj%2FeYXNpgkQtJsHWHupef6P3JWmy5%2FCivyarC0q%2FVVBTO3iXauZP8ZNErNXBA%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/398361199785?_skw=sealed+new+instant+pot&hash=item5cc02d84a9:g:VqUAAeSwJ9tqm7di&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaVFyz%2BSX7Mrvhn4%2Fv%2Bcug%2Ffqb2LkRXwCTZoJg8flfAoKhmEaYeftv9baYt8CDxV1Tz1Nkj5jyQuXQdrd%2FnUMmkaYbnJUY4FBuQbEQNHR98A1aXGR929Qhwxz3LaRvD%2BJfNKf3hvPM1%2BHQr92A8haIWkwN86MPBax3XtZqA7S8bOIkH3laqTFl3Tqx%2FBahBxPFjWiHHpPEiSN9RdZF8xtwcs8VN1H%2F1nnmZEh4adh7EdVNv0hB5Ri6ZXDIG%2BcFw8v819QQs5vBZh7RBlEqm46DIIWCrCx8tcBUrd%2FVU2HNC5w%3D%3D",
     "clusterMedian": 53.67,
     "spreadPct": -0.016,
     "marginPct": -0.479,
@@ -1582,27 +1555,6 @@
     "signals": [
       "best_offer"
     ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|257335432526|0",
-    "title": "Instant Pot Smart WiFi 6 Quart Electric Pressure Cooker,Smart WIFI 60 Sealed",
-    "category": "Kitchen Appliances",
-    "price": 85.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.1,
-      "feedbackCount": 384
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/257335432526?_skw=sealed+new+instant+pot&hash=item3bea63154e:g:ZqgAAeSwJbJpe5Ep",
-    "clusterMedian": 72.5,
-    "spreadPct": -0.172,
-    "marginPct": -0.486,
-    "margin": -48.3,
-    "signals": [],
     "sellerOk": true
   },
   {
@@ -1683,7 +1635,7 @@
       "feedbackPct": 98.5,
       "feedbackCount": 4171
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm3dGaJINALwF4nDRg9R1e16wRMC5ReFAPbYv44GG3FF48pu1%2BzDeQkCcf2%2F1YG0lPVjcGiTscnve%2B2jZuD83UpELt3pRoBzJmosN3dLAMtopZZ9ZNKKImnSAHCipVbupZaDzUtHE94Os1kYJyrA4yfmqDb%2FK2ub2Xn7J8UpvofIwT2fKRsXH5URtIVNU6LmAuY%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm2VOOL7t%2FAx2TecLk0VEIfzXG8w0f8tWxL6jBnKn45kDZXT587gATE36RU9X7ftCToyeUKeR7AisgJM%2F7kKGT1d205A3z3z7kJn1Gzv2COC6YDK6Sj3eRJbL%2FRC8AkkElJC1fOTrKJW%2Fe2gMfsC4zAMZbjz1ZQk0lfRhF0jnHOMFS%2Fsfg3WdKxeqI5qgcbIDso%3D",
     "clusterMedian": 44.99,
     "spreadPct": -0.089,
     "marginPct": -0.553,
@@ -1725,7 +1677,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 662
     },
-    "itemWebUrl": "https://www.ebay.com/itm/298613829971?_skw=sealed+new+kitchenaid+stand+mixer&hash=item4586c57153:g:rbEAAeSwuVhqjTcK&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGad1VOGpNQoqWT9hDc05UH7Y%2Fc%2BX3W0D6NIxgzTtFuK8emU37nuVjHmDukLcUq67AwRHFvYbNkduRSfHBSeIcFUNkLcvdQktnXDVKw2xChaTW2xliOiuC6cZL6M9vqTLrP03l0Rhz23S%2BayDy7eHuvwaxyv%2BNqwd81kuuSDC9FfGZHjhpGmWC7f0J15GCWGMS6JuyvapN9h6npCmrkVzNxW0uqupcfBGS9ct%2FqbPk7qrT5D28peusFHk80EBSl4bJWIrEO2MIE13weMX8UBUaJJWdGrxyGqCzrnCpVkV9iGgliudlUfdQ2Ks2GQqnjUzS0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/298613829971?_skw=sealed+new+kitchenaid+stand+mixer&hash=item4586c57153:g:rbEAAeSwuVhqjTcK&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGad1VOGpNQoqWT9hDc05UH7Y%2Fc%2BX3W0D6NIxgzTtFuK8emU37nuVjHmDukLcUq67AwRHFvYbNkduRSfHBSeIcFUNkLcvdQktnXDVKw2xChaTW2xliOiuC6cZL6M9vqTLrNyoXHFnjNo34ZTnwk1lXwI77wV%2BgiCG%2FK6bYQ9QW3g%2BeHirMCnDvv17O5cYzCnC0gJKC5Lqj0qwt6dep10XHyHLEZk359P%2BxhH8%2FaYhz3Oyy79Ivl7TqcNyUE4J8c3Hpv6NONTRCrgUFKhFkicic7Wrm2IT2U08zsgQFRcpcD0poJm%2BTLXld79fyw%2B6%2BusxXE%3D",
     "clusterMedian": 40.73,
     "spreadPct": -0.021,
     "marginPct": -0.555,
@@ -1778,50 +1730,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|358868199852|0",
-    "title": "NEW SEALED Kitchen Aid Pastry Beater Blade + Scraper Stand Mixer 4.5 & 5 Quart",
-    "category": "Kitchen Appliances",
-    "price": 30.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 243
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/358868199852?_skw=sealed+new+kitchenaid+stand+mixer&hash=item538e3629ac:g:TA8AAeSwObdqbTWI",
-    "clusterMedian": 32.5,
-    "spreadPct": 0.077,
-    "marginPct": -0.596,
-    "margin": -23.98,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|235597279952|0",
-    "title": "NEW SEALED Kitchen Aid Pastry Beater Blade + Scraper Stand Mixer 4.5 & 5 Quart",
-    "category": "Kitchen Appliances",
-    "price": 34.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 1681
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/235597279952?_skw=sealed+new+kitchenaid+stand+mixer&hash=item36dab132d0:g:4tMAAOSw~shmYjxW",
-    "clusterMedian": 32.5,
-    "spreadPct": -0.077,
-    "marginPct": -0.643,
-    "margin": -29.34,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|227163145984|0",
     "title": "Food Grade Grease 6oz for Kitchenaid Stand Mixer with Gasket & Spoon",
     "category": "Kitchen Appliances",
@@ -1834,12 +1742,14 @@
       "feedbackPct": 99.2,
       "feedbackCount": 1198
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227163145984?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34e3fa8700:g:TuoAAeSwWO9pXWXv&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDkhpSVXkkS7EN7ZnpQ1QPHD1BRsEcQbqWTFDyrA0%2Fpa9D7DWGq0mwh9PtQx%2B%2BEFNAa10m93QrqPucqhtOD1sePXtAkWe41XoL1vGLAE1ghuioyPsgpDpgLvfxXM7wEE4pmojrpozVQbCdnIR6TgtYFunU%2FF4czXPyUV%2FcoJHJTOYaHkHilxxxNwgUm2A6QgiTl6FsGC1%2Be0PzrsUDJDxKrFvF%2FydHN7WeR7j9jhs5p8ScU4Wgd%2Bs%2FuOTdJt2rJf9UtiLqcDN68Ho0IyOv3NUm%2FKsKF%2FtTvETWAVATsPwqkDTZdayr3wRpdeRQOWRKu4Y%3D",
-    "clusterMedian": 21.2,
-    "spreadPct": 0.062,
-    "marginPct": -0.781,
-    "margin": -22.94,
-    "signals": [],
+    "itemWebUrl": "https://www.ebay.com/itm/227163145984?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34e3fa8700:g:TuoAAeSwWO9pXWXv&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDkhpSVXkkS7EN7ZnpQ1QPHD1BRsEcQbqWTFDyrA0%2Fpa9D7DWGq0mwh9PtQx%2B%2BEFNAa10m93QrqPucqhtOD1sePXtAkWe41XoL1vGLAE1ghuioyPsgpDpgLvfxXM7wEE4Nv6bFjAoEenZkeT%2BszCFg82xmWhpEGMn%2FkdJjvca6B%2BI%2BeJVWSituTHOW4939SactX7wkmiO2W1JuzAgrmnwIHwK714zgbsqt6u780SPw42nSbBux7kntgRtFPB1I%2Fb2NRb0CmJ60m%2B9IKc2WmUWJ0r%2BbVBAocGGVLlKmO90T4%2FYHuP70KyM3Jo4pxL0c1qc%3D",
+    "clusterMedian": 22.5,
+    "spreadPct": 0.116,
+    "marginPct": -0.742,
+    "margin": -21.81,
+    "signals": [
+      "below_cluster"
+    ],
     "sellerOk": true
   },
   {
@@ -1855,14 +1765,35 @@
       "feedbackPct": 100.0,
       "feedbackCount": 129
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227353351615?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34ef50d5bf:g:MQUAAeSw1rlqD4XM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcJyWOepTJl80ogVctFjuG06nMI5XCUEm--cats78xm%2FZlq7%2FBgbf%2B6ReAmQAvSniSrHX%2B%2FwPPnbKjmm5pY12hJNk9YV8cjLDWWdrmz548aMWKfaCggzHYVhgwyyb%2B3Mg4ZKfbF%2BHVqhox7H40ziVisAgqTR2F4KF9FymhSMsxjFMOlFcCTsjVWj50WhDFSwt8r9BWoh43swGODFme4grOLoAzGqWH4S61Dsw%2FbJGDE%2Fv9TpXYJ5JKAve2oB%2Ba8A2Q8p9%2BPtfv3QV5uU7cseOqT9iNHkO1P2qWyZcMApSshLKjk3V3epHkeVtU%2B7v1Ku4%3D",
-    "clusterMedian": 21.2,
-    "spreadPct": -0.062,
-    "marginPct": -0.8,
-    "margin": -25.75,
+    "itemWebUrl": "https://www.ebay.com/itm/227353351615?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34ef50d5bf:g:MQUAAeSw1rlqD4XM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcJyWOepTJl80ogVctFjuG06nMI5XCUEm--cats78xm%2FZlq7%2FBgbf%2B6ReAmQAvSniSrHX%2B%2FwPPnbKjmm5pY12hJNk9YV8cjLDWWdrmz548aMWKfaCggzHYVhgwyyb%2B3MjoNTJBOuoWcud%2B3fsemW9h0LX0av%2F%2BvjL9nt%2FQzhlz9W1CnrO%2BhH2rhrt%2F%2BAD6HcRupbJi%2BDrvY9G236W5F0OeI9efmtEGnWqvZVUh%2BSPMzt6KmgpPw%2B5mtoE9L8HgKEjhF3OOzZYh2AcDY948JtY8wBohYeiKYgu8pdMWrfVzoh4%2BBdlKTxDkoFnI2Lz12i4%3D",
+    "clusterMedian": 22.5,
+    "spreadPct": 0.0,
+    "marginPct": -0.765,
+    "margin": -24.61,
     "signals": [
       "best_offer"
     ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|167863307925|0",
+    "title": "Food Grade Grease 6oz for Kitchenaid Stand Mixer with Gasket & Spoon",
+    "category": "Kitchen Appliances",
+    "price": 23.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.7,
+      "feedbackCount": 10008
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/167863307925?_skw=sealed+new+kitchenaid+stand+mixer&hash=item27156ece95:g:3h0AAeSwyf9o7~g5&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZAlc5%2B0TXDomhQ5kIeM%2BqR%2B0F2ad9w%2Fl6f0couUAIfo9YFI3EcFfKzlwWXWBBQBplo%2FU3WsfaGl0YMNdtNteET75SyvjQJDAIbIUQ9hQwPpiJ09HXJJFavtKW03q1FmPmF53IlQ4KVsvrDKx%2B%2FEAnEExahfsyorw2KSrgsI1tWmiid1EknwQG5sm9lkWVsAuYFMR%2BYUAbE8M3koKQtk7WjIZVQ5DeCdHMCqN%2FntnTxk5gpnA4PwCMGKnEVtkT95ZkrwtBqjmWxqPOq1U%2FBRvDlgmBT1G3ilD7la39yOW0bRORWtlfpkBoRNFnjxYUp1T8%3D",
+    "clusterMedian": 22.5,
+    "spreadPct": -0.066,
+    "marginPct": -0.776,
+    "margin": -26.21,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -1876,7 +1807,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.5,
-      "feedbackCount": 7768
+      "feedbackCount": 7770
     },
     "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
     "clusterMedian": 16.38,
@@ -1899,13 +1830,97 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 4960
+      "feedbackCount": 4961
     },
     "itemWebUrl": "https://www.ebay.com/itm/377314003431?_skw=sealed+new+instant+pot&hash=item57d9aac9e7:g:GK8AAeSwEJNqRy3B",
     "clusterMedian": 16.38,
     "spreadPct": -0.281,
     "marginPct": -0.926,
     "margin": -28.31,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|800611310998|0",
+    "title": "Sealing Ring for 6 Qt Instant pot Replacement Silicone Gasket Seal Rings for Ins",
+    "category": "Kitchen Appliances",
+    "price": 15.47,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 40
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/800611310998?_skw=sealed+new+instant+pot&hash=itemba68271d96:g:guwAAeSwR8Jqmqit",
+    "clusterMedian": 15.73,
+    "spreadPct": 0.017,
+    "marginPct": -0.932,
+    "margin": -22.95,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|396749098523|0",
+    "title": "Sealing Ring for 6 Qt Instant Pot Replacement Silicone Gasket Seal Rings for Ins",
+    "category": "Kitchen Appliances",
+    "price": 15.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.6,
+      "feedbackCount": 2445
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/396749098523?_skw=sealed+new+instant+pot&hash=item5c6016ce1b:g:cO0AAOSwRfZoT1FK",
+    "clusterMedian": 15.73,
+    "spreadPct": -0.017,
+    "marginPct": -0.933,
+    "margin": -23.5,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|237048138832|0",
+    "title": "2 Pack Sealing Ring 8Qt for Instant Pot Sealing Ring 8 Quart, Premium Silicone G",
+    "category": "Kitchen Appliances",
+    "price": 12.3,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 5
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/237048138832?_skw=sealed+new+instant+pot&hash=item37312b8c50:g:KdgAAeSwPgVqmlk-&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaFKOJfj9I1A5lEzjr4QgR4bRzigg2%2FpK6tdYptbgmk36KavkokrhmAoOmXoOu0geBNX%2FAmFntB7MkXq5CNh5e355NR5TsnpAMjIUjsEPnxDO8DlrxFkTPRenOPAwAfsetnnDoQOJwAGDgvCND6AdWHeo4ZItLvCpAjjW7QvxWDoQ4rHTRdueurC0zO7slNuCmJvnfQqjdVgSxvbuIEApuvpBdSmG%2B2Wi1CoEsPl3IZD6%2BrTnlOrjjUDjx7n5gvAdEoblf1%2BtMlscZUBksljKVAIH2WL6bEOFDX57ozc8ZPYQ%3D%3D",
+    "clusterMedian": 12.06,
+    "spreadPct": -0.02,
+    "marginPct": -1.071,
+    "margin": -22.73,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|405912474858|0",
+    "title": "2 Pack Sealing Ring 8Qt for Instant Pot Sealing Ring 8 Quart, Premium Silicone G",
+    "category": "Kitchen Appliances",
+    "price": 11.82,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.3,
+      "feedbackCount": 17113
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/405912474858?_skw=sealed+new+instant+pot&hash=item5e8244d4ea:g:d5EAAOSwjzJoOlMN",
+    "clusterMedian": 12.06,
+    "spreadPct": 0.02,
+    "marginPct": -1.073,
+    "margin": -22.21,
     "signals": [],
     "sellerOk": true
   }
