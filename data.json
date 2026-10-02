@@ -84,7 +84,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 399
     },
-    "itemWebUrl": "https://www.ebay.com/itm/197909754909?_skw=sealed+new+milwaukee+tool+combo&hash=item2e1457341d:g:6-oAAeSwxKRpK4aR&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbFFd8MehY2lX869JnAd%2Be%2B5qJsI9gDwCt9BxkEWDpy5rgCNEXWdwuUaD%2Beu9mOVvvs%2Beatq8Q%2FMi%2FzHlRa2RPfzhAE3tUVv5p3Tyjv6MQfoo5MUy1XckrimFowpZ7w7COr13CFgVLGnPFbLebiebCnsJAzUDNBhQlQ2dKhabaqQW4X6EYrS6LanW6RjMVbkRlc%2FaFjo99ksA0ON%2FDfm4ONk8sZKiboLgULXTjW%2BdIQl6b4V5cY7Oh9eCgLqXHyOxkCa2w7l%2BnB8ns39dha%2Fu%2FR0KB7qourm6k9O7FUWYDRh8mJSIIqksj3H8OWiLiA7Eo%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/197909754909?_skw=sealed+new+milwaukee+tool+combo&hash=item2e1457341d:g:6-oAAeSwxKRpK4aR&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbFFd8MehY2lX869JnAd%2Be%2B5qJsI9gDwCt9BxkEWDpy5rgCNEXWdwuUaD%2Beu9mOVvvs%2Beatq8Q%2FMi%2FzHlRa2RPfzhAE3tUVv5p3Tyjv6MQfoo5MUy1XckrimFowpZ7w7CM4f83UCAMsJvhrWjpWZIuIMH%2FAk1prJ22eSgzXh1K%2BbfVOMNz8UNd5%2FiBKhpHz31p2QlDVK9vsy7G0ohX2YmFOGAqVB0EWCZrL95NwFG9QbdqxyInymRS8u%2FLqPMSS%2BD0nORN%2FAFxGVm%2BFECAtQ0MLO6SqXGSiK4xSiEHSKdd4WGdwwOkhLzmaoJvfUrdY5Qs%3D",
     "clusterMedian": 857.0,
     "spreadPct": 0.109,
     "marginPct": -0.115,
@@ -106,7 +106,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.3,
-      "feedbackCount": 15801
+      "feedbackCount": 15802
     },
     "itemWebUrl": "https://www.ebay.com/itm/158374428307?_skw=sealed+new+milwaukee+tool+combo&hash=item24dfd9fe93:g:p5YAAeSwe41qXCsO",
     "clusterMedian": 642.0,
@@ -127,13 +127,34 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 849
+      "feedbackCount": 850
     },
     "itemWebUrl": "https://www.ebay.com/itm/198498134870?_skw=sealed+new+milwaukee+tool+combo&hash=item2e37692b56:g:lFcAAeSw6FJqVsP3",
     "clusterMedian": 540.0,
     "spreadPct": 0.074,
     "marginPct": -0.161,
     "margin": -87.7,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|398298240677|0",
+    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
+    "category": "Power Tools",
+    "price": 414.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 885
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/398298240677?_skw=sealed+new+milwaukee+tool+combo&hash=item5cbc6cd6a5:g:Qt8AAeSwSytqg9Uf",
+    "clusterMedian": 449.95,
+    "spreadPct": 0.078,
+    "marginPct": -0.164,
+    "margin": -74.66,
     "signals": [],
     "sellerOk": true
   },
@@ -183,27 +204,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|398298240677|0",
-    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
-    "category": "Power Tools",
-    "price": 414.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 885
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/398298240677?_skw=sealed+new+milwaukee+tool+combo&hash=item5cbc6cd6a5:g:Qt8AAeSwSytqg9Uf",
-    "clusterMedian": 440.0,
-    "spreadPct": 0.057,
-    "marginPct": -0.183,
-    "margin": -83.32,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|237040752927|0",
     "title": "Microsoft Xbox Series S Console White 512GB - NEW & SEALED!!!",
     "category": "Consoles",
@@ -214,7 +214,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.2,
-      "feedbackCount": 978
+      "feedbackCount": 977
     },
     "itemWebUrl": "https://www.ebay.com/itm/237040752927?_skw=sealed+new+xbox+series+x+console&hash=item3730bad91f:g:YH8AAeSwaGNqlXoI",
     "clusterMedian": 523.98,
@@ -256,7 +256,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 33147
+      "feedbackCount": 33158
     },
     "itemWebUrl": "https://www.ebay.com/itm/327331144580?_skw=sealed+new+xbox+series+x+console&hash=item4c3674e384:g:XkEAAeSwALdqkfCl",
     "clusterMedian": 784.0,
@@ -279,7 +279,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 319
+      "feedbackCount": 320
     },
     "itemWebUrl": "https://www.ebay.com/itm/198588185756?_skw=sealed+new+kitchenaid+stand+mixer&hash=item2e3cc73c9c:g:N0QAAeSw3etpj2mJ",
     "clusterMedian": 243.49,
@@ -344,7 +344,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 32640
+      "feedbackCount": 32645
     },
     "itemWebUrl": "https://www.ebay.com/itm/286554054480?_skw=sealed+new+milwaukee+tool+combo&hash=item42b7f3df50:g:pw4AAeSww-RoHSLV",
     "clusterMedian": 654.5,
@@ -352,52 +352,6 @@
     "marginPct": -0.211,
     "margin": -149.33,
     "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|278104006879|0",
-    "title": "New Sealed Xbox Series X 1 TB SSD Console w/Controller - Model 1882",
-    "category": "Consoles",
-    "price": 814.95,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.0,
-      "feedbackCount": 840
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/278104006879?_skw=sealed+new+xbox+series+x+console&hash=item40c04a60df:g:YZcAAeSwDSdqNN73",
-    "clusterMedian": 814.95,
-    "spreadPct": 0.0,
-    "marginPct": -0.212,
-    "margin": -187.06,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|278104004155|0",
-    "title": "New Sealed Xbox Series X 1 TB SSD Console w/Controller - Model 1882",
-    "category": "Consoles",
-    "price": 814.95,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.0,
-      "feedbackCount": 840
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/278104004155?_skw=sealed+new+xbox+series+x+console&hash=item40c04a563b:g:E~4AAeSwBdhqNN1a",
-    "clusterMedian": 814.95,
-    "spreadPct": 0.0,
-    "marginPct": -0.212,
-    "margin": -187.06,
-    "signals": [
-      "best_offer"
-    ],
     "sellerOk": true
   },
   {
@@ -542,7 +496,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 2128
+      "feedbackCount": 2129
     },
     "itemWebUrl": "https://www.ebay.com/itm/398331249863?_skw=sealed+new+milwaukee+tool+combo&hash=item5cbe6484c7:g:FU4AAeSwiCJqkJiS",
     "clusterMedian": 529.99,
@@ -576,6 +530,29 @@
     "sellerOk": false
   },
   {
+    "id": "v1|117261632869|0",
+    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
+    "category": "Power Tools",
+    "price": 449.95,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.7,
+      "feedbackCount": 1184
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/117261632869?_skw=sealed+new+milwaukee+tool+combo&hash=item1b4d568565:g:yAMAAeSwripqOEfQ",
+    "clusterMedian": 449.95,
+    "spreadPct": 0.0,
+    "marginPct": -0.228,
+    "margin": -112.24,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
     "id": "v1|178496199110|0",
     "title": "MILWAUKEE 2697-26XC M18 6-Tool Cordless Combo Kit 18V",
     "category": "Power Tools",
@@ -593,6 +570,48 @@
     "spreadPct": -0.012,
     "marginPct": -0.233,
     "margin": -129.74,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|189032272629|0",
+    "title": "PSA 10 Keldeo EX #49 - Boundaries Crossed Ultra Rare Pokemon Card",
+    "category": "Trading Cards",
+    "price": 399.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 3116
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/189032272629?_skw=PSA+10+graded+pokemon+card&hash=item2c033392f5:g:Bt4AAeSw3P1qv6eJ",
+    "clusterMedian": 399.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.233,
+    "margin": -102.0,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|189032280605|0",
+    "title": "PSA 10 Keldeo EX #49 - Boundaries Crossed Ultra Rare Pokemon Card",
+    "category": "Trading Cards",
+    "price": 399.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 3116
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/189032280605?_skw=PSA+10+graded+pokemon+card&hash=item2c0333b21d:g:6OcAAeSwtJFqv6fl",
+    "clusterMedian": 399.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.233,
+    "margin": -102.0,
     "signals": [],
     "sellerOk": true
   },
@@ -670,13 +689,55 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 5490
+      "feedbackCount": 5493
     },
     "itemWebUrl": "https://www.ebay.com/itm/398227736593?_skw=sealed+new+milwaukee+tool+combo&hash=item5cb8390811:g:g08AAeSw5llpmKm9",
     "clusterMedian": 349.5,
     "spreadPct": -0.001,
     "marginPct": -0.24,
     "margin": -92.18,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|189032345747|0",
+    "title": "PSA 10 Keldeo GX #219/236 - Sun & Moon Unified Minds Full Art Pokemon Card",
+    "category": "Trading Cards",
+    "price": 299.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 3116
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/189032345747?_skw=PSA+10+graded+pokemon+card&hash=item2c0334b093:g:6twAAeSw9HBqv6jh",
+    "clusterMedian": 299.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.247,
+    "margin": -81.5,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|189032350544|0",
+    "title": "PSA 10 Keldeo GX #219/236 - Sun & Moon Unified Minds Full Art Pokemon Card",
+    "category": "Trading Cards",
+    "price": 299.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 3116
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/189032350544?_skw=PSA+10+graded+pokemon+card&hash=item2c0334c350:g:BxsAAeSw-Cpqv6k1",
+    "clusterMedian": 299.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.247,
+    "margin": -81.5,
     "signals": [],
     "sellerOk": true
   },
@@ -702,6 +763,29 @@
     "sellerOk": true
   },
   {
+    "id": "v1|168720669417|0",
+    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
+    "category": "Power Tools",
+    "price": 465.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 0
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/168720669417?_skw=sealed+new+milwaukee+tool+combo&hash=item2748891ae9:g:saMAAeSwmbxqttU8",
+    "clusterMedian": 449.95,
+    "spreadPct": -0.033,
+    "marginPct": -0.253,
+    "margin": -128.42,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
+  },
+  {
     "id": "v1|184740464796|0",
     "title": "\u2705NEW Sealed Microsoft Xbox Series S 512GB Console White \u2708\ufe0fFAST FREE SHIPPING X\u2705",
     "category": "Consoles",
@@ -714,7 +798,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 154
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnPkZBuR9llSr81NBGp1zRXmcWA8G%2Bbth%2BPjqT1H%2FB0mT6KlGITBmfg0HkiGPfVBYW3Jowt2ljjdmN%2FYp5AogbG9sFgVLoBHC8VC1dUcyU2SbFZfT%2BbYhbnFrdnGytO8DEEKR5RkUmmsfiCGQhFNT5nuUEXCDfXSNjooeKbUw2OgqP7DAVpm6zoHB6Mkq4QW6Ko%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZViIvAfJKCtML6eatT1BEwiCbWBqrBGGMgggprJBAmeLArlIbT9fz24Vm%2Bg27W1YmPKSJQmwUQxk0O8fWKdUqmv5ce5qSMirr%2BsVL6%2BGtnsbWdrfGSMH1Q1zf48gUI%2BnNkpLeITJBmHY16ZdScODj3wb71ygxCdYcl5DoClXm0joi7TA76mbPFJvCYUpb4jts%2Bs7LN4RkNqsbFiB65bgXp4yLzj1uX4DXIwjEaVaDo4S8nItXS5wyZH%2BTgJSRUvDgaTYscZIii83XFbwHAJNYByYEU%2FdWGA1c8qadviskAC43WaUi6%2FvmMTYzkVTC97ek%3D",
     "clusterMedian": 523.98,
     "spreadPct": -0.046,
     "marginPct": -0.257,
@@ -781,7 +865,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 406592
+      "feedbackCount": 406610
     },
     "itemWebUrl": "https://www.ebay.com/itm/135722449979?_skw=sealed+new+airpods+pro&hash=item1f99b03c3b:g:qjoAAeSw5wRqKty1",
     "clusterMedian": 260.72,
@@ -802,9 +886,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 3734
+      "feedbackCount": 3736
     },
-    "itemWebUrl": "https://www.ebay.com/itm/398246734573?_skw=sealed+new+milwaukee+tool+combo&hash=item5cb95aeaed:g:gaEAAeSwS0BqcSlE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbreQGAQxwFBCiL3ggd6K44ozPpRXNd%2B6O0d01FZYAJ8QGasvLi07K0cdta2gJGp7%2BftNrW%2Fvi0TTWSQK7NqfsHNsbVmftAwkorcTB5g%2BiaFnjV455kB4xJyT0C1tV9Lu1nlFG7V21BlRkIOoXeRvrWwHSU1vAj69u2tZR%2Bgr46AYKX98pQaMEQamSIp6F4MG6XBbS3L6E1XC44qyDOJKdmzcu4pTgwyz3dMer%2BCigXSfDJdDjY1Oss8DiGp7ESw2MZXZfnr7G5XtyJ1PXYwetDQYNqRspjtMzhKP%2F7zrTl2lrHj4kixEPIk9MpYVnM590%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/398246734573?_skw=sealed+new+milwaukee+tool+combo&hash=item5cb95aeaed:g:gaEAAeSwS0BqcSlE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbreQGAQxwFBCiL3ggd6K44ozPpRXNd%2B6O0d01FZYAJ8QGasvLi07K0cdta2gJGp7%2BftNrW%2Fvi0TTWSQK7NqfsHNsbVmftAwkorcTB5g%2BiaFnjV455kB4xJyT0C1tV9Lu14HaZUlRZ%2BN03sp7JjkwqAkNmHUMcs48Hz40AVAvAgDuL27%2FLNVMwsnn%2BhJMKhbHrUtQ6wgvue0fSr3unfgAmb4FALGGJNLkR1zneskOBK4xj7tXsoTM18FkW%2FIamhqZwfLh3nLa%2FglsKXGBPMfa%2BDeyxwxl7lSmvVWGzw4C9SbEfjFnOpxZcYDfTzab5YQXw%3D",
     "clusterMedian": 642.0,
     "spreadPct": -0.073,
     "marginPct": -0.27,
@@ -813,29 +897,6 @@
       "best_offer"
     ],
     "sellerOk": true
-  },
-  {
-    "id": "v1|168720669417|0",
-    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
-    "category": "Power Tools",
-    "price": 465.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 0
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/168720669417?_skw=sealed+new+milwaukee+tool+combo&hash=item2748891ae9:g:saMAAeSwmbxqttU8",
-    "clusterMedian": 440.0,
-    "spreadPct": -0.057,
-    "marginPct": -0.27,
-    "margin": -137.08,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
   },
   {
     "id": "v1|168408081498|0",
@@ -855,6 +916,27 @@
     "spreadPct": 0.0,
     "marginPct": -0.272,
     "margin": -61.61,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|144323535514|0",
+    "title": "New Apple AirPods Pro Factory Sealed With MagSafe Charging Case   *Free Shipping",
+    "category": "Apple Accessories",
+    "price": 199.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 101
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/144323535514?_skw=sealed+new+airpods+pro&hash=item219a5a629a:g:DwIAAOSwYdRhsOrg",
+    "clusterMedian": 199.5,
+    "spreadPct": 0.003,
+    "marginPct": -0.272,
+    "margin": -60.36,
     "signals": [],
     "sellerOk": true
   },
@@ -880,25 +962,69 @@
     "sellerOk": false
   },
   {
-    "id": "v1|147606517496|0",
-    "title": "Milwaukee 2697-26XC M18 6-Tool Combo Kit",
-    "category": "Power Tools",
-    "price": 580.0,
-    "condition": "New",
+    "id": "v1|189032109028|0",
+    "title": "PSA 10 Keldeo 162/BW-P - Japanese Black & White Reverse Holo Promo Pokemon Card",
+    "category": "Trading Cards",
+    "price": 199.99,
+    "condition": "Graded",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 7
+      "feedbackCount": 3116
     },
-    "itemWebUrl": "https://www.ebay.com/itm/147606517496?_skw=sealed+new+milwaukee+tool+combo&hash=item225e08b6f8:g:X~4AAeSwNr5quxjI",
-    "clusterMedian": 540.0,
-    "spreadPct": -0.074,
-    "marginPct": -0.275,
-    "margin": -173.7,
+    "itemWebUrl": "https://www.ebay.com/itm/189032109028?_skw=PSA+10+graded+pokemon+card&hash=item2c033113e4:g:0kEAAeSwAGRqv6KG",
+    "clusterMedian": 199.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.274,
+    "margin": -61.0,
     "signals": [],
-    "sellerOk": false
+    "sellerOk": true
+  },
+  {
+    "id": "v1|189032117733|0",
+    "title": "PSA 10 Keldeo 162/BW-P - Japanese Black & White Reverse Holo Promo Pokemon Card",
+    "category": "Trading Cards",
+    "price": 199.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 3116
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/189032117733?_skw=PSA+10+graded+pokemon+card&hash=item2c033135e5:g:it4AAeSw585qv6L4",
+    "clusterMedian": 199.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.274,
+    "margin": -61.0,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|204118045530|0",
+    "title": "Apple Airpods Pro with magsafe charging case, brand new, sealed",
+    "category": "Apple Accessories",
+    "price": 200.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 336
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/204118045530?_skw=sealed+new+airpods+pro&hash=item2f8662335a:g:vU0AAOSwM0xjRgwz",
+    "clusterMedian": 199.5,
+    "spreadPct": -0.003,
+    "marginPct": -0.275,
+    "margin": -61.44,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
   },
   {
     "id": "v1|336782223001|0",
@@ -920,6 +1046,27 @@
     "margin": -146.99,
     "signals": [],
     "sellerOk": true
+  },
+  {
+    "id": "v1|147606517496|0",
+    "title": "Milwaukee 2697-26XC M18 6-Tool Combo Kit",
+    "category": "Power Tools",
+    "price": 580.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 7
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/147606517496?_skw=sealed+new+milwaukee+tool+combo&hash=item225e08b6f8:g:X~4AAeSwNr5quxjI",
+    "clusterMedian": 540.0,
+    "spreadPct": -0.074,
+    "marginPct": -0.275,
+    "margin": -173.7,
+    "signals": [],
+    "sellerOk": false
   },
   {
     "id": "v1|336811231814|0",
@@ -978,9 +1125,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 136559
+      "feedbackCount": 136580
     },
-    "itemWebUrl": "https://www.ebay.com/itm/366570929474?_skw=sealed+new+dewalt+drill+kit&hash=item5559547d42:g:OJ8AAeSwrsFqaLxW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaU8kdAeOCHk%2FQicktZIkZsr4suF3ESDfoeciy82zo9K0eaVZGRfPTpwSoJkUm%2FUk6pGZp0EjNsD2pHo%2BVvbXlK5d2zh8WHYFZQ%2FUZfX3BKNdq46XyAX%2BFZ%2Faf8BeYLycpU9QDVS7s8xuBka%2B%2BCipC5%2Fn6a7SHeHGwrM7pWb2jWl%2FCVP5wKNwxQ7Mfp56x4BbA2ACs5UJiST8WV6qbrYbOtPICS4HDWKjKaUQIHochL%2Fmo9%2BwC7XCMaqx0KNzXM8DzSGyTBrkMM%2F7SQW0%2FWulwk18lD0fR3o9PtxoRbO%2FAMO3vKT6Lz2O7NGLYa2%2BvFxVA%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/366570929474?_skw=sealed+new+dewalt+drill+kit&hash=item5559547d42:g:OJ8AAeSwrsFqaLxW",
     "clusterMedian": 189.95,
     "spreadPct": 0.0,
     "marginPct": -0.278,
@@ -1010,6 +1157,27 @@
     "sellerOk": false
   },
   {
+    "id": "v1|318900170751|0",
+    "title": "New DEWALT DCK240C2 20V MAX Drill Impact Driver Combo Kit 2 Batteries Charger",
+    "category": "Power Tools",
+    "price": 178.59,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.7,
+      "feedbackCount": 481
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/318900170751?_skw=sealed+new+dewalt+drill+kit&hash=item4a3fee6fff:g:rJgAAeSwDaxqsV0s",
+    "clusterMedian": 179.29,
+    "spreadPct": 0.004,
+    "marginPct": -0.28,
+    "margin": -56.0,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|377511439297|0",
     "title": "DeWalt Brushless 1/2\u201d Drill Drive 20V Kit Batteries Bag DCD777C2 Sealed New ",
     "category": "Power Tools",
@@ -1020,13 +1188,34 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.3,
-      "feedbackCount": 6057
+      "feedbackCount": 6059
     },
     "itemWebUrl": "https://www.ebay.com/itm/377511439297?_skw=sealed+new+dewalt+drill+kit&hash=item57e56f6bc1:g:fnUAAeSwMXRqsHly",
     "clusterMedian": 146.0,
     "spreadPct": 0.027,
     "marginPct": -0.284,
     "margin": -45.62,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|397847697008|0",
+    "title": "DEWALT 20V MAX Drill & Impact Driver Combo Kit \u2013 2 Batteries & Charger(DCK240C2)",
+    "category": "Power Tools",
+    "price": 179.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 3954
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/397847697008?_skw=sealed+new+dewalt+drill+kit&hash=item5ca1921670:g:6dYAAeSwI-5p4UAn",
+    "clusterMedian": 179.29,
+    "spreadPct": -0.004,
+    "marginPct": -0.285,
+    "margin": -57.51,
     "signals": [],
     "sellerOk": true
   },
@@ -1043,7 +1232,7 @@
       "feedbackPct": 93.8,
       "feedbackCount": 14
     },
-    "itemWebUrl": "https://www.ebay.com/itm/318902545685?_skw=sealed+new+milwaukee+tool+combo&hash=item4a4012ad15:g:l20AAeSwhCxqsh-w&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYkIOX97m73TdJjT7v6HFTx2x9HzSRkclMueB6CWcH9KLax5B29oWDyoW821hVqy1p8y3N4tpgtpe2itwt6rFtFovMNy3ra0ypN7bSZ0r6H%2FyJdQfAg6Uz5aJA2jbCgqEzYx6fQj5b4MO17lPNaiobBxAukmq%2BUoo%2BgY8VNxYylOlcKpr6IShOc7FgY%2BmPbbdU2XowXzbeW1g%2FkK2lZyIKhmTnNS5G%2B5AqMdOKPSAG1Q2YpJnL4ySomp4OzNo5oTcTvhqK2Y7hs%2BXxH8tGwTx3rRdM92xLhIIWkzS1MsOVRq410JxsyDW81W8phfZPpVFU%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/318902545685?_skw=sealed+new+milwaukee+tool+combo&hash=item4a4012ad15:g:l20AAeSwhCxqsh-w&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYkIOX97m73TdJjT7v6HFTx2x9HzSRkclMueB6CWcH9KLax5B29oWDyoW821hVqy1p8y3N4tpgtpe2itwt6rFtFovMNy3ra0ypN7bSZ0r6H%2FyJdQfAg6Uz5aJA2jbCgqEyK%2BgAhp58YTy6hUHbpbNSCnN3gNaYdoPNDPkTtxzzWOCR2k4%2BJ5L38iGCfq9z1uMbUl%2B2tqIe3NscQ%2BQzD55FL2ffU5h0wlFtJuovpXSGaoq75viTAp3jHRobIPVIF%2FB7UGt9P%2FJ4IS2wzO%2BANULz7whSPOfmThrSDHV426aAlyTFoe88apCLR2Cc1OwDPrhc%3D",
     "clusterMedian": 857.0,
     "spreadPct": -0.109,
     "marginPct": -0.287,
@@ -1144,27 +1333,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|188984350065|0",
-    "title": "KitchenAid Classic Series K455 4.5 Quart Tilt-Head Stand Mixer White New Sealed",
-    "category": "Kitchen Appliances",
-    "price": 278.88,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 9575
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/188984350065?_skw=sealed+new+kitchenaid+stand+mixer&hash=item2c00585571:g:W~UAAOSwW21h8Sda",
-    "clusterMedian": 258.94,
-    "spreadPct": -0.077,
-    "marginPct": -0.307,
-    "margin": -94.52,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|278307790287|0",
     "title": "KitchenAid Deluxe 4.5qt Mixer Tilt Head (Contour Silver) NEW FACTORY SEALED!",
     "category": "Kitchen Appliances",
@@ -1175,13 +1343,34 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.1,
-      "feedbackCount": 10607
+      "feedbackCount": 10609
     },
     "itemWebUrl": "https://www.ebay.com/itm/278307790287?_skw=sealed+new+kitchenaid+stand+mixer&hash=item40cc6fddcf:g:HXgAAeSwjhxqjJJe",
     "clusterMedian": 243.49,
     "spreadPct": -0.072,
     "marginPct": -0.307,
     "margin": -88.73,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|188984350065|0",
+    "title": "KitchenAid Classic Series K455 4.5 Quart Tilt-Head Stand Mixer White New Sealed",
+    "category": "Kitchen Appliances",
+    "price": 278.88,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 9576
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/188984350065?_skw=sealed+new+kitchenaid+stand+mixer&hash=item2c00585571:g:W~UAAOSwW21h8Sda",
+    "clusterMedian": 258.94,
+    "spreadPct": -0.077,
+    "marginPct": -0.307,
+    "margin": -94.52,
     "signals": [],
     "sellerOk": true
   },
@@ -1198,7 +1387,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 328
     },
-    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3Q44M%2Fa2LDTu%2B5CpXMaiWfNKwzEohexlR7EFAbRHakW5j5xZzB3KJ2pcvbnoyfBU9F6ABOpMbvXOlQIdmFpR5J6Tymcf30CB9fpVl9ixFywCu1p%2F8HnrQl0P3vTwz9Zj%2F2JiTF0cOvFU5RHA2Dy0Ai4qJ6kxX%2BLZAzwABW7LlW6%2F%2B%2FcgIMO8cvmcl%2B6CzC7qNSMA%2FSYFGdzT8iFc71OCzrVYu4g%2BT%2FJo5767%2B9A7ocWEwv0s%2FrrjaGfrAVmUt9oP4jbo%2Fm1FrFQaTSwngOWCuSxd0ZLK1OAlRJw7pjJyYs1YmzvpwpewFfgr4sOzlhxc%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb3Q44M%2Fa2LDTu%2B5CpXMaiWfNKwzEohexlR7EFAbRHakW5j5xZzB3KJ2pcvbnoyfBU9F6ABOpMbvXOlQIdmFpR5J6Tymcf30CB9fpVl9ixFywCu1p%2F8HnrQl0P3vTwz9Zioa3lY7k5lgC0aFoo2vHuoslQNkn0WxhETa4Q5alyKbK71xowmNThSg0gw4kVnBsTXZv9seCJiA1tXyPYR5GiTCtZZadpHEoJ5kBksO%2Bw3ApiFXJpclxJFpc%2F%2BIHmgWsgDxZWFufMjbO5teZ20NLVuMbmEOUR8JrZvzcQW9RUoWh5eqKsUBnM1E%2BtXCnglZ%2BU%3D",
     "clusterMedian": 146.0,
     "spreadPct": -0.027,
     "marginPct": -0.32,
@@ -1242,7 +1431,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 18
     },
-    "itemWebUrl": "https://www.ebay.com/itm/188858442465?_skw=sealed+new+nintendo+switch+oled+console&hash=item2bf8d722e1:g:mrgAAOSw535myV6l&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGarTpBn1J%2B5%2Fd5IfTox%2BJcZxGZtZ4bG64N2I28Csj3ZkT6mXfY%2F7byGHUdMhdChpadJadGBt3BO6k2WjNZOrQXntM9gUYF255%2BTcByLHrSl7BGyU9cvS4NC5YgRZMUOPSZj7se6d%2BJoBMf8Lxgn12%2BntT7J8hE38icGIkIpsQt%2BWOlppW0CbWF29Ohf0kkZcOKJVDvkZ5zIEWQaI%2FtIjnkbGTpdXHJ%2Bh8ZRAZy2s3eNB7Lob0IieF3nl0nz%2BE8Xar5fN1rMKiHFsAFq4yWsqgl5xNPrvL7rX5wmjP2Hga2Mo9ebq35cROR%2BPwkPIz3l9CE%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/188858442465?_skw=sealed+new+nintendo+switch+oled+console&hash=item2bf8d722e1:g:mrgAAOSw535myV6l&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGarTpBn1J%2B5%2Fd5IfTox%2BJcZxGZtZ4bG64N2I28Csj3ZkT6mXfY%2F7byGHUdMhdChpadJadGBt3BO6k2WjNZOrQXntM9gUYF255%2BTcByLHrSl7BGyU9cvS4NC5YgRZMUOPSYNsKkMIWdk820U5xMLeNu7SdD2X5y8yqmr3R%2BVC9kE2z8Mk8ddmis2lN38Aq47iVWolyVxrWZ2PmPjWapmPqFDnJ7Ua4Z%2FAw8rzi0NwWOBAXSOl%2BWaxrI4EDh%2FfMbZUPEJ9SCrfaiJgzgYCZ14R%2FCer2uRR4XPA03hzx7F1sn3qkmnvNRGIhNmjrbqna2aMIs%3D",
     "clusterMedian": 468.75,
     "spreadPct": -0.2,
     "marginPct": -0.354,
@@ -1286,9 +1475,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 2243
+      "feedbackCount": 2244
     },
-    "itemWebUrl": "https://www.ebay.com/itm/158310732784?_skw=sealed+new+kitchenaid+stand+mixer&hash=item24dc0e13f0:g:q0sAAeSwz6xqNexq",
+    "itemWebUrl": "https://www.ebay.com/itm/158310732784?_skw=sealed+new+kitchenaid+stand+mixer&hash=item24dc0e13f0:g:q0sAAeSwz6xqNexq&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbUJ7GRUMZeqgq2b%2F1LnucqUsEb5doygzwXG5yvoPr1ox3Cz720IpVRLMC2C6JooNGMXWZ8sdBZDyTCZfGDYJZLj7PD4dIpwKaBpus9DnsA5OKJjn4hCtm%2FUYGzhxQKImydYlKoMzsX9HnXv2xgSA%2BJg2aUrD2Zbcsz6aXlqqrLx6eFvLG4yZs0B1tnXRVuLBshUiH74%2BTXFRxv7rQKsMRQK0Anc7mTE%2FRuqG%2FKWTcyhNdfL5KEqQAt1ujTDOuKbjurlu9gCKh3fLk%2BbNkg3ZeM2%2FFBbek5draVMzRSf27CdB71unSWaMabj9BavvE5zoo%3D",
     "clusterMedian": 49.29,
     "spreadPct": 0.217,
     "marginPct": -0.376,
@@ -1353,9 +1542,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 98.5,
-      "feedbackCount": 4306
+      "feedbackCount": 4307
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm3AyGbV3lvCVCj7bjES3QnPjX6G8gnhUTLP1tTilUDM%2Bx48%2FtawAthh73y93gwUZCClMT4LBUvYoCdaORmlJ60WCjuHdnG9peU%2BMVk8X1tOhySfEZE5yQXLIh9QF7rsKbjWYh4KaXymtuZ93IOc%2Bjb9m7UeNEFfXj4%2F53hq8hJzhIuYM9CZp84FMUS7IJ9dE30%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/198561014049?_skw=sealed+new+dewalt+drill+kit&hash=item2e3b28a121:g:BIgAAeSwm6tqecRe&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDSKAIfXTLpp8KaamtZjPsxnzbOK9MdeKWA8CVOC2bfi1Ax5uovidvqgFHD6aEsoBoKu%2FAtD4mp8scfD%2FtzSGbSbU0ADfQIoTeHwOVRtDLaM8OkldcxveH9nnAeWKnUm2rZ6q9xTFHzAdrllGy41mcjirV4IT8OSgDE4lf2W7ni1UG19vSdsS%2BlqzWWysPoCDC5%2FIDts5zyjcHlfpkoHaSMy8L2VOdUdQMOkXEfzpg99XaS%2BhyeBAH4DaR4tGXYNdzq4%2FjnizTADwePubbL0iuuKLFB4nd4RAXhCt46sZssqh9NEthuVz70%2Bpyp6tVSu0%3D",
     "clusterMedian": 49.97,
     "spreadPct": 0.02,
     "marginPct": -0.481,
@@ -1376,7 +1565,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 969
     },
-    "itemWebUrl": "https://www.ebay.com/itm/398318628481?_skw=sealed+new+instant+pot&hash=item5cbda3ee81:g:6UoAAeSwWOBqjBR2&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYurwyl7bQ2E9KHcI0nEgzJTBPZDWbbjqB1Y2h7oxJOcYxDH8iQEjm%2FG6KChRdazLfBNSccWii9F1fFIc7F%2BePeOspZE26rEJQ7RV1F5piHJ1pHL%2Bd1DSUpVQPv9VLwNHRCBPVtlUIdSoyOU8g5NYycWHoPfJB6Z1q8dispdUTH9ty%2Bb2so4%2FcNuEIsbWwVyILX1ff8Dtds1imYRU97ZVEKBUIGI6evcEBxKfS0JK0p46OwtcZ%2BEo0dniQaSK2cMZWkvcGhC5f3R6tuWH228twVrBNYsZr0HiYbWJpv%2F5asjQ%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/398318628481?_skw=sealed+new+instant+pot&hash=item5cbda3ee81:g:6UoAAeSwWOBqjBR2&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYurwyl7bQ2E9KHcI0nEgzJTBPZDWbbjqB1Y2h7oxJOcYxDH8iQEjm%2FG6KChRdazLfBNSccWii9F1fFIc7F%2BePeOspZE26rEJQ7RV1F5piHJ1pHL%2Bd1DSUpVQPv9VLwNHS%2FS9khZusf5PamIhTRlFHzAuhHCq6P2G45z4eTxkge0ZJgOBpuGrCh8mPfcXxN5bNG2JtQevCfg6QPWAiktCqu56%2Fms8iE9HYLXV4jrxeLMMMqsy5lXgTnsMql9eBkkWd3tw0XdM0AnY7%2BjOiBRmHCcyitGXmVu5vQunpw61AoQw%3D%3D",
     "clusterMedian": 48.79,
     "spreadPct": 0.016,
     "marginPct": -0.489,
@@ -1396,8 +1585,8 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 97.9,
-      "feedbackCount": 971
+      "feedbackPct": 98.0,
+      "feedbackCount": 980
     },
     "itemWebUrl": "https://www.ebay.com/itm/377480729534?_skw=sealed+new+dewalt+drill+kit&hash=item57e39ad3be:g:1AkAAeSwjkZqn7tO",
     "clusterMedian": 49.97,
@@ -1441,7 +1630,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.5,
-      "feedbackCount": 7601
+      "feedbackCount": 7602
     },
     "itemWebUrl": "https://www.ebay.com/itm/227457872585?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34f58bb2c9:g:8EIAAeSwyFxqEKmu",
     "clusterMedian": 40.0,
@@ -1466,7 +1655,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 969
     },
-    "itemWebUrl": "https://www.ebay.com/itm/398361199785?_skw=sealed+new+instant+pot&hash=item5cc02d84a9:g:VqUAAeSwJ9tqm7di&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaVFyz%2BSX7Mrvhn4%2Fv%2Bcug%2Ffqb2LkRXwCTZoJg8flfAoKhmEaYeftv9baYt8CDxV1Tz1Nkj5jyQuXQdrd%2FnUMmkaYbnJUY4FBuQbEQNHR98A1aXGR929Qhwxz3LaRvD%2BJcAyohcBg780TKPyCA5Zh1np3isa7YEvHt2BTqldPFqWTrImDEmdgz6DqBxBJmcaldaqwayMd%2FeK6V9mquD%2BWkAmxhUGEUpsi89nuXX9uKLuw%2B9ov38vEP11CxftX9uFKc%2FUxEM%2FH%2FhHvP%2FSdHKCrX2NOlIDNmGd4En9hyE1mntIw%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/398361199785?_skw=sealed+new+instant+pot&hash=item5cc02d84a9:g:VqUAAeSwJ9tqm7di&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaVFyz%2BSX7Mrvhn4%2Fv%2Bcug%2Ffqb2LkRXwCTZoJg8flfAoKhmEaYeftv9baYt8CDxV1Tz1Nkj5jyQuXQdrd%2FnUMmkaYbnJUY4FBuQbEQNHR98A1aXGR929Qhwxz3LaRvD%2BJfxOVYXd57Hm8utbNUXBA7XO1zYS--PVHCx43aEbaTRW2iA%2FuwLENGoIpxTzVv46Mu9pTYudNjZhmzDjA7UZ%2BzeZXAqzEeCahPPs0rpd0K8HKSB0sa3%2Fog9zZdu4LQEe754LcACuPkGLrE3F%2FMxUjziRKw4jF1%2F3Yx3Keald9I%2FvA%3D%3D",
     "clusterMedian": 48.79,
     "spreadPct": -0.016,
     "marginPct": -0.503,
@@ -1487,7 +1676,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 170
+      "feedbackCount": 171
     },
     "itemWebUrl": "https://www.ebay.com/itm/358845133118?_skw=sealed+new+airpods+pro&hash=item538cd6313e:g:3JIAAeSwqNVqZeY0",
     "clusterMedian": 95.78,
@@ -1509,8 +1698,8 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 92.3,
-      "feedbackCount": 55
+      "feedbackPct": 90.9,
+      "feedbackCount": 54
     },
     "itemWebUrl": "https://www.ebay.com/itm/407136956302?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb40ef8e:g:xBMAAeSwd3dqe2CP",
     "clusterMedian": 49.97,
@@ -1596,7 +1785,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 1123
+      "feedbackCount": 1124
     },
     "itemWebUrl": "https://www.ebay.com/itm/366658546062?_skw=sealed+new+kitchenaid+stand+mixer&hash=item555e8d698e:g:WHMAAeSwY5JqoXFl",
     "clusterMedian": 34.0,
@@ -1617,7 +1806,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 8511
+      "feedbackCount": 8514
     },
     "itemWebUrl": "https://www.ebay.com/itm/178530340011?_skw=sealed+new+kitchenaid+stand+mixer&hash=item29913cccab:g:y4UAAeSw1kVqt-rJ",
     "clusterMedian": 38.99,
@@ -1661,9 +1850,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 10917
+      "feedbackCount": 10920
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407206106420?_skw=sealed+new+instant+pot&hash=item5ecf601534:g:4QQAAeSwZs9qok74&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYKqoZ9l9eOjyZo0UQKOqDf%2FjT74dyPJafAo9ABnL8kfzlc9XRDKo%2B%2BQRUR2ghuwn00rJZ0DDC9EJt8%2B9BJKHAAUDDnwxFGM488MkhQK20m%2FCEj5i25Nho%2BDBqMYmnjt%2Fd%2FSkNpefLu5K%2BjXXL5D5ibPYMx7cQrywD%2BPA%2BSBaOqr4yv8Qx6uKkJ4YgYm8qRvqBOT2Z9AOUgGUUCa8mvXZAMysBuQ6YSBIVX19dQmmOXIn5ABSOCIVdOJQpbydp84Zwre0Hej4dQ%2BI%2Ba0nllp6iGM4cvgCt6yphB%2BGKax%2BL1IA%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/407206106420?_skw=sealed+new+instant+pot&hash=item5ecf601534:g:4QQAAeSwZs9qok74&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYKqoZ9l9eOjyZo0UQKOqDf%2FjT74dyPJafAo9ABnL8kfzlc9XRDKo%2B%2BQRUR2ghuwn00rJZ0DDC9EJt8%2B9BJKHAAUDDnwxFGM488MkhQK20m%2FCEj5i25Nho%2BDBqMYmnjt%2FfMK0S7Bogo%2BG2Z%2BmoYSoEY%2BMakm4eOzlTyq0EFzxObwbdn4rkHEeg6VT8LZQJl5GDlS9rm8TupgBd3vdsyKnK4lHi%2BrZBGgBvDEk5RreeDTRHlU2dZuAdLCBGn%2BpNXRY9Du2lSyXXsWOfsmUmAMwKV5nhKjuA7LvfBPgJGzkhJZA%3D%3D",
     "clusterMedian": 25.1,
     "spreadPct": 0.115,
     "marginPct": -0.691,
@@ -1705,9 +1894,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 5728
+      "feedbackCount": 5731
     },
-    "itemWebUrl": "https://www.ebay.com/itm/377241537507?_skw=sealed+new+instant+pot&hash=item57d5590be3:g:dTUAAeSw1uBqJSVd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGalC83iuGeoVeFDSUOkX%2FqKXotXCH1F00Qq2Xfdyn0wqQCv%2BcIl3KXmaLagUHQsIdSPxY7VF0OZstyzkebombTPTrGYTI5uss4uec%2BYSPYHkO7QeOlsNaqi2KQtTLjU7nt07Ix%2FUef3d1O%2F5%2BZ1KT%2Brp2iFMaPaClS4yYHnqtcVUhBnAtsAkQ3RBwTgQIvngFl1HtbbB7qqk6lmHtsCLdDYLM8O6XAOdKc7sdhF9wKv9d6S2mxa1xABliRjQ8LigNUuJ3%2BJEfdSjgSlBk7do7%2FTXThYRfVc1FFf8W8Kulsryw%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/377241537507?_skw=sealed+new+instant+pot&hash=item57d5590be3:g:dTUAAeSw1uBqJSVd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGalC83iuGeoVeFDSUOkX%2FqKXotXCH1F00Qq2Xfdyn0wqQCv%2BcIl3KXmaLagUHQsIdSPxY7VF0OZstyzkebombTPTrGYTI5uss4uec%2BYSPYHkO7QeOlsNaqi2KQtTLjU7nsXha%2F7ymidlt%2BpKlrDrIABqAGuUAM1e6QdqumAs6lYgcbnSgexEkkh2N07W7Ggpna2uh0POn9vCw8wsyrBe8yE8I5KMK%2Bl1jQiF%2FyVuNgiwmwvnIE9bQr6CrAHqmAKhaN5yM5xJ4Tuy4snNjdBZDSIk5omyGECc8L1sEpe8%2FqhQw%3D%3D",
     "clusterMedian": 25.1,
     "spreadPct": -0.115,
     "marginPct": -0.742,
@@ -1726,7 +1915,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 3936
+      "feedbackCount": 3937
     },
     "itemWebUrl": "https://www.ebay.com/itm/397399172248?_skw=sealed+new+instant+pot&hash=item5c86d62498:g:fUEAAeSwm9NpW2Xb",
     "clusterMedian": 24.45,
@@ -1747,34 +1936,34 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.3,
-      "feedbackCount": 1321
+      "feedbackCount": 1325
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227163145984?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34e3fa8700:g:TuoAAeSwWO9pXWXv&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDkhpSVXkkS7EN7ZnpQ1QPHD1BRsEcQbqWTFDyrA0%2Fpa9D7DWGq0mwh9PtQx%2B%2BEFNAa10m93QrqPucqhtOD1sePXtAkWe41XoL1vGLAE1ghuioyPsgpDpgLvfxXM7wEE5GChz%2BeISt8H9o9RiTHBEY%2BvTtmIqF8XeD5av6ZmARnqtNd7Iz0KEiIA3NEnhKIKlENnGN1sYlLA3VMdDIn6vLWZ%2BH1FfJd1CYQ3sE4GJivoXd1LTkVyWy7GuOydv3eqgUsMBK4BbR4WFTUy27VRrYpH%2BJ%2FhgCAkilrR2bPW8b5wbTcJH4dkDk%2FemwIw0cLo8%3D",
-    "clusterMedian": 21.2,
-    "spreadPct": 0.062,
-    "marginPct": -0.781,
-    "margin": -22.94,
+    "itemWebUrl": "https://www.ebay.com/itm/227163145984?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34e3fa8700:g:TuoAAeSwWO9pXWXv&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaDkhpSVXkkS7EN7ZnpQ1QPHD1BRsEcQbqWTFDyrA0%2Fpa9D7DWGq0mwh9PtQx%2B%2BEFNAa10m93QrqPucqhtOD1sePXtAkWe41XoL1vGLAE1ghuioyPsgpDpgLvfxXM7wEE5bLF%2BKxzmFCh1w9fsyO7tVN8OTnlsUJQLsPnI4Iac44eQHROtWFYG6g0CwuccQsfbSkKjw4oxIOYS9BesiOLfDdWkchjQp6JDO5zfeN7D4hyf4mz8a9KJlRNZzcvu1%2BYcFaOL1lFau0l57PcEsSYATjdt4ewGMQ9r9t0ANyxBHbFBIXn0lIkkvYdOwYTgrLOU%3D",
+    "clusterMedian": 20.45,
+    "spreadPct": 0.027,
+    "marginPct": -0.803,
+    "margin": -23.59,
     "signals": [],
     "sellerOk": true
   },
   {
-    "id": "v1|227353351615|0",
+    "id": "v1|205875452724|0",
     "title": "Food Grade Grease 6oz for Kitchenaid Stand Mixer with Gasket & Spoon",
     "category": "Kitchen Appliances",
-    "price": 22.5,
+    "price": 21.0,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 136
+      "feedbackPct": 99.2,
+      "feedbackCount": 2726
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227353351615?_skw=sealed+new+kitchenaid+stand+mixer&hash=item34ef50d5bf:g:MQUAAeSw1rlqD4XM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYcJyWOepTJl80ogVctFjuG06nMI5XCUEm--cats78xm%2FZlq7%2FBgbf%2B6ReAmQAvSniSrHX%2B%2FwPPnbKjmm5pY12hJNk9YV8cjLDWWdrmz548aMWKfaCggzHYVhgwyyb%2B3Mj4myqlk6yf1pNgcBuKLV1CAilHluVMPeX0z4NASm1oDJxgUjQptE25d%2F4brt1CA5rkRnSHUDCdK2O4HZ702gTQFhZQOwYuYIK0lXL1vitbOxeChh7%2FgsxZx7CmaEMzRcejHkdypmQilCp5G5o3nLqDxZrWzSQDIcYchhN0qizYu9egK%2BJdYU8cUg7KTZP2ERg%3D",
-    "clusterMedian": 21.2,
-    "spreadPct": -0.062,
-    "marginPct": -0.8,
-    "margin": -25.75,
+    "itemWebUrl": "https://www.ebay.com/itm/205875452724?_skw=sealed+new+kitchenaid+stand+mixer&hash=item2fef221b34:g:pL4AAeSwANVpJtMs",
+    "clusterMedian": 20.45,
+    "spreadPct": -0.027,
+    "marginPct": -0.811,
+    "margin": -24.79,
     "signals": [
       "best_offer"
     ],
