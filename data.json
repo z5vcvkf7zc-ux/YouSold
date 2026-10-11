@@ -12,7 +12,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 157
     },
-    "itemWebUrl": "https://www.ebay.com/itm/188962590151?_skw=sealed+new+instant+pot&hash=item2bff0c4dc7:g:MZIAAeSwNwBqtdSt&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7myPCiwrjQ6Q2z%2Bb75Sxp3geyGIw6JY%2BymL1%2Bs0XurBXeIS8hCv3VE4XOhBJiEG1YgHDS9sYjSfK3%2FxvlrSz%2BuASs4taPPtyfI6P7E%2FcjlQ4QosvZZwPj6gbXJts5mgKK%2BmK5f%2BKq%2FEvEad0aYzSWeSx5DL%2FGTMUY8adup2LpBUgMK6vXXl5BbeLY%2FdF7POIzqzfzAaHFNc7wj9wIxRjQL1Dexdb8J6pNsZltgCo0MU0FSPSznBHquuYUnlShWD6kWC8fQrfvSD9PlpBrkkXPpKjEkjnD7RajpdK%2FrrV3UJ%2FGywFcadxVY62uM4Te1MRio%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/188962590151?_skw=sealed+new+instant+pot&hash=item2bff0c4dc7:g:MZIAAeSwNwBqtdSt&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7myPCiwrjQ6Q2z%2Bb75Sxp3geyGIw6JY%2BymL1%2Bs0XurBXeIS8hCv3VE4XOhBJiEG1YgHDS9sYjSfK3%2FxvlrSz%2BuASs4taPPtyfI6P7E%2FcjlQ4QosvZZwPj6gbXJts5mgKK%2F2SFDKIDkrAt0wqBEfftMzv%2BIoCMGGoihEdLXeXY5N5%2BMGt0V6qDbThd2EfcAR6AF3kEMjyKXPK%2Fi8VoPywK1TvbTjwa8O95cDeQEnLG1EshtOc5su7BhQgm%2BGIb2cEQdFN6YwAcRR8yQxqk80YyMg0gztARxN1srfuTxkvl7EQKFboS0JEMcFNembrIszt4M%3D",
     "clusterMedian": 120.0,
     "spreadPct": 0.5,
     "marginPct": 0.275,
@@ -83,7 +83,7 @@
       "feedbackPct": 96.3,
       "feedbackCount": 203
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168570092483?_skw=sealed+new+milwaukee+tool+combo&hash=item273f8f7bc3:g:hVoAAeSwUr5qaLwl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mZ5hqrdqbTfwFNINNb5fVNl3qDa9IWpa4CXTVm1efyIWgrNpncZYUnaBr7to%2Fm2oeTBFjpXHnEkchSFDee24PZ0vvkYwdGFLSo7MkANiZEgMZLZjogGEd1UbwhVG47w25Fahf42wwY%2FZWsdxTQ%2FWk8Eruyox9n3EdCdhkC5VXYv6Fwyczy%2BKSLFc5h20mUTqM0aiNXSCDqDePyVrvRAqwTeKG05boL4jxmDURuGoazeu3sP%2BErv6wx1DhgjiaBX%2FaNdz8uBACpOOF1OicZKGvLgYZdL%2BCN0W4g8d%2BY84EHS2koVIDRx8zmoCMDXeia%2Fmk%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/168570092483?_skw=sealed+new+milwaukee+tool+combo&hash=item273f8f7bc3:g:hVoAAeSwUr5qaLwl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mZ5hqrdqbTfwFNINNb5fVNl3qDa9IWpa4CXTVm1efyIWgrNpncZYUnaBr7to%2Fm2oeTBFjpXHnEkchSFDee24PZ0vvkYwdGFLSo7MkANiZEgMZLZjogGEd1UbwhVG47w25q5Umwp8cb5%2Bc6w8UBrM7xhtmYTTrlQ997CMkgU7Qv%2FSWwMBmxrfSFq%2B228MjtaBP9zmbDK%2Bz7eLWMOAiENxUVPqsmD7azfVTBL7gr9urObQLg3B1TddHJzMtJN%2FJLj7SqH8YHeQBfE4OnExXTqcTd48Xx6%2FhRE7H%2BY5bQf7Dr0TGxBHdikDBZL%2B7E3noqBBo%3D",
     "clusterMedian": 562.0,
     "spreadPct": 0.112,
     "marginPct": -0.124,
@@ -107,11 +107,13 @@
       "feedbackCount": 981
     },
     "itemWebUrl": "https://www.ebay.com/itm/237040752927?_skw=sealed+new+xbox+series+x+console&hash=item3730bad91f:g:YH8AAeSwaGNqlXoI",
-    "clusterMedian": 498.98,
-    "spreadPct": 0.098,
-    "marginPct": -0.142,
-    "margin": -69.59,
-    "signals": [],
+    "clusterMedian": 499.98,
+    "spreadPct": 0.1,
+    "marginPct": -0.14,
+    "margin": -68.72,
+    "signals": [
+      "below_cluster"
+    ],
     "sellerOk": true
   },
   {
@@ -132,27 +134,6 @@
     "spreadPct": 0.086,
     "marginPct": -0.156,
     "margin": -71.74,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|224740731432|0",
-    "title": "Brand NEW Factory Sealed Microsoft Xbox Series X 1TB Video Game Console - Black",
-    "category": "Consoles",
-    "price": 750.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 17
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/224740731432?_skw=sealed+new+xbox+series+x+console&hash=item3453976a28:g:6-4AAOSwmpZhuL2Z",
-    "clusterMedian": 800.0,
-    "spreadPct": 0.062,
-    "marginPct": -0.16,
-    "margin": -130.25,
     "signals": [],
     "sellerOk": false
   },
@@ -178,27 +159,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|318930541690|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black",
-    "category": "Consoles",
-    "price": 770.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 10355
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3Obxnezucbt0i%2Boi3on50m4d5vI50cw9jB9X0eq6bx2qKRjU8NJg%2FyGAyqrXbi%2Bo7sNFxiXkCthhRpbQMrKYMm6LXLs3a2gK55cncFVqdi6Y41DZBZ6%2BpGHdxYlgAnqIa7z2gGyW0Gd3QY5FECIH9TCPvsb1CQmBdveKOx0dpLDk4LGV7vyaOqnza3voAhetbx8GI%3D",
-    "clusterMedian": 800.0,
-    "spreadPct": 0.037,
-    "marginPct": -0.182,
-    "margin": -151.75,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|185223422700|0",
     "title": "apple airpods pro new in box sealed",
     "category": "Apple Accessories",
@@ -212,14 +172,35 @@
       "feedbackCount": 43
     },
     "itemWebUrl": "https://www.ebay.com/itm/185223422700?_skw=sealed+new+airpods+pro&hash=item2b202d22ec:g:zt8AAOSw-W5hvAo0",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.105,
-    "marginPct": -0.196,
-    "margin": -37.45,
+    "clusterMedian": 195.0,
+    "spreadPct": 0.128,
+    "marginPct": -0.174,
+    "margin": -33.1,
     "signals": [
       "below_cluster",
       "best_offer"
     ],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|224740731432|0",
+    "title": "Brand NEW Factory Sealed Microsoft Xbox Series X 1TB Video Game Console - Black",
+    "category": "Consoles",
+    "price": 750.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 17
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/224740731432?_skw=sealed+new+xbox+series+x+console&hash=item3453976a28:g:6-4AAOSwmpZhuL2Z",
+    "clusterMedian": 770.0,
+    "spreadPct": 0.026,
+    "marginPct": -0.192,
+    "margin": -156.35,
+    "signals": [],
     "sellerOk": false
   },
   {
@@ -254,7 +235,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 97.9,
-      "feedbackCount": 970
+      "feedbackCount": 971
     },
     "itemWebUrl": "https://www.ebay.com/itm/257788188883?_skw=sealed+new+sony+playstation+5+slim+console&hash=item3c055f98d3:g:k4sAAOSwi6RmmAZA",
     "clusterMedian": 697.89,
@@ -277,7 +258,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.6,
-      "feedbackCount": 69836
+      "feedbackCount": 69837
     },
     "itemWebUrl": "https://www.ebay.com/itm/298743671934?_skw=sealed+new+xbox+series+x+console&hash=item458e82ac7e:g:2ZkAAeSwGa9qyLHI",
     "clusterMedian": 773.99,
@@ -298,13 +279,34 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.6,
-      "feedbackCount": 69836
+      "feedbackCount": 69837
     },
     "itemWebUrl": "https://www.ebay.com/itm/298743672267?_skw=sealed+new+xbox+series+x+console&hash=item458e82adcb:g:v54AAeSwEzlqyKUC",
     "clusterMedian": 773.99,
     "spreadPct": 0.0,
     "marginPct": -0.213,
     "margin": -178.67,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|318930541690|0",
+    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black",
+    "category": "Consoles",
+    "price": 770.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 10355
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3ObxmFOuKSxNs2uDUEqKJIXA3rpNOzoOZ5bL59KBA%2BQLGlaqoKhioeYdVXYDvGOU4eEaFdgwo1cuaiGoVKDv%2BC4C1X5HXTYN86EyYCVqj3n7W6t6l30Wu7YM8%2BAMZpiBtMNkPPiW2zDIGlkmSz23Er64euPy7M4JOmC%2BHlVQr1DCsSDKEIYNjrBjdcz7tfrXWZHxA%3D",
+    "clusterMedian": 770.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.213,
+    "margin": -177.85,
     "signals": [],
     "sellerOk": true
   },
@@ -345,7 +347,7 @@
       "feedbackPct": 99.7,
       "feedbackCount": 445
     },
-    "itemWebUrl": "https://www.ebay.com/itm/278399186498?_skw=sealed+new+milwaukee+tool+combo&hash=item40d1e27642:g:DHQAAeSw2aZqsU9~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ml48CnPN2Z1eo228G%2Bfz0SYMEBecT7RnwGiMLlLi2BQsO8QexPAJvUCWEDb188KUXS6r8%2Fi1iycO7%2FnJaVMcsfqdSuIoVxVCvZlTEH3EjdRRY9lC6oXhygwdvuvBw42YZlqToSJXftML5K2XCU8O%2FoNiN9hnPC2ZuVifs962T3vqw6OSlFSV9JnqqJAZCo5WDnKI%2Flz7dNh0mRd1h0mdX19qEHWvlWFeo%2Bxn5oWHjaSQSWECBOR%2BlH9SQhH3VYJD0ndnAK4VlvJeR6O%2Fyuf%2FOvdXY0e0XV%2B06lA9hV6LHGqtpyn6EpnMWvKsOd0ejniyc%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/278399186498?_skw=sealed+new+milwaukee+tool+combo&hash=item40d1e27642:g:DHQAAeSw2aZqsU9~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ml48CnPN2Z1eo228G%2Bfz0SYMEBecT7RnwGiMLlLi2BQsO8QexPAJvUCWEDb188KUXS6r8%2Fi1iycO7%2FnJaVMcsfqdSuIoVxVCvZlTEH3EjdRRY9lC6oXhygwdvuvBw42YZRLgpy6o6XnyoqBIO9TNcGoYpkcHljbuhhYDAAQDuqndf7lT3POargSX%2FSUwdyEhQGSp2ZTTrZ%2FrpaN3%2FAD%2FbLP1Q1hDJPR3Vgcf4SAy0FtLMxR3rkqiAWldvSrYEm1nO0QRM%2FMT1gr9xA%2BWzyJKyzIAXVzPE8AM8C%2B%2B%2Fh0pDxzX95W4ysGrdPBUceo8%2F7vrg%3D",
     "clusterMedian": 530.0,
     "spreadPct": 0.009,
     "marginPct": -0.215,
@@ -366,7 +368,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 97.9,
-      "feedbackCount": 970
+      "feedbackCount": 971
     },
     "itemWebUrl": "https://www.ebay.com/itm/256575479274?_skw=sealed+new+sony+playstation+5+slim+console&hash=item3bbd171dea:g:-l8AAOSwKpVmmAWJ",
     "clusterMedian": 697.89,
@@ -421,6 +423,27 @@
     "sellerOk": false
   },
   {
+    "id": "v1|267789399104|0",
+    "title": "KitchenAid Classic Series K455 4.5 Quart Tilt-Head Stand Mixer White New Sealed",
+    "category": "Kitchen Appliances",
+    "price": 229.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 186
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/267789399104?_skw=sealed+new+kitchenaid+stand+mixer&hash=item3e597df440:g:3p0AAeSwYHRqra7P",
+    "clusterMedian": 238.94,
+    "spreadPct": 0.042,
+    "marginPct": -0.229,
+    "margin": -58.3,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|800686589801|0",
     "title": "New Milwaukee 2697-26XC M18 18V 6-Tool Combo Kit",
     "category": "Power Tools",
@@ -440,27 +463,6 @@
     "margin": -137.25,
     "signals": [],
     "sellerOk": true
-  },
-  {
-    "id": "v1|165384653323|0",
-    "title": "Apple AirPods Pro NEW IN BOX SEALED",
-    "category": "Apple Accessories",
-    "price": 179.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 10
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/165384653323?_skw=sealed+new+airpods+pro&hash=item2681b18a0b:g:hdoAAOSwg0hiL9r~",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.058,
-    "marginPct": -0.235,
-    "margin": -47.12,
-    "signals": [],
-    "sellerOk": false
   },
   {
     "id": "v1|278436906306|0",
@@ -507,27 +509,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|395857501906|0",
-    "title": "New Microsoft Xbox Series X 1TB Video Game Console - Black",
-    "category": "Consoles",
-    "price": 829.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.7,
-      "feedbackCount": 1352
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/395857501906?_skw=sealed+new+xbox+series+x+console&hash=item5c2af21ed2:g:IpEAAOSwrLdnJc80&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nWR73icRfD%2FUAhtgiKQoR2nyKFj3tbF3EtGJcbcc%2B59xRT2tgKtBxItxiTUIthNkHt%2BPZWzOnATvrbOD6%2BcoNU8b7omxneZSIOEicG2URYGqbBvpKMIzkLpIphJIvpYWS%2BbH6fFYl2lXX6HOnZim0XISD0QENWRm8fdOQG81X84C5yblBJL1crfmSGrAj%2Be0PWUEU8AWTP7mD%2FYIs%2BB8R4kElKy9eqweWxdJIt5WWfdx8FDjmRGGtWf7TRHywRisJKKVx%2BXTko1O0xfGpxFzpakX%2BTcfa7ImIPrcbfHYu9XoFOQQ21QZ6GtcycbItFy2o%3D",
-    "clusterMedian": 800.0,
-    "spreadPct": -0.037,
-    "marginPct": -0.24,
-    "margin": -216.24,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|398263660178|0",
     "title": "Apple AirPods Pro 3 NEW Sealed",
     "category": "Apple Accessories",
@@ -549,71 +530,48 @@
     "sellerOk": false
   },
   {
-    "id": "v1|267789399104|0",
-    "title": "KitchenAid Classic Series K455 4.5 Quart Tilt-Head Stand Mixer White New Sealed",
-    "category": "Kitchen Appliances",
-    "price": 239.0,
+    "id": "v1|298743750940|0",
+    "title": "Brand NEW DEWALT DCD1007B 20V XR Hammer Drill Kit + 4AH Battery, Charger, Bits",
+    "category": "Power Tools",
+    "price": 249.0,
     "condition": "New",
-    "listingType": "Buy It Now",
+    "listingType": "Auction",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 186
+      "feedbackCount": 53
     },
-    "itemWebUrl": "https://www.ebay.com/itm/267789399104?_skw=sealed+new+kitchenaid+stand+mixer&hash=item3e597df440:g:3p0AAeSwYHRqra7P",
-    "clusterMedian": 243.94,
-    "spreadPct": 0.02,
-    "marginPct": -0.244,
-    "margin": -64.7,
+    "itemWebUrl": "https://www.ebay.com/itm/298743750940?_skw=sealed+new+dewalt+drill+kit&hash=item458e83e11c:g:z90AAeSw93hqtpNX",
+    "clusterMedian": 249.5,
+    "spreadPct": 0.002,
+    "marginPct": -0.256,
+    "margin": -70.61,
     "signals": [],
     "sellerOk": true
   },
   {
-    "id": "v1|237117262176|0",
-    "title": "Shohei Ohtani #91 PSA 10 2019 Bbm Heisei Baseball Card MLB",
-    "category": "Trading Cards",
-    "price": 300.0,
-    "condition": "Graded",
+    "id": "v1|185115551116|0",
+    "title": "apple airpods pro new in box sealed",
+    "category": "Apple Accessories",
+    "price": 190.0,
+    "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3947
+      "feedbackPct": 0.0,
+      "feedbackCount": 48
     },
-    "itemWebUrl": "https://www.ebay.com/itm/237117262176?_skw=PSA+10+graded+baseball+card&hash=item37354a4960:g:KWEAAeSwxYpqyf2r",
-    "clusterMedian": 300.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.247,
-    "margin": -81.5,
+    "itemWebUrl": "https://www.ebay.com/itm/185115551116?_skw=sealed+new+airpods+pro&hash=item2b19bf258c:g:sQMAAOSwXPhhN87Q",
+    "clusterMedian": 195.0,
+    "spreadPct": 0.026,
+    "marginPct": -0.257,
+    "margin": -54.6,
     "signals": [
       "best_offer"
     ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|237117262179|0",
-    "title": "Shohei Ohtani #91 PSA 10 2019 Bbm Heisei Baseball Card MLB",
-    "category": "Trading Cards",
-    "price": 300.0,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3947
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/237117262179?_skw=PSA+10+graded+baseball+card&hash=item37354a4963:g:JoAAAeSw5YVqyf2r",
-    "clusterMedian": 300.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.247,
-    "margin": -81.5,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
+    "sellerOk": false
   },
   {
     "id": "v1|366673171682|0",
@@ -658,6 +616,27 @@
       "best_offer"
     ],
     "sellerOk": false
+  },
+  {
+    "id": "v1|298733475016|0",
+    "title": "Brand NEW DEWALT DCD1007B 20V XR Hammer Drill Kit + 4AH Battery, Charger, Bits",
+    "category": "Power Tools",
+    "price": 250.0,
+    "condition": "New",
+    "listingType": "Auction",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 53
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/298733475016?_skw=sealed+new+dewalt+drill+kit&hash=item458de714c8:g:z90AAeSw93hqtpNX",
+    "clusterMedian": 249.5,
+    "spreadPct": -0.002,
+    "marginPct": -0.259,
+    "margin": -71.69,
+    "signals": [],
+    "sellerOk": true
   },
   {
     "id": "v1|117454098668|0",
@@ -746,27 +725,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|188984350065|0",
-    "title": "KitchenAid Classic Series K455 4.5 Quart Tilt-Head Stand Mixer White New Sealed",
-    "category": "Kitchen Appliances",
-    "price": 248.88,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 9653
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/188984350065?_skw=sealed+new+kitchenaid+stand+mixer&hash=item2c00585571:g:W~UAAOSwW21h8Sda",
-    "clusterMedian": 243.94,
-    "spreadPct": -0.02,
-    "marginPct": -0.273,
-    "margin": -75.32,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|147606517496|0",
     "title": "Milwaukee 2697-26XC M18 6-Tool Combo Kit",
     "category": "Power Tools",
@@ -785,29 +743,6 @@
     "marginPct": -0.275,
     "margin": -173.7,
     "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|185115551116|0",
-    "title": "apple airpods pro new in box sealed",
-    "category": "Apple Accessories",
-    "price": 190.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 48
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/185115551116?_skw=sealed+new+airpods+pro&hash=item2b19bf258c:g:sQMAAOSwXPhhN87Q",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.278,
-    "margin": -58.95,
-    "signals": [
-      "best_offer"
-    ],
     "sellerOk": false
   },
   {
@@ -888,7 +823,7 @@
       "feedbackPct": 99.8,
       "feedbackCount": 192869
     },
-    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n0U1m%2BoCeR67MB531NP%2FdwsRGLLBF44iEnDZ8wG%2FZsFvCu5coCoH2FczNL07lIRf06wxN19W4JHUGYP9XgzpfoDy9J4Ko%2BJmCAiS5rFkQxD6Qkw8%2Bh4ExMm2JVfqCC%2FW%2FcPZcx7kfc8zOvM29kBz0rNrxGurJEXv98wVcwFLbWJthTsnoZaYVOGZYci3XK3RQcWpHIi0PIKwS8o9bjHJD2J01SDAPHuT8NJVy7z2ch2KO8XOZ44wwCtX9ahXe41KSwnY1c%2FV1%2FEs5Lbgcn%2BOcJNIHkKWJSVsCTYteS7eBPhLHwiV6t9B4zcNaKmhCdvwk%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n0U1m%2BoCeR67MB531NP%2FdwsRGLLBF44iEnDZ8wG%2FZsFvCu5coCoH2FczNL07lIRf06wxN19W4JHUGYP9XgzpfoDy9J4Ko%2BJmCAiS5rFkQxD6Qkw8%2Bh4ExMm2JVfqCC%2FW8l6R7eQl4xcL%2F6JVTy%2BKBYVwEtKt6X8C6zwOB7NjIZdqPZ2cwzZCRGtYnYoYn5F%2BktxE3ncnl0BRamUJFQwQBoBjnoLF5O8MOZUDoAn9622vWlbm2fAWGz2UhvnjYwjTQMdBCD891%2FIjA2Xum6nZIFNtI6cS8PFrdvaMuZF3vy3dBfBrf2Egv0XP%2Fk%2BrzICcg%3D",
     "clusterMedian": 459.5,
     "spreadPct": -0.086,
     "marginPct": -0.288,
@@ -897,25 +832,25 @@
     "sellerOk": true
   },
   {
-    "id": "v1|178338774560|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black - **BRAND NEW - SEALED**",
-    "category": "Consoles",
-    "price": 888.88,
+    "id": "v1|188984350065|0",
+    "title": "KitchenAid Classic Series K455 4.5 Quart Tilt-Head Stand Mixer White New Sealed",
+    "category": "Kitchen Appliances",
+    "price": 248.88,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 80.0,
-      "feedbackCount": 107
+      "feedbackPct": 100.0,
+      "feedbackCount": 9653
     },
-    "itemWebUrl": "https://www.ebay.com/itm/178338774560?_skw=sealed+new+xbox+series+x+console&hash=item2985d1be20:g:8uMAAOSwcXxkghAF",
-    "clusterMedian": 800.0,
-    "spreadPct": -0.111,
-    "marginPct": -0.29,
-    "margin": -279.55,
+    "itemWebUrl": "https://www.ebay.com/itm/188984350065?_skw=sealed+new+kitchenaid+stand+mixer&hash=item2c00585571:g:W~UAAOSwW21h8Sda",
+    "clusterMedian": 238.94,
+    "spreadPct": -0.042,
+    "marginPct": -0.289,
+    "margin": -79.67,
     "signals": [],
-    "sellerOk": false
+    "sellerOk": true
   },
   {
     "id": "v1|128072092954|0",
@@ -939,26 +874,47 @@
     "sellerOk": false
   },
   {
-    "id": "v1|184740464796|0",
-    "title": "\u2705NEW Sealed Microsoft Xbox Series S 512GB Console White \u2708\ufe0fFAST FREE SHIPPING X\u2705",
-    "category": "Consoles",
-    "price": 548.0,
+    "id": "v1|373904364881|0",
+    "title": "Apple Airpods Pro New in Box (Sealed)",
+    "category": "Apple Accessories",
+    "price": 200.0,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 154
+      "feedbackPct": 0.0,
+      "feedbackCount": 1
     },
-    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw",
-    "clusterMedian": 498.98,
-    "spreadPct": -0.098,
+    "itemWebUrl": "https://www.ebay.com/itm/373904364881?_skw=sealed+new+airpods+pro&hash=item570e6fd551:g:v60AAOSwl6dh6Ow1",
+    "clusterMedian": 195.0,
+    "spreadPct": -0.026,
     "marginPct": -0.293,
-    "margin": -174.99,
+    "margin": -65.35,
     "signals": [
       "best_offer"
     ],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|357554111428|0",
+    "title": "Microsoft Xbox Series S 512GB White Console (Brand New & Factory Sealed)",
+    "category": "Consoles",
+    "price": 550.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 188
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/357554111428?_skw=sealed+new+xbox+series+x+console&hash=item533fe2c3c4:g:ezAAAeSwH6Vothcr",
+    "clusterMedian": 499.98,
+    "spreadPct": -0.1,
+    "marginPct": -0.294,
+    "margin": -176.27,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -1048,27 +1004,50 @@
     "sellerOk": true
   },
   {
-    "id": "v1|373904364881|0",
-    "title": "Apple Airpods Pro New in Box (Sealed)",
+    "id": "v1|860026718959|0",
+    "title": "Apple AirPods Pro 3 Wireless Bluetooth Earbuds White Charging Case",
     "category": "Apple Accessories",
-    "price": 200.0,
+    "price": 135.0,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 1
+      "feedbackPct": 97.4,
+      "feedbackCount": 50
     },
-    "itemWebUrl": "https://www.ebay.com/itm/373904364881?_skw=sealed+new+airpods+pro&hash=item570e6fd551:g:v60AAOSwl6dh6Ow1",
-    "clusterMedian": 190.0,
-    "spreadPct": -0.053,
-    "marginPct": -0.313,
-    "margin": -69.7,
+    "itemWebUrl": "https://www.ebay.com/itm/860026718959?_skw=sealed+new+airpods+pro&hash=itemc83d964aef:g:SGQAAeSwWSlqyDH3&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k5V2cLEK7sIAXLfdFRocK%2FiM2RoLx%2FSkr%2FU6npIcekyy9kvWLKbunN1hA2I%2BnsPeR2DGqrJ9BBG8n17Gbvu7eJXcOv3%2B%2BQLRyVzYvmXeobjJN%2BaBkEhhRkxV91Y2EGDoG083AThKLegYcHBV1HIM8%2BzXPt8DsMSs%2BI%2FbEhHyoxADv9CkBXNVzcElKsC1IWTD2piYiZGo70OQHGBRGyfhxVYFyOn%2FVH7GFvianwWZjXyWauwePVDWZRBUQ5rNiUW6Bc3UKWTdY1ANjrjlXveVbka5vov50y9u6LRtEUE35AUOPlZKcgrs4sPJlOzCX%2FMsI%3D",
+    "clusterMedian": 135.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.311,
+    "margin": -47.67,
     "signals": [
       "best_offer"
     ],
-    "sellerOk": false
+    "sellerOk": true
+  },
+  {
+    "id": "v1|860025773928|0",
+    "title": "Apple AirPods Pro 3 Wireless Bluetooth Earbuds White Charging Case",
+    "category": "Apple Accessories",
+    "price": 135.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 97.4,
+      "feedbackCount": 50
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/860025773928?_skw=sealed+new+airpods+pro&hash=itemc83d87df68:g:b-AAAeSw38FqyDNQ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lTkwYNvF49nN%2FG0FBCKypL5Zg819JweXR9btSs9UNafNZWfHwurpvhEzfgtlAPXGQ9n%2BjcCFKunPlYNaj5L%2BJDK%2FAvVL95AhVqzB1MGJavNUVHWG20bRFUAbyXA8HqizlVlfghPMJr0lQz4QD8IBzl5iodZXXTGZ6klGeySNuR8yAyMKkH63wndKovfIuKrCpy3kQohKGH2ifg2qle3GzwVfFjsGU4G%2BHVtg63%2BCYIToH%2FXuAouaG%2FoEJZ67wsnfER5lbwJYYwTys2yjDI7GqqpBQYeI4SyX3ujNeIbdDKtGTp20E6Aup9ITKQ%2FDTae5k%3D",
+    "clusterMedian": 135.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.311,
+    "margin": -47.67,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
   },
   {
     "id": "v1|366596181046|0",
@@ -1127,13 +1106,57 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.5,
-      "feedbackCount": 3007
+      "feedbackCount": 3008
     },
     "itemWebUrl": "https://www.ebay.com/itm/366704424232?_skw=sealed+new+dewalt+drill+kit&hash=item5561497528:g:-TsAAeSw2Lhqvqvh",
     "clusterMedian": 165.99,
     "spreadPct": -0.036,
     "marginPct": -0.314,
     "margin": -60.48,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|178338774560|0",
+    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black - **BRAND NEW - SEALED**",
+    "category": "Consoles",
+    "price": 888.88,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 80.0,
+      "feedbackCount": 107
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/178338774560?_skw=sealed+new+xbox+series+x+console&hash=item2985d1be20:g:8uMAAOSwcXxkghAF",
+    "clusterMedian": 770.0,
+    "spreadPct": -0.154,
+    "marginPct": -0.317,
+    "margin": -305.65,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
+    "id": "v1|860025766325|0",
+    "title": "Apple AirPods Pro 2nd Generation Wireless Bluetooth Earbuds White",
+    "category": "Apple Accessories",
+    "price": 125.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 97.4,
+      "feedbackCount": 50
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/860025766325?_skw=sealed+new+airpods+pro&hash=itemc83d87c1b5:g:~joAAeSwiTtqyDGj&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nm0cJ9dfdnzTqbBvX%2FwLhekvAVqfx69bFCJe5UEJWGAzV0voa%2FTeB9VsylnqGvnoPwgmS1WketnORE4N6rypt282cSG1BvYXsn%2FRic41%2FUmfk3st1xMfnShfkzP3zGrPU2XRS3%2BiNj8aJKpbfj3vEeIoLarisT0PoyYsiLzLgNAH7mYNxSN6yBTuTZfDT2so8SnGpHuptGHCJ2BpgBSjMV6eoAKLzqkAAN%2BlQrFHJ%2BcOGqMBztQmmsSVzgiLwy0W7e8wZZQHbIOuitQ2jb5fCLo6z2iHbVjFsKc6IOa%2FkXqj4hzmu%2FcKDrrBJKMxBcABk%3D",
+    "clusterMedian": 125.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.32,
+    "margin": -45.62,
     "signals": [
       "best_offer"
     ],
@@ -1152,30 +1175,7 @@
       "feedbackPct": 97.4,
       "feedbackCount": 50
     },
-    "itemWebUrl": "https://www.ebay.com/itm/860025764153?_skw=sealed+new+airpods+pro&hash=itemc83d87b939:g:ohMAAeSwSy9qyDEP&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7llA8nDwgEPxj%2BE45%2FGbjZiMbsRBEYTgfY9YsUsfDWrvm5zxRK0K9de20uTNJmx6crzZAjIYu9rV85ylpArJovveSg1zm0%2F29QSFoKRHy%2BeXOSoXEEkR8OjuVDlezxMWNG3C7AomIjOgvDxQ9b%2FjwWxaGMysX5zm2G4h2TUc4T3myWPiXcMRDevXgcOAGqCGqT7IXCiTmyvfUVqYUTtkXgz%2FCU9v2IkwdSAegF2FA9hpBUv20BbaVEDGDALYQ3FIXXlM%2FmYd4cMcL1RHPLrZsnq3NQuVREcZglW--t9pS%2Brf2b4suF49%2BKz33kc2kluZLY%3D",
-    "clusterMedian": 125.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.32,
-    "margin": -45.62,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|860025766325|0",
-    "title": "Apple AirPods Pro 2nd Generation Wireless Bluetooth Earbuds White",
-    "category": "Apple Accessories",
-    "price": 125.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 97.4,
-      "feedbackCount": 50
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/860025766325?_skw=sealed+new+airpods+pro&hash=itemc83d87c1b5:g:~joAAeSwiTtqyDGj&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nm0cJ9dfdnzTqbBvX%2FwLhekvAVqfx69bFCJe5UEJWGAzV0voa%2FTeB9VsylnqGvnoPwgmS1WketnORE4N6rypt282cSG1BvYXsn%2FRic41%2FUmfk3st1xMfnShfkzP3zGrPUQTkLVFGvJNH7eKDTresyF2UdFZVoG3IGSjRpWjz7M2LkSeYRf%2BZiGdC4rheerSUAkDAfN%2FbCgo2KqjH%2FF4XwKpJb6F%2FN%2BfOX8cLDYsQDi%2FfF5sQYUEZE2tRNgFjLPm1fweK2g62rthq%2Fsx%2F9CUc9bSmOXCfzMO%2FZzH6AuwL%2FLQBIQnE6foWDW3%2B3ZPTgkvvI%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/860025764153?_skw=sealed+new+airpods+pro&hash=itemc83d87b939:g:ohMAAeSwSy9qyDEP&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7llA8nDwgEPxj%2BE45%2FGbjZiMbsRBEYTgfY9YsUsfDWrvm5zxRK0K9de20uTNJmx6crzZAjIYu9rV85ylpArJovveSg1zm0%2F29QSFoKRHy%2BeXOSoXEEkR8OjuVDlezxMWNFulMyHgilOhWKZ%2B8hK0C8jvHv1VwLJei%2FN7ge52KLi20x6MuruXBmIioDx%2FGMXrkzqG9vTWKuaM8vFop%2BiHYan7k3DZjy5zlEbqLAheZOnLWl7Ds7nPuNIJLo6p6ARp0Bm%2BDQnDsNmy%2BDmNBdmSCz9k27vi%2B6kz%2FxB6cFegBmjMrKSWUPoASmA5gmqpgCxGSE%3D",
     "clusterMedian": 125.0,
     "spreadPct": 0.0,
     "marginPct": -0.32,
@@ -1198,7 +1198,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 328
     },
-    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcahhdQV0PDOyii0LZtOIgyU%2B%2BVvjWcg0cFXouuEEE%2BpxcJrogwvJzF2HwqJEkm5YB8bwnjRd8bNUybzj3MfWIhVTL2QTvOGd3olKb50tv6J7FdJWDAkojsrdZjEX2HQGG7sPt5dqgj0LI1uFe2PyqmjvoNuPW%2BvK5edBFi41REUkRYj%2FXL8cxavslfhYvx4IFzk%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcajJWCrf52eU0WtvBmpvt7Hq7OqeOemuCc8Fc%2BrFla%2BTOHfA2pHaqtYp42C64QJAWoGa%2FFdklZmIkKJzglxB5qfrHGKgDh4lDIPiOV%2FkfsRQdzfpIP%2BpHKe4xEL4Ubi8nilw4%2BZvChirA%2BotUL%2B0fjLRMxWRBJDdeVHUmn%2FAVZ88rnR0bzJdG3nUIrAbGL8AoMc%3D",
     "clusterMedian": 146.0,
     "spreadPct": -0.027,
     "marginPct": -0.32,
@@ -1288,7 +1288,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 7
     },
-    "itemWebUrl": "https://www.ebay.com/itm/307209896033?_skw=sealed+new+airpods+pro&hash=item4787230061:g:ZkEAAeSwq-Jqv190&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mBdoMl6XahltgufAIO4T084d9HD7hBwwv%2FU5ClDst6h%2BCjFj6IwBARma5s%2BmbYb07OVo6UKHEP8dTsqdDj0dzRfI1Vu6NsCB9qY%2FIVpyqETUFUDXxLmVotTWO8C1dgUW83XIp9Y336WO11kjeXnCoFQfgk%2BAcyj5XFMHGqX%2FIHN2zno%2FPPmzY3MMQLVlxbvlpNsOWQwt0TP3TLqHziDXYgzA5OzjTaU9bk7GCiOt8uorlJOiGmQnUtmrGAoe2PK12QqTffjTt%2F%2B%2Bbz0jN9wzsdjMYupgJmOwK86mTAJkRKNlgFli%2FmiZRzve0W4IQMMIc%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/307209896033?_skw=sealed+new+airpods+pro&hash=item4787230061:g:ZkEAAeSwq-Jqv190",
     "clusterMedian": 115.0,
     "spreadPct": 0.0,
     "marginPct": -0.331,
@@ -1410,29 +1410,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|377480729534|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 48.97,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.0,
-      "feedbackCount": 1219
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/377480729534?_skw=sealed+new+dewalt+drill+kit&hash=item57e39ad3be:g:1AkAAeSwjkZqn7tO",
-    "clusterMedian": 54.99,
-    "spreadPct": 0.109,
-    "marginPct": -0.409,
-    "margin": -24.8,
-    "signals": [
-      "below_cluster"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|304182919553|0",
     "title": "apple airpods pro new in box sealed",
     "category": "Apple Accessories",
@@ -1446,14 +1423,37 @@
       "feedbackCount": 2
     },
     "itemWebUrl": "https://www.ebay.com/itm/304182919553?_skw=sealed+new+airpods+pro&hash=item46d2b70181:g:zgUAAOSw~9phVi0x",
-    "clusterMedian": 190.0,
-    "spreadPct": -0.237,
-    "marginPct": -0.412,
-    "margin": -107.32,
+    "clusterMedian": 195.0,
+    "spreadPct": -0.205,
+    "marginPct": -0.395,
+    "margin": -102.97,
     "signals": [
       "best_offer"
     ],
     "sellerOk": false
+  },
+  {
+    "id": "v1|377480729534|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 48.97,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 98.0,
+      "feedbackCount": 1218
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/377480729534?_skw=sealed+new+dewalt+drill+kit&hash=item57e39ad3be:g:1AkAAeSwjkZqn7tO",
+    "clusterMedian": 54.99,
+    "spreadPct": 0.109,
+    "marginPct": -0.409,
+    "margin": -24.8,
+    "signals": [
+      "below_cluster"
+    ],
+    "sellerOk": true
   },
   {
     "id": "v1|227553940140|0",
@@ -1486,8 +1486,8 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 92.9,
-      "feedbackCount": 84
+      "feedbackPct": 91.9,
+      "feedbackCount": 83
     },
     "itemWebUrl": "https://www.ebay.com/itm/407136956302?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb40ef8e:g:xBMAAeSwd3dqe2CP",
     "clusterMedian": 54.99,
@@ -1556,7 +1556,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 1392
     },
-    "itemWebUrl": "https://www.ebay.com/itm/188992719372?_skw=sealed+new+instant+pot&hash=item2c00d80a0c:g:KGEAAeSwTx1quJ-S&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mbbrr7LNyQ2X9CdqzgmAbyK6CMdll4l3NCMRRSbGoROZ9OBFhCCD%2FsWIJ%2BhsRyAY6sRuOLcbGlR4y12GJogj3ER24z%2FS%2BgNs7hih1e90tV7NsiK%2FEmAEyupDy4YhtMzJcgWdNpVaHBVRi%2BoIoR7mlrbGyale73aBzBlve8yH9LioLb9cp4gqvqiixVRaY9dgp8igMOHkEW5gvGS2OjSVbbeDxWpteLyA1famLw2%2FU7RKfn7FcjzuZXWKmv5GnX7VdUYh4%2FRZGURdwYC%2FUtw1GNzBtLV%2FbWZUNNMT3R%2FXMQMw%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/188992719372?_skw=sealed+new+instant+pot&hash=item2c00d80a0c:g:KGEAAeSwTx1quJ-S&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mbbrr7LNyQ2X9CdqzgmAbyK6CMdll4l3NCMRRSbGoROZ9OBFhCCD%2FsWIJ%2BhsRyAY6sRuOLcbGlR4y12GJogj3ER24z%2FS%2BgNs7hih1e90tV7NsiK%2FEmAEyupDy4YhtMzJenJc6eLK3F%2FvHFtKhowrfa4YGS7efwy0fahJACXPQIMoQlRg3V9%2BnpALskuybuuGvynMxUuLn9IeaDyHTQQvk8GVki62%2FMvFgSoTu6U1cDA0IuWI2bIPZQIxlgOrBZ7BbaJWEKzuBOKkBGFyf863E4N0s98cs1sqS5DvR%2FFdpfLA%3D%3D",
     "clusterMedian": 120.0,
     "spreadPct": -0.5,
     "marginPct": -0.541,
@@ -1617,7 +1617,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 10889
+      "feedbackCount": 10890
     },
     "itemWebUrl": "https://www.ebay.com/itm/127962653598?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1dcb2b239e:g:RIQAAeSwBLNqTWL2",
     "clusterMedian": 40.0,
@@ -1689,48 +1689,6 @@
     "spreadPct": -0.172,
     "marginPct": -0.703,
     "margin": -31.32,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|840007886585|0",
-    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
-    "category": "Kitchen Appliances",
-    "price": 11.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 27
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/840007886585?_skw=sealed+new+instant+pot&hash=itemc3945f26f9:g:7ccAAeSwV19qyqD3",
-    "clusterMedian": 11.88,
-    "spreadPct": -0.009,
-    "marginPct": -1.079,
-    "margin": -22.55,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|188120443544|0",
-    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
-    "category": "Kitchen Appliances",
-    "price": 11.78,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.4,
-      "feedbackCount": 9664
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
-    "clusterMedian": 11.88,
-    "spreadPct": 0.009,
-    "marginPct": -1.08,
-    "margin": -22.32,
     "signals": [],
     "sellerOk": true
   }
