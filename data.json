@@ -12,7 +12,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 157
     },
-    "itemWebUrl": "https://www.ebay.com/itm/188962590151?_skw=sealed+new+instant+pot&hash=item2bff0c4dc7:g:MZIAAeSwNwBqtdSt&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7myPCiwrjQ6Q2z%2Bb75Sxp3geyGIw6JY%2BymL1%2Bs0XurBXeIS8hCv3VE4XOhBJiEG1YgHDS9sYjSfK3%2FxvlrSz%2BuASs4taPPtyfI6P7E%2FcjlQ4QosvZZwPj6gbXJts5mgKK%2F2SFDKIDkrAt0wqBEfftMzv%2BIoCMGGoihEdLXeXY5N5%2BMGt0V6qDbThd2EfcAR6AF3kEMjyKXPK%2Fi8VoPywK1TvbTjwa8O95cDeQEnLG1EshtOc5su7BhQgm%2BGIb2cEQdFN6YwAcRR8yQxqk80YyMg0gztARxN1srfuTxkvl7EQKFboS0JEMcFNembrIszt4M%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/188962590151?_skw=sealed+new+instant+pot&hash=item2bff0c4dc7:g:MZIAAeSwNwBqtdSt&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7myPCiwrjQ6Q2z%2Bb75Sxp3geyGIw6JY%2BymL1%2Bs0XurBXeIS8hCv3VE4XOhBJiEG1YgHDS9sYjSfK3%2FxvlrSz%2BuASs4taPPtyfI6P7E%2FcjlQ4QosvZZwPj6gbXJts5mgKK9e6jCrOPL6WvCF5QxwNY1%2Bl%2FEwk9z49lyLTLYF1cFwMsLSX7DUgabgBNofyD%2BSkbEmIcIZstwGGxLbtEjQ9bOMFVzNmA12DIw5At8LVlSwpm1Lt2ivZTcS9XBA%2FHXkfKbpcyOHx7YIUdb%2BRjQ4vQx1FGQxwX%2FZGciz91ZKt2J3WupXrF9tamvD5F70X37oZbM%3D",
     "clusterMedian": 120.0,
     "spreadPct": 0.5,
     "marginPct": 0.275,
@@ -80,10 +80,10 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 96.3,
-      "feedbackCount": 203
+      "feedbackPct": 95.9,
+      "feedbackCount": 202
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168570092483?_skw=sealed+new+milwaukee+tool+combo&hash=item273f8f7bc3:g:hVoAAeSwUr5qaLwl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mZ5hqrdqbTfwFNINNb5fVNl3qDa9IWpa4CXTVm1efyIWgrNpncZYUnaBr7to%2Fm2oeTBFjpXHnEkchSFDee24PZ0vvkYwdGFLSo7MkANiZEgMZLZjogGEd1UbwhVG47w25q5Umwp8cb5%2Bc6w8UBrM7xhtmYTTrlQ997CMkgU7Qv%2FSWwMBmxrfSFq%2B228MjtaBP9zmbDK%2Bz7eLWMOAiENxUVPqsmD7azfVTBL7gr9urObQLg3B1TddHJzMtJN%2FJLj7SqH8YHeQBfE4OnExXTqcTd48Xx6%2FhRE7H%2BY5bQf7Dr0TGxBHdikDBZL%2B7E3noqBBo%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/168570092483?_skw=sealed+new+milwaukee+tool+combo&hash=item273f8f7bc3:g:hVoAAeSwUr5qaLwl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mZ5hqrdqbTfwFNINNb5fVNl3qDa9IWpa4CXTVm1efyIWgrNpncZYUnaBr7to%2Fm2oeTBFjpXHnEkchSFDee24PZ0vvkYwdGFLSo7MkANiZEgMZLZjogGEd1UbwhVG47w269wO4w2wAs0rDxNUqwgcTutj4qkEJ9LimFB8HpSxwwiGcVCSoiefqv2kSF08xaNDj7KopmBEZHGqA3wBRzBPQECOPL8ofncx3UTg6jgGdO2BD2YCHX%2BLA0JEWyvtwefSbJeYnGn5L3twVawivpSGDKMBVk5ocH1CWYy1tKp8ronXVH%2B5ESK4QZBIoXBJrsGis%3D",
     "clusterMedian": 562.0,
     "spreadPct": 0.112,
     "marginPct": -0.124,
@@ -107,13 +107,11 @@
       "feedbackCount": 981
     },
     "itemWebUrl": "https://www.ebay.com/itm/237040752927?_skw=sealed+new+xbox+series+x+console&hash=item3730bad91f:g:YH8AAeSwaGNqlXoI",
-    "clusterMedian": 499.98,
-    "spreadPct": 0.1,
-    "marginPct": -0.14,
-    "margin": -68.72,
-    "signals": [
-      "below_cluster"
-    ],
+    "clusterMedian": 498.98,
+    "spreadPct": 0.098,
+    "marginPct": -0.142,
+    "margin": -69.59,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -302,7 +300,7 @@
       "feedbackPct": 99.9,
       "feedbackCount": 10355
     },
-    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3ObxmFOuKSxNs2uDUEqKJIXA3rpNOzoOZ5bL59KBA%2BQLGlaqoKhioeYdVXYDvGOU4eEaFdgwo1cuaiGoVKDv%2BC4C1X5HXTYN86EyYCVqj3n7W6t6l30Wu7YM8%2BAMZpiBtMNkPPiW2zDIGlkmSz23Er64euPy7M4JOmC%2BHlVQr1DCsSDKEIYNjrBjdcz7tfrXWZHxA%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3ObxkQhv%2B6QFUMTi3miV8d6bUs3UHclUb%2BkOIXo2wqyO3EknI65th1J9fTx0yAYCkwjGIlAsusOA9N%2FCO84NOFDhb2MH15hp%2FUk%2Fb%2FY5GcNOpO8IKO%2BAjXlauginimPJvuelDmWAvZ92T2ubat1GiVzKy%2FngIcK6YaoAqW8FppCWqdZtkNxAi7%2FVWr3V3GLyj6Usg%3D",
     "clusterMedian": 770.0,
     "spreadPct": 0.0,
     "marginPct": -0.213,
@@ -347,7 +345,7 @@
       "feedbackPct": 99.7,
       "feedbackCount": 445
     },
-    "itemWebUrl": "https://www.ebay.com/itm/278399186498?_skw=sealed+new+milwaukee+tool+combo&hash=item40d1e27642:g:DHQAAeSw2aZqsU9~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ml48CnPN2Z1eo228G%2Bfz0SYMEBecT7RnwGiMLlLi2BQsO8QexPAJvUCWEDb188KUXS6r8%2Fi1iycO7%2FnJaVMcsfqdSuIoVxVCvZlTEH3EjdRRY9lC6oXhygwdvuvBw42YZRLgpy6o6XnyoqBIO9TNcGoYpkcHljbuhhYDAAQDuqndf7lT3POargSX%2FSUwdyEhQGSp2ZTTrZ%2FrpaN3%2FAD%2FbLP1Q1hDJPR3Vgcf4SAy0FtLMxR3rkqiAWldvSrYEm1nO0QRM%2FMT1gr9xA%2BWzyJKyzIAXVzPE8AM8C%2B%2B%2Fh0pDxzX95W4ysGrdPBUceo8%2F7vrg%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/278399186498?_skw=sealed+new+milwaukee+tool+combo&hash=item40d1e27642:g:DHQAAeSw2aZqsU9~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ml48CnPN2Z1eo228G%2Bfz0SYMEBecT7RnwGiMLlLi2BQsO8QexPAJvUCWEDb188KUXS6r8%2Fi1iycO7%2FnJaVMcsfqdSuIoVxVCvZlTEH3EjdRRY9lC6oXhygwdvuvBw42YZEZbMjRxeVR552I%2B7wC1fG%2B3YwCe7sJZcrULt%2BnTuXV33Sg58CH6se%2FpBc8E3K3852eSiEjDcewz7YGCLSmr0cyZvsWtAT8jPc3coh0PkQ9dgczJnQpfJv5ztoJ7w3pSNM1ufXNa37rMJxtsqppqA1WzwvMAnbwq2K2SZDRYDW75s9J7X79CB3xfBDs6KODw4%3D",
     "clusterMedian": 530.0,
     "spreadPct": 0.009,
     "marginPct": -0.215,
@@ -485,27 +483,6 @@
     "signals": [
       "best_offer"
     ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|900005612166|0",
-    "title": "Milwaukee 2691-22 M18 18V Li-Ion 2-Tool Combo Kit",
-    "category": "Power Tools",
-    "price": 179.98,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 3133
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/900005612166?_skw=sealed+new+milwaukee+tool+combo&hash=itemd18c83ca86:g:TBcAAeSwozhqy21i",
-    "clusterMedian": 189.99,
-    "spreadPct": 0.053,
-    "marginPct": -0.239,
-    "margin": -48.19,
-    "signals": [],
     "sellerOk": true
   },
   {
@@ -821,9 +798,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 192869
+      "feedbackCount": 192870
     },
-    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n0U1m%2BoCeR67MB531NP%2FdwsRGLLBF44iEnDZ8wG%2FZsFvCu5coCoH2FczNL07lIRf06wxN19W4JHUGYP9XgzpfoDy9J4Ko%2BJmCAiS5rFkQxD6Qkw8%2Bh4ExMm2JVfqCC%2FW8l6R7eQl4xcL%2F6JVTy%2BKBYVwEtKt6X8C6zwOB7NjIZdqPZ2cwzZCRGtYnYoYn5F%2BktxE3ncnl0BRamUJFQwQBoBjnoLF5O8MOZUDoAn9622vWlbm2fAWGz2UhvnjYwjTQMdBCD891%2FIjA2Xum6nZIFNtI6cS8PFrdvaMuZF3vy3dBfBrf2Egv0XP%2Fk%2BrzICcg%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/306278726037?_skw=sealed+new+milwaukee+tool+combo&hash=item474fa27995:g:UZ0AAeSwdTZoHai~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n0U1m%2BoCeR67MB531NP%2FdwsRGLLBF44iEnDZ8wG%2FZsFvCu5coCoH2FczNL07lIRf06wxN19W4JHUGYP9XgzpfoDy9J4Ko%2BJmCAiS5rFkQxD6Qkw8%2Bh4ExMm2JVfqCC%2FW%2BIJ7j9KJJYu%2FLp2V%2Fudt6q5u9khxdepDdxVsvoyRsp7HyCWep38x6J9MoWTwYdnQGTUJyjStRQcrhmBmeOhlXewiuM%2B%2FSEiU9Z%2BqiL5Mlt3jMPDJbW71%2BUj6w5NGhAerQ4RFepbuKNxgXoe4w6VL6fHrnyKobiU6zpxhiy6q0%2FFHRoAgAbkGN%2BkkfWE%2FWUzhI%3D",
     "clusterMedian": 459.5,
     "spreadPct": -0.086,
     "marginPct": -0.288,
@@ -874,6 +851,29 @@
     "sellerOk": false
   },
   {
+    "id": "v1|184740464796|0",
+    "title": "\u2705NEW Sealed Microsoft Xbox Series S 512GB Console White \u2708\ufe0fFAST FREE SHIPPING X\u2705",
+    "category": "Consoles",
+    "price": 548.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 154
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/184740464796?_skw=sealed+new+xbox+series+x+console&hash=item2b0363c89c:g:1HkAAOSwmN9gZmkw",
+    "clusterMedian": 498.98,
+    "spreadPct": -0.098,
+    "marginPct": -0.293,
+    "margin": -174.99,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
     "id": "v1|373904364881|0",
     "title": "Apple Airpods Pro New in Box (Sealed)",
     "category": "Apple Accessories",
@@ -895,27 +895,6 @@
       "best_offer"
     ],
     "sellerOk": false
-  },
-  {
-    "id": "v1|357554111428|0",
-    "title": "Microsoft Xbox Series S 512GB White Console (Brand New & Factory Sealed)",
-    "category": "Consoles",
-    "price": 550.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 188
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/357554111428?_skw=sealed+new+xbox+series+x+console&hash=item533fe2c3c4:g:ezAAAeSwH6Vothcr",
-    "clusterMedian": 499.98,
-    "spreadPct": -0.1,
-    "marginPct": -0.294,
-    "margin": -176.27,
-    "signals": [],
-    "sellerOk": true
   },
   {
     "id": "v1|366586690478|0",
@@ -1004,52 +983,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|860026718959|0",
-    "title": "Apple AirPods Pro 3 Wireless Bluetooth Earbuds White Charging Case",
-    "category": "Apple Accessories",
-    "price": 135.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 97.4,
-      "feedbackCount": 50
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/860026718959?_skw=sealed+new+airpods+pro&hash=itemc83d964aef:g:SGQAAeSwWSlqyDH3&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k5V2cLEK7sIAXLfdFRocK%2FiM2RoLx%2FSkr%2FU6npIcekyy9kvWLKbunN1hA2I%2BnsPeR2DGqrJ9BBG8n17Gbvu7eJXcOv3%2B%2BQLRyVzYvmXeobjJN%2BaBkEhhRkxV91Y2EGDoG083AThKLegYcHBV1HIM8%2BzXPt8DsMSs%2BI%2FbEhHyoxADv9CkBXNVzcElKsC1IWTD2piYiZGo70OQHGBRGyfhxVYFyOn%2FVH7GFvianwWZjXyWauwePVDWZRBUQ5rNiUW6Bc3UKWTdY1ANjrjlXveVbka5vov50y9u6LRtEUE35AUOPlZKcgrs4sPJlOzCX%2FMsI%3D",
-    "clusterMedian": 135.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.311,
-    "margin": -47.67,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|860025773928|0",
-    "title": "Apple AirPods Pro 3 Wireless Bluetooth Earbuds White Charging Case",
-    "category": "Apple Accessories",
-    "price": 135.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 97.4,
-      "feedbackCount": 50
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/860025773928?_skw=sealed+new+airpods+pro&hash=itemc83d87df68:g:b-AAAeSw38FqyDNQ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lTkwYNvF49nN%2FG0FBCKypL5Zg819JweXR9btSs9UNafNZWfHwurpvhEzfgtlAPXGQ9n%2BjcCFKunPlYNaj5L%2BJDK%2FAvVL95AhVqzB1MGJavNUVHWG20bRFUAbyXA8HqizlVlfghPMJr0lQz4QD8IBzl5iodZXXTGZ6klGeySNuR8yAyMKkH63wndKovfIuKrCpy3kQohKGH2ifg2qle3GzwVfFjsGU4G%2BHVtg63%2BCYIToH%2FXuAouaG%2FoEJZ67wsnfER5lbwJYYwTys2yjDI7GqqpBQYeI4SyX3ujNeIbdDKtGTp20E6Aup9ITKQ%2FDTae5k%3D",
-    "clusterMedian": 135.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.311,
-    "margin": -47.67,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|366596181046|0",
     "title": "Apple AirPods Pro 2nd Gen *BRAND NEW* *SEALED*",
     "category": "Apple Accessories",
@@ -1067,29 +1000,6 @@
     "spreadPct": -0.053,
     "marginPct": -0.313,
     "margin": -69.7,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|860029974231|0",
-    "title": "Milwaukee 2691-22 M18 18V Li-Ion 2-Tool Combo Kit - NEW - FREE SHIPPING",
-    "category": "Power Tools",
-    "price": 200.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 0
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/860029974231?_skw=sealed+new+milwaukee+tool+combo&hash=itemc83dc7f6d7:g:tn4AAeSw3B5qylYf",
-    "clusterMedian": 189.99,
-    "spreadPct": -0.053,
-    "marginPct": -0.313,
-    "margin": -69.71,
     "signals": [
       "best_offer"
     ],
@@ -1140,29 +1050,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|860025766325|0",
-    "title": "Apple AirPods Pro 2nd Generation Wireless Bluetooth Earbuds White",
-    "category": "Apple Accessories",
-    "price": 125.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 97.4,
-      "feedbackCount": 50
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/860025766325?_skw=sealed+new+airpods+pro&hash=itemc83d87c1b5:g:~joAAeSwiTtqyDGj&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nm0cJ9dfdnzTqbBvX%2FwLhekvAVqfx69bFCJe5UEJWGAzV0voa%2FTeB9VsylnqGvnoPwgmS1WketnORE4N6rypt282cSG1BvYXsn%2FRic41%2FUmfk3st1xMfnShfkzP3zGrPU2XRS3%2BiNj8aJKpbfj3vEeIoLarisT0PoyYsiLzLgNAH7mYNxSN6yBTuTZfDT2so8SnGpHuptGHCJ2BpgBSjMV6eoAKLzqkAAN%2BlQrFHJ%2BcOGqMBztQmmsSVzgiLwy0W7e8wZZQHbIOuitQ2jb5fCLo6z2iHbVjFsKc6IOa%2FkXqj4hzmu%2FcKDrrBJKMxBcABk%3D",
-    "clusterMedian": 125.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.32,
-    "margin": -45.62,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|860025764153|0",
     "title": "Apple AirPods Pro 2nd Generation Wireless Bluetooth Earbuds White",
     "category": "Apple Accessories",
@@ -1175,7 +1062,30 @@
       "feedbackPct": 97.4,
       "feedbackCount": 50
     },
-    "itemWebUrl": "https://www.ebay.com/itm/860025764153?_skw=sealed+new+airpods+pro&hash=itemc83d87b939:g:ohMAAeSwSy9qyDEP&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7llA8nDwgEPxj%2BE45%2FGbjZiMbsRBEYTgfY9YsUsfDWrvm5zxRK0K9de20uTNJmx6crzZAjIYu9rV85ylpArJovveSg1zm0%2F29QSFoKRHy%2BeXOSoXEEkR8OjuVDlezxMWNFulMyHgilOhWKZ%2B8hK0C8jvHv1VwLJei%2FN7ge52KLi20x6MuruXBmIioDx%2FGMXrkzqG9vTWKuaM8vFop%2BiHYan7k3DZjy5zlEbqLAheZOnLWl7Ds7nPuNIJLo6p6ARp0Bm%2BDQnDsNmy%2BDmNBdmSCz9k27vi%2B6kz%2FxB6cFegBmjMrKSWUPoASmA5gmqpgCxGSE%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/860025764153?_skw=sealed+new+airpods+pro&hash=itemc83d87b939:g:ohMAAeSwSy9qyDEP&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7llA8nDwgEPxj%2BE45%2FGbjZiMbsRBEYTgfY9YsUsfDWrvm5zxRK0K9de20uTNJmx6crzZAjIYu9rV85ylpArJovveSg1zm0%2F29QSFoKRHy%2BeXOSoXEEkR8OjuVDlezxMWNFNzrGs7WGBMEyIsh0rCPNZRK1HwtEAs8H99DXb0F%2BnaA6Mdb0zPiweJVUyZS3bHP7ldvh15r87XvoOHG4VbceiFJJCYCJcti44GtvJb7J9pJzd5YBipPO5lFOLM58Wfd87rn8TlGdu0KUPSEdpXDDOjqPGPlLPxhA9Bcp%2BXDRwMskgrjHF6PWsfYb2SvGY6Qs%3D",
+    "clusterMedian": 125.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.32,
+    "margin": -45.62,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|860025766325|0",
+    "title": "Apple AirPods Pro 2nd Generation Wireless Bluetooth Earbuds White",
+    "category": "Apple Accessories",
+    "price": 125.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 97.4,
+      "feedbackCount": 50
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/860025766325?_skw=sealed+new+airpods+pro&hash=itemc83d87c1b5:g:~joAAeSwiTtqyDGj&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nm0cJ9dfdnzTqbBvX%2FwLhekvAVqfx69bFCJe5UEJWGAzV0voa%2FTeB9VsylnqGvnoPwgmS1WketnORE4N6rypt282cSG1BvYXsn%2FRic41%2FUmfk3st1xMfnShfkzP3zGrPWKiWkfasBAWuKV9FYtY%2F6w%2FPwFL%2F9ACPb4kPVHQMV3bXjQ3ISfXXKP94goBG7y3D5ESWaAyUnzjjsZmX1%2FyItWxJn5j4k1UGvw%2F9f%2BdJ28iKgLepcIiVVhX7S%2Bujxr0EeL%2FChoWdIdDQrCF9qlSaC6l27qpP%2FfSpM%2FEBNNLQhEWGW8A4E8kZmKCfG%2FK3hszQ4%3D",
     "clusterMedian": 125.0,
     "spreadPct": 0.0,
     "marginPct": -0.32,
@@ -1198,7 +1108,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 328
     },
-    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcajJWCrf52eU0WtvBmpvt7Hq7OqeOemuCc8Fc%2BrFla%2BTOHfA2pHaqtYp42C64QJAWoGa%2FFdklZmIkKJzglxB5qfrHGKgDh4lDIPiOV%2FkfsRQdzfpIP%2BpHKe4xEL4Ubi8nilw4%2BZvChirA%2BotUL%2B0fjLRMxWRBJDdeVHUmn%2FAVZ88rnR0bzJdG3nUIrAbGL8AoMc%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcaiGD4ZJwli6AD5yxyUBtdWvENNcZHtdcCjh72gzGwUXHHmc6AJeK1nFwPDIGgOxNl4TLhKflHKh7ibPIAs6cEoh%2FKCPVXtqCbWC3jj544PODmRZOQRpQupYZxKdxDUrDB8iCQAeS7mReUqqP2lbv4j2cEwMFgxnILe2ZgK0A%2Bv33q9H7YepoW%2BkmCTUzslZy14%3D",
     "clusterMedian": 146.0,
     "spreadPct": -0.027,
     "marginPct": -0.32,
@@ -1442,7 +1352,7 @@
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 98.0,
+      "feedbackPct": 97.8,
       "feedbackCount": 1218
     },
     "itemWebUrl": "https://www.ebay.com/itm/377480729534?_skw=sealed+new+dewalt+drill+kit&hash=item57e39ad3be:g:1AkAAeSwjkZqn7tO",
@@ -1556,7 +1466,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 1392
     },
-    "itemWebUrl": "https://www.ebay.com/itm/188992719372?_skw=sealed+new+instant+pot&hash=item2c00d80a0c:g:KGEAAeSwTx1quJ-S&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mbbrr7LNyQ2X9CdqzgmAbyK6CMdll4l3NCMRRSbGoROZ9OBFhCCD%2FsWIJ%2BhsRyAY6sRuOLcbGlR4y12GJogj3ER24z%2FS%2BgNs7hih1e90tV7NsiK%2FEmAEyupDy4YhtMzJenJc6eLK3F%2FvHFtKhowrfa4YGS7efwy0fahJACXPQIMoQlRg3V9%2BnpALskuybuuGvynMxUuLn9IeaDyHTQQvk8GVki62%2FMvFgSoTu6U1cDA0IuWI2bIPZQIxlgOrBZ7BbaJWEKzuBOKkBGFyf863E4N0s98cs1sqS5DvR%2FFdpfLA%3D%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/188992719372?_skw=sealed+new+instant+pot&hash=item2c00d80a0c:g:KGEAAeSwTx1quJ-S&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mbbrr7LNyQ2X9CdqzgmAbyK6CMdll4l3NCMRRSbGoROZ9OBFhCCD%2FsWIJ%2BhsRyAY6sRuOLcbGlR4y12GJogj3ER24z%2FS%2BgNs7hih1e90tV7NsiK%2FEmAEyupDy4YhtMzJcZY5%2B4M2yCBcMvKClNpq5hG4DT4KzNz6dwnHYQpMOazfDvyQdonSyWqq14v4yjVvdnC7aKNyiE1EKi4ScgToW1sUAy4iMIYexot6J4vLEziai8aZSwS9WHMwnZySi29C%2BbbZjH3ri5YXIdZoPfgZ%2Bxx26dJ8RKNbzsZCyTokdHJg%3D%3D",
     "clusterMedian": 120.0,
     "spreadPct": -0.5,
     "marginPct": -0.541,
