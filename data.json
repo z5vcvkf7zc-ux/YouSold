@@ -60,7 +60,7 @@
       "feedbackPct": 98.4,
       "feedbackCount": 982
     },
-    "itemWebUrl": "https://www.ebay.com/itm/237040752927?_skw=sealed+new+xbox+series+x+console&hash=item3730bad91f:g:YH8AAeSwaGNqlXoI&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kkfOQi%2B%2BRAxBi%2F4AbYhtCjw2Tg%2BD6NWE6dgsP7VO5hO%2BgDZCpxan7ACGmF%2F99l%2BnuvmEscEAAwn4EhJ7g8eRicl2hKaeLzN4AQP%2FH57Q09yuBQw9XPHOVw0aCwNaTo6zaQfdgxKr71FRZsKAEApLN3UBgpolN6RuiGdUvwOa3j56bSDEw4%2Bc%2B24Ef7FEjFHEa%2F0OmcdavLK6sGtxoOJroz2PfohOGEscqQeDTjPkVPwJb7J%2FgBQFuZ1mq33567UmbFKX4nvOvO4nCP7RhEb8PbiXbtY4MVIV4%2FG%2F7UNTsbpJmXKqSpmi5%2F43qGmQUPP2U%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/237040752927?_skw=sealed+new+xbox+series+x+console&hash=item3730bad91f:g:YH8AAeSwaGNqlXoI",
     "clusterMedian": 548.0,
     "spreadPct": 0.179,
     "marginPct": -0.055,
@@ -83,7 +83,7 @@
       "feedbackPct": 99.5,
       "feedbackCount": 321
     },
-    "itemWebUrl": "https://www.ebay.com/itm/206631709754?_skw=sealed+new+milwaukee+tool+combo&hash=item301c35ac3a:g:38UAAeSw69xq0nt~",
+    "itemWebUrl": "https://www.ebay.com/itm/206631709754?_skw=sealed+new+milwaukee+tool+combo&hash=item301c35ac3a:g:38UAAeSw69xq0nt~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lOmgNIhivx9MimSzL3DrwJ7BL7VemJQp5kEqXfa02H9Rrukt%2FkdU94RiG02Tm3up5Gl57FQYTCC9bscBWlbcjz15bITAm6yNwraGOz5BjfLHBCWzXvviFx44c%2F7xBJx9e5VZxjT%2BaQ%2BEwdh4%2F4Q%2FcWlP0Z27vfT3LLlH13nz4FTIvuSdcQMx7fSYhDjo3evEUvrUDQXATP8Ul4UbPZ0Vu8ua7bfgUlVMsfJqIhawRdNfpvOYUMHcm4AXqouqupJz8erGOg3UDq4NOWDiCQS5LD%2Bn7K4w%2FD15840UCpoAZYNcafYAzx3bw7Dvm8K9xctBg%3D",
     "clusterMedian": 450.0,
     "spreadPct": 0.111,
     "marginPct": -0.134,
@@ -91,48 +91,6 @@
     "signals": [
       "below_cluster"
     ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|224740731432|0",
-    "title": "Brand NEW Factory Sealed Microsoft Xbox Series X 1TB Video Game Console - Black",
-    "category": "Consoles",
-    "price": 750.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 17
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/224740731432?_skw=sealed+new+xbox+series+x+console&hash=item3453976a28:g:6-4AAOSwmpZhuL2Z",
-    "clusterMedian": 800.0,
-    "spreadPct": 0.062,
-    "marginPct": -0.16,
-    "margin": -130.25,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|198498134870|0",
-    "title": "Milwaukee 2697-26XC M18 6-Tool Combo Kit",
-    "category": "Power Tools",
-    "price": 500.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 980
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/198498134870?_skw=sealed+new+milwaukee+tool+combo&hash=item2e37692b56:g:lFcAAeSw6FJqVsP3",
-    "clusterMedian": 540.0,
-    "spreadPct": 0.074,
-    "marginPct": -0.161,
-    "margin": -87.7,
-    "signals": [],
     "sellerOk": true
   },
   {
@@ -160,25 +118,25 @@
     "sellerOk": true
   },
   {
-    "id": "v1|318930541690|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black",
+    "id": "v1|224740731432|0",
+    "title": "Brand NEW Factory Sealed Microsoft Xbox Series X 1TB Video Game Console - Black",
     "category": "Consoles",
-    "price": 770.0,
+    "price": 750.0,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 10473
+      "feedbackPct": 0.0,
+      "feedbackCount": 17
     },
-    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3Obxnf3N4Wf0k5kFsJ8%2BpnxlJwoBh%2BKc5LO4cwNaBBAW2IB80muUT5G1vKQWX2LqxNR%2Bu0wj3%2Bh7Xkpt6JX%2FjO2GrENmmZUiYEzFRCJtSJd5WCkxHfSka9kXOwY%2BKcQ2lf%2FSHwoFjCk3p7xkv1XtH6vV8EvmaTegaqiClUVIWaS487uK7NLAWzhZyLBdwPKX3Mh9c%3D",
-    "clusterMedian": 800.0,
-    "spreadPct": 0.037,
-    "marginPct": -0.182,
-    "margin": -151.75,
+    "itemWebUrl": "https://www.ebay.com/itm/224740731432?_skw=sealed+new+xbox+series+x+console&hash=item3453976a28:g:6-4AAOSwmpZhuL2Z",
+    "clusterMedian": 770.0,
+    "spreadPct": 0.026,
+    "marginPct": -0.192,
+    "margin": -156.35,
     "signals": [],
-    "sellerOk": true
+    "sellerOk": false
   },
   {
     "id": "v1|185223422700|0",
@@ -287,6 +245,27 @@
     "spreadPct": 0.0,
     "marginPct": -0.213,
     "margin": -175.59,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|318930541690|0",
+    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black",
+    "category": "Consoles",
+    "price": 770.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 10473
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3Obxn9SbusyOkzyppUNnqBZJIVsmRyVDEt0Nn%2BjydiLPPA9MKeUFm6%2BuUbhcxj%2BRSnrEkOkbuwcnFFokbDrT1%2Ff5XnQwRmbIxfN7uoG72hy%2FGK%2BYc2Ypv3fJeKIcYX4Dy%2FmxYhCbtLtgoVDrmZAWrpMvnpzeULggla4t2zALmjZAKNdi362SbH3nMzxHR8rcMQ5QY%3D",
+    "clusterMedian": 770.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.213,
+    "margin": -177.85,
     "signals": [],
     "sellerOk": true
   },
@@ -403,27 +382,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|287655353513|0",
-    "title": "Milwaukee Tool 3693-24CX M18 18V 4 Cordless Tool Combo Kit w/ Battery New",
-    "category": "Power Tools",
-    "price": 471.5,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 1
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287655353513?_skw=sealed+new+milwaukee+tool+combo&hash=item42f9985ca9:g:5o4AAeSwF49q0xDu",
-    "clusterMedian": 474.03,
-    "spreadPct": 0.005,
-    "marginPct": -0.222,
-    "margin": -114.45,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
     "id": "v1|357554111428|0",
     "title": "Microsoft Xbox Series S 512GB White Console (Brand New & Factory Sealed)",
     "category": "Consoles",
@@ -466,27 +424,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|198174643388|0",
-    "title": "Milwaukee Tool 3693-24CX M18 18V 4 Cordless Tool Combo Kit w/ Battery NEW",
-    "category": "Power Tools",
-    "price": 476.57,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 807
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/198174643388?_skw=sealed+new+milwaukee+tool+combo&hash=item2e242114bc:g:nCIAAeSwZcJpsWIQ",
-    "clusterMedian": 474.03,
-    "spreadPct": -0.005,
-    "marginPct": -0.23,
-    "margin": -119.9,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|165384653323|0",
     "title": "Apple AirPods Pro NEW IN BOX SEALED",
     "category": "Apple Accessories",
@@ -506,27 +443,6 @@
     "margin": -47.56,
     "signals": [],
     "sellerOk": false
-  },
-  {
-    "id": "v1|388153558480|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black",
-    "category": "Consoles",
-    "price": 829.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 134
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/388153558480?_skw=sealed+new+xbox+series+x+console&hash=item5a5fc145d0:g:m7oAAOSwF3Fn5Oe8&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kvp%2F7GXh%2BD5RNQ9QQpRT9ny68ZK9HNn7tkmg9Vfmy3scy708QKZ6P3lRi8IkEUGvNW9HgiYSrYhPWevAIz%2FA42qJ%2Bb6Wrdh5%2BOV%2F6UAe%2BAjG%2BjNhbQ97y0GavMZH0HQJL3v7cXPJMVyR7awkq1TcyH%2FxFPa1pYC9qJSX2iWR1wtUXjet4IVV1quDcL5oRZpzG6IqlJCF139ijv3Foy%2BebaiPGm4lhin7RzuunKqi9cGcsgUkFm2PDQTp7sb%2B6nMwCqjlaqjD4hc7VTzBKlB3%2Bt4Jl2YW5YEtkdEJ7tfsm77R97ntpm2DKFgh2OhHW99LI%3D",
-    "clusterMedian": 800.0,
-    "spreadPct": -0.037,
-    "marginPct": -0.24,
-    "margin": -216.24,
-    "signals": [],
-    "sellerOk": true
   },
   {
     "id": "v1|306976873724|0",
@@ -569,27 +485,6 @@
     "spreadPct": 0.007,
     "marginPct": -0.244,
     "margin": -76.68,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|287657734523|0",
-    "title": "Pokemon TCG: 2024 S-CHINESE CS6B MARINE SHADOW: BANISH AERODACTYL V PSA 10",
-    "category": "Trading Cards",
-    "price": 138.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3864
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287657734523?_skw=PSA+10+graded+pokemon+card&hash=item42f9bcb17b:g:JvYAAeSwrjFq1a6c",
-    "clusterMedian": 148.99,
-    "spreadPct": 0.067,
-    "marginPct": -0.253,
-    "margin": -39.79,
     "signals": [],
     "sellerOk": true
   },
@@ -701,27 +596,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|147606517496|0",
-    "title": "Milwaukee 2697-26XC M18 6-Tool Combo Kit",
-    "category": "Power Tools",
-    "price": 580.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 9
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/147606517496?_skw=sealed+new+milwaukee+tool+combo&hash=item225e08b6f8:g:X~4AAeSwNr5quxjI",
-    "clusterMedian": 540.0,
-    "spreadPct": -0.074,
-    "marginPct": -0.275,
-    "margin": -173.7,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
     "id": "v1|147635820177|0",
     "title": "Apple AirPods Pro 3 BRAND NEW SEALED AUTHENTIC",
     "category": "Apple Accessories",
@@ -829,27 +703,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|178338774560|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black - **BRAND NEW - SEALED**",
-    "category": "Consoles",
-    "price": 888.88,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 83.3,
-      "feedbackCount": 108
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/178338774560?_skw=sealed+new+xbox+series+x+console&hash=item2985d1be20:g:8uMAAOSwcXxkghAF",
-    "clusterMedian": 800.0,
-    "spreadPct": -0.111,
-    "marginPct": -0.29,
-    "margin": -279.55,
-    "signals": [],
-    "sellerOk": false
-  },
-  {
     "id": "v1|128129741507|0",
     "title": "Milwaukee M12 Cordless Lithium-ION 5-Tool Combo Kit 2498-25",
     "category": "Power Tools",
@@ -862,7 +715,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 246
     },
-    "itemWebUrl": "https://www.ebay.com/itm/128129741507?_skw=sealed+new+milwaukee+tool+combo&hash=item1dd520b2c3:g:aWUAAeSwNLtqzDrO&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kuj06u9Z72mHemnTYECBXtyEu3dFUEU1PLV1LYLPyjLyyhSCcJOpfEi8guY2wuUW5ihXBWmPVxJYVzoU%2FXYkH%2FqdcPLPc%2Buf5t9gVYnR7GJtflSjFoxdGgSdtIprcqj%2FKjc8l5DagYEi5DOFlAmm4gw%2FVIV3B6kdQLwDweONogkHuZooF%2Fi3mQabMfhnwRLG070EF9LDjR99OdxCBxxWZT9ZmE54mkGlB1CbmCUhXorPkKirjFRqv9W3cSfY8tbCssq%2BRdoipaSWV1c%2FdmtQ5RZ539XPj0YaxhtrK20W4Uh1jRgPmGYlC9iaGY1RBe8AE%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/128129741507?_skw=sealed+new+milwaukee+tool+combo&hash=item1dd520b2c3:g:aWUAAeSwNLtqzDrO&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kuj06u9Z72mHemnTYECBXtyEu3dFUEU1PLV1LYLPyjLyyhSCcJOpfEi8guY2wuUW5ihXBWmPVxJYVzoU%2FXYkH%2FqdcPLPc%2Buf5t9gVYnR7GJtflSjFoxdGgSdtIprcqj%2FKVnxbmouUjFQphhg4TC6j8OZCp92sD6BRuv%2B19RY6iK%2FrPkqJXys3jiZR%2FAEGs7glDwyOfcr6r2N0E%2BwUAMHHnZ9IPnMcZvi2qIHc8KI%2Fh3t4ZhrbuaJ3vYtWg0lqiPZowApEDzdzsJCqZOQUY4YiVCU6%2F8RXJ7ZtH0VxcLPiw%2FqJ4s4ibYV9IRcWtCKn%2BD5Y%3D",
     "clusterMedian": 450.0,
     "spreadPct": -0.111,
     "marginPct": -0.304,
@@ -917,6 +770,27 @@
     "sellerOk": false
   },
   {
+    "id": "v1|178338774560|0",
+    "title": "Microsoft Xbox Series X 1TB Video Game Console - Black - **BRAND NEW - SEALED**",
+    "category": "Consoles",
+    "price": 888.88,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 83.3,
+      "feedbackCount": 108
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/178338774560?_skw=sealed+new+xbox+series+x+console&hash=item2985d1be20:g:8uMAAOSwcXxkghAF",
+    "clusterMedian": 770.0,
+    "spreadPct": -0.154,
+    "marginPct": -0.317,
+    "margin": -305.65,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
     "id": "v1|406993720428|0",
     "title": "DeWalt Brushless 1/2\u201d Drill Drive 20V Kit Batteries Bag DCD777C2 Sealed New ",
     "category": "Power Tools",
@@ -929,7 +803,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 329
     },
-    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcaiKj3T8fguArEIdlfiwY4ZrUSbZt2lOJv2C71fJMVp6Q%2F1lwf0hTJ65tiiMmPxZ9pghyNQV%2BjjptB%2FVe7FnDbFGXaY92tYKcrvUDDhrPhQRY85scPwlW9lpAW48Ctb4rJNsjpXErtnIoa%2F61jocAnEeWTk2%2FzlNU7JzqA5zDod07t%2Bg8TxbgETZQ2wIGeBbiYk%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcahYpiVAoh0WQFx%2BAo2J3t7xlC%2B14etmgEPxrU9tTX5%2B9kvepY2DwIFBYaZ%2BozExADtLAqnM693x4v9b7rsx7yQJ7Ub2oLzJx0LbsURvbacwrzy1ogpEOUbJ866gxaT29hZKN%2BMe0Bp%2BmB%2By%2FH7850BEnCOK0YW0odwbIGyhPDv4KwBv6YecdPM7JbelIIfGBVo%3D",
     "clusterMedian": 146.0,
     "spreadPct": -0.027,
     "marginPct": -0.32,
@@ -978,27 +852,6 @@
     "spreadPct": -0.112,
     "marginPct": -0.337,
     "margin": -92.8,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|287657735366|0",
-    "title": "Pokemon TCG: 2024 S-CHINESE CS6B MARINE SHADOW: BANISH AERODACTYL V PSA 10",
-    "category": "Trading Cards",
-    "price": 158.99,
-    "condition": "Graded",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 3864
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/287657735366?_skw=PSA+10+graded+pokemon+card&hash=item42f9bcb4c6:g:WQcAAeSwCTlq1a8K&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ln6DlKLamfoCWczZenxMUZATb0wfaiS3jPA5Nv4iMvyMOCOnYCCsTFP3ji1NqN4eOn0kuzWKU0MaBXCzCHvsclqkRydDPhss84T6Qdxsz4d2Yd8lR%2F4%2BbJf4u%2FXxkOmPGCjwyYNOm8uCw058xpxucUT9ZbsONQsoBOmA3xj8%2Bq4LDHcibu9kRP8O5hQf1zZfYBmCtygp50HkBRf4bVnloiFEPbTV7YaLtHVLS6qdcIeedB8p2MjnnqJj8sgCRw6%2F6h9%2BQ9bWNrBXbngjwoBSOt1tOQ5qjjnMJmmeszEL3pg36vrY6lw2YCAAifNAUzp6A%3D",
-    "clusterMedian": 148.99,
-    "spreadPct": -0.067,
-    "marginPct": -0.343,
-    "margin": -61.29,
     "signals": [],
     "sellerOk": true
   },
@@ -1115,29 +968,6 @@
     "sellerOk": false
   },
   {
-    "id": "v1|377480729534|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 48.97,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 98.0,
-      "feedbackCount": 1411
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/377480729534?_skw=sealed+new+dewalt+drill+kit&hash=item57e39ad3be:g:1AkAAeSwjkZqn7tO",
-    "clusterMedian": 54.99,
-    "spreadPct": 0.109,
-    "marginPct": -0.409,
-    "margin": -24.8,
-    "signals": [
-      "below_cluster"
-    ],
-    "sellerOk": true
-  },
-  {
     "id": "v1|304182919553|0",
     "title": "apple airpods pro new in box sealed",
     "category": "Apple Accessories",
@@ -1174,10 +1004,10 @@
       "feedbackCount": 9
     },
     "itemWebUrl": "https://www.ebay.com/itm/227553940140?_skw=sealed+new+dewalt+drill+kit&hash=item34fb4592ac:g:h-YAAeSwjQZqxCoi",
-    "clusterMedian": 54.99,
-    "spreadPct": 0.0,
-    "marginPct": -0.466,
-    "margin": -31.27,
+    "clusterMedian": 56.99,
+    "spreadPct": 0.035,
+    "marginPct": -0.44,
+    "margin": -29.53,
     "signals": [],
     "sellerOk": false
   },
@@ -1203,6 +1033,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|407136956302|0",
+    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
+    "category": "Power Tools",
+    "price": 58.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 93.6,
+      "feedbackCount": 109
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407136956302?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb40ef8e:g:xBMAAeSwd3dqe2CP",
+    "clusterMedian": 56.99,
+    "spreadPct": -0.035,
+    "marginPct": -0.474,
+    "margin": -33.83,
+    "signals": [],
+    "sellerOk": false
+  },
+  {
     "id": "v1|398440875730|0",
     "title": "KitchenAid Spiralizer Stand Mixer Attachment Peel Core Slice KSM1APC New Sealed ",
     "category": "Kitchen Appliances",
@@ -1224,27 +1075,6 @@
       "best_offer"
     ],
     "sellerOk": true
-  },
-  {
-    "id": "v1|407136956302|0",
-    "title": "DEWALT DCD805 20V - MAX Power Brushless Cordless Impact Drill Driver - Tool Only",
-    "category": "Power Tools",
-    "price": 58.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 93.6,
-      "feedbackCount": 109
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/407136956302?_skw=sealed+new+dewalt+drill+kit&hash=item5ecb40ef8e:g:xBMAAeSwd3dqe2CP",
-    "clusterMedian": 54.99,
-    "spreadPct": -0.073,
-    "marginPct": -0.498,
-    "margin": -35.57,
-    "signals": [],
-    "sellerOk": false
   },
   {
     "id": "v1|227457872585|0",
