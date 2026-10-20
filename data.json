@@ -83,34 +83,11 @@
       "feedbackPct": 98.4,
       "feedbackCount": 982
     },
-    "itemWebUrl": "https://www.ebay.com/itm/237040752927?_skw=sealed+new+xbox+series+x+console&hash=item3730bad91f:g:YH8AAeSwaGNqlXoI&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kkfOQi%2B%2BRAxBi%2F4AbYhtCjw2Tg%2BD6NWE6dgsP7VO5hO%2BgDZCpxan7ACGmF%2F99l%2BnuvmEscEAAwn4EhJ7g8eRicl2hKaeLzN4AQP%2FH57Q09yuBQw9XPHOVw0aCwNaTo6zYG5GHwA7oR%2FmvSw3C2uhZVll764O9mvQx2fG8K017Lh7VLg%2Btoog4YVHs1in5aaUsPiwyr2IAdLkpv63kJ%2BnNCqGk6rpHYrpyF5oH9NvJIAlMY5nn5%2Bj9%2BCHx%2FeFP%2F2j%2FpzD7UNb4cpsdGZuvXhHGJiPi0j%2FLy27Dda73BmePfXdif6tcVJouZeTq%2Bj5XdXD0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/237040752927?_skw=sealed+new+xbox+series+x+console&hash=item3730bad91f:g:YH8AAeSwaGNqlXoI&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kkfOQi%2B%2BRAxBi%2F4AbYhtCjw2Tg%2BD6NWE6dgsP7VO5hO%2BgDZCpxan7ACGmF%2F99l%2BnuvmEscEAAwn4EhJ7g8eRicl2hKaeLzN4AQP%2FH57Q09yuBQw9XPHOVw0aCwNaTo6zbeHfx0JQ8PRcXv8ytHyPoC7VW0qAFYw21YB2CNJJrqsfAPmOmQ8X0vMu7Lx14CZHceL5K6Up8Q6C2IZ4UlybrqJSZI2hPAc8MLq2isntN74CXi8JwHQW1tNuNIjg7P20wzfY7GLLH%2BNLyOeVujoKyMwOwM637077br4tyAT%2FnK60JvRSE4G7F5YAisZv3Ntxc%3D",
     "clusterMedian": 548.0,
     "spreadPct": 0.179,
     "marginPct": -0.055,
     "margin": -26.94,
-    "signals": [
-      "below_cluster"
-    ],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|206631709754|0",
-    "title": "Milwaukee M12 Cordless Lithium-ION 5-Tool Combo Kit 2498-25",
-    "category": "Power Tools",
-    "price": 400.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.5,
-      "feedbackCount": 321
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/206631709754?_skw=sealed+new+milwaukee+tool+combo&hash=item301c35ac3a:g:38UAAeSw69xq0nt~",
-    "clusterMedian": 450.0,
-    "spreadPct": 0.111,
-    "marginPct": -0.134,
-    "margin": -58.5,
     "signals": [
       "below_cluster"
     ],
@@ -136,6 +113,29 @@
     "margin": -39.04,
     "signals": [
       "below_cluster",
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|117261632869|0",
+    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
+    "category": "Power Tools",
+    "price": 419.95,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 1193
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/117261632869?_skw=sealed+new+milwaukee+tool+combo&hash=item1b4d568565:g:yAMAAeSwripqOEfQ",
+    "clusterMedian": 442.48,
+    "spreadPct": 0.051,
+    "marginPct": -0.188,
+    "margin": -86.49,
+    "signals": [
       "best_offer"
     ],
     "sellerOk": true
@@ -196,7 +196,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 329
+      "feedbackCount": 330
     },
     "itemWebUrl": "https://www.ebay.com/itm/206616857711?_skw=sealed+new+kitchenaid+stand+mixer&hash=item301b530c6f:g:N0QAAeSw3etpj2mJ",
     "clusterMedian": 243.49,
@@ -240,7 +240,7 @@
       "feedbackPct": 99.2,
       "feedbackCount": 2690
     },
-    "itemWebUrl": "https://www.ebay.com/itm/287646681307?_skw=sealed+new+xbox+series+x+console&hash=item42f91408db:g:QzgAAeSw8wZqztGR&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nkQQwoBa582tVAbWNxm9INPMywaZQj8TqAPlKIQgOUNXPn3rs3%2B9dukKCw%2FGl8bsNnjGxJaTzEYrh1FCOf%2BfQBoCTkJTiFOvk%2Fll4S9COpyJi5XJwYl83TJ222cqwDwvRrUK%2FqYZHF9U1elzmBFkdsHffbJMHsWYCdUpTMoC7ejKINQWKridi1AkfLSIEGPolzruNFPZhuhyC22skUuqp1Lp93H%2F5jaWYFt8JJYna4ZNDUG9dnyZz5NcFDlAppR%2BpMw14HlkwYdlmFrw%2BYYrjdH59tcKsnuAEuCpeGNvqhhpxLXl8AcHRLFlds60dEPFk%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/287646681307?_skw=sealed+new+xbox+series+x+console&hash=item42f91408db:g:QzgAAeSw8wZqztGR&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nkQQwoBa582tVAbWNxm9INPMywaZQj8TqAPlKIQgOUNXPn3rs3%2B9dukKCw%2FGl8bsNnjGxJaTzEYrh1FCOf%2BfQBoCTkJTiFOvk%2Fll4S9COpyJi5XJwYl83TJ222cqwDwvRKry%2BMpdLLNIXE5iFujacwmsXneWaB2KpwjZyjKT5B%2FBNiERpgOdXcbdGdkWi2lidSFP9pZMzYJ6%2BongR3YueeaXep68sQ%2BYgf%2BWJEpzq6mJImKF5ctULDTFDuUSLx8aWWeP922DLxSfByPluTCX%2FJ%2FFieGgK7U80oYEmcS%2FX3SeDokh5eNubPojfyze8CSm0%3D",
     "clusterMedian": 792.5,
     "spreadPct": 0.009,
     "marginPct": -0.205,
@@ -282,7 +282,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.6,
-      "feedbackCount": 70226
+      "feedbackCount": 70235
     },
     "itemWebUrl": "https://www.ebay.com/itm/298743672267?_skw=sealed+new+xbox+series+x+console&hash=item458e82adcb:g:v54AAeSwEzlqyKUC",
     "clusterMedian": 758.99,
@@ -303,7 +303,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.6,
-      "feedbackCount": 70226
+      "feedbackCount": 70235
     },
     "itemWebUrl": "https://www.ebay.com/itm/298743671934?_skw=sealed+new+xbox+series+x+console&hash=item458e82ac7e:g:2ZkAAeSwGa9qyLHI",
     "clusterMedian": 758.99,
@@ -413,9 +413,9 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 10477
+      "feedbackCount": 10478
     },
-    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3Obxk2SWAhuAxr7iJ788F33YsKlLc7G7U%2BwoE7u1USqmYoT92r295ZoYZgNLAwVGxd1TanJUo9mLmL%2BzeU3rxF03LpO2VxV%2FpvF3DVxjHeKjKYsG064TciGEb1%2Bl6NLX1sM6npOlP5mHNMU8kVSseMb8W%2Bi4JbXJXPCO2eSUXN5x8m3SVkZ%2FCIMjD%2BKjzgsaJsJL0%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/318930541690?_skw=sealed+new+xbox+series+x+console&hash=item4a41bddc7a:g:nt8AAeSwe1Bqurz4&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgY%2FNRlqvsJ4lSRjCp%2FehMMlUAj0oGPc%2FPOccpXN71%2BGyisRurATxCqsuADFNGBA6tmYSHvIrZN6M%2Bm27j2kQdcGlGX6Tej%2Bvg%2BHBY4eFP04oFoJtpNE8n0OcC6s3Obxm%2BZTFNydTW8gnHEl0zpK6UlEfXm55RLPXphUGK8aOvHejg7wK4678wVPa9A9R4QqnpPNbcGLJZXrbu4YZFjwRy8TagxvFAA4iCQGJv7JPxWgMs0P0g%2F8kKXWjloxg9zgKZoeYvwxw0bmv2SW4GdP%2BMamEqy%2Bcm5rbY8TYQYQDZ8OG4dccv5YwUTAsaWcv4a3w%3D",
     "clusterMedian": 762.5,
     "spreadPct": -0.01,
     "marginPct": -0.221,
@@ -564,7 +564,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 7526
+      "feedbackCount": 7527
     },
     "itemWebUrl": "https://www.ebay.com/itm/168683827329?_skw=sealed+new+dewalt+drill+kit&hash=item274656f081:g:vF4AAeSw5Q9qpZ72",
     "clusterMedian": 197.5,
@@ -575,6 +575,29 @@
       "best_offer"
     ],
     "sellerOk": true
+  },
+  {
+    "id": "v1|168720669417|0",
+    "title": "Milwaukee 2695-25CX M18 18V Cordless 5 Tool Combo Kit BRAND NEW",
+    "category": "Power Tools",
+    "price": 465.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 0.0,
+      "feedbackCount": 0
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/168720669417?_skw=sealed+new+milwaukee+tool+combo&hash=item2748891ae9:g:saMAAeSwmbxqttU8",
+    "clusterMedian": 442.48,
+    "spreadPct": -0.051,
+    "marginPct": -0.266,
+    "margin": -134.92,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
   },
   {
     "id": "v1|168408081498|0",
@@ -782,7 +805,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 2887
+      "feedbackCount": 2888
     },
     "itemWebUrl": "https://www.ebay.com/itm/197921287910?_skw=sealed+new+milwaukee+tool+combo&hash=item2e15072ee6:g:mN8AAeSwPGtpMMtf",
     "clusterMedian": 140.0,
@@ -803,7 +826,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.3,
-      "feedbackCount": 6255
+      "feedbackCount": 6259
     },
     "itemWebUrl": "https://www.ebay.com/itm/377511439297?_skw=sealed+new+dewalt+drill+kit&hash=item57e56f6bc1:g:fnUAAeSwMXRqsHly",
     "clusterMedian": 146.0,
@@ -853,29 +876,6 @@
     "marginPct": -0.293,
     "margin": -52.8,
     "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|128129741507|0",
-    "title": "Milwaukee M12 Cordless Lithium-ION 5-Tool Combo Kit 2498-25",
-    "category": "Power Tools",
-    "price": 500.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 246
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/128129741507?_skw=sealed+new+milwaukee+tool+combo&hash=item1dd520b2c3:g:aWUAAeSwNLtqzDrO&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kuj06u9Z72mHemnTYECBXtyEu3dFUEU1PLV1LYLPyjLyyhSCcJOpfEi8guY2wuUW5ihXBWmPVxJYVzoU%2FXYkH%2FqdcPLPc%2Buf5t9gVYnR7GJtflSjFoxdGgSdtIprcqj%2FLBFoSloPfcutQ6ttFFUW%2FfZXui7hMaRptWwWcwA21ifYAP65WOfhvGFOAVVNehNVmuDCIuP%2ByWBlxpbZxg3A4pqn%2BvQNeRvSfEwp48fGq6yak4d5e75IyWjFet046ppw0R7hTLy4dFTfSdVSdloBwNARYgPpmpPVHZpp45%2FOaw3cXDp0m%2Fx%2FwMizAFxX1QygM%3D",
-    "clusterMedian": 450.0,
-    "spreadPct": -0.111,
-    "marginPct": -0.304,
-    "margin": -166.0,
-    "signals": [
-      "best_offer"
-    ],
     "sellerOk": true
   },
   {
@@ -935,7 +935,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 329
     },
-    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcahBmlcjG%2FKKQR5q1P%2FhFlxlajF6xBzPJRDrQfvjnw8jUV2D9y6gqjaoCExZ4gvhQi6D6RrfRKklYbITAT8xuCA16oQj1swrd%2FmDyQV%2BxiVrJQdiQSGY98yBQHoXwN00b0C9nCbmyJpjuH0z6jVZkpdSVcnhVNhVzjaiIrGNF8sL4rDR%2FDZ%2BTuGxH76FZGdaYzs%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcagFdvIhdD7zrpFeFNNdJCF0%2BjJBznBDDouiV2VYAdG0F4TIxrXANH5kY2lQKM37DIA8Kn5JJovLdHBZNwVLPF%2BQ8NPyHx2hKzVJxnSSyHh5xK38gnwwaFm8SYT%2Bed32KaBCbDnHlujsHtheM0R%2FvPvrfDro5gdw9e8Ss4yedngsmkO4pL9vjAqMr%2FQj1ziJYlc%3D",
     "clusterMedian": 146.0,
     "spreadPct": -0.027,
     "marginPct": -0.32,
@@ -956,7 +956,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 9078
+      "feedbackCount": 9079
     },
     "itemWebUrl": "https://www.ebay.com/itm/257603007192?_skw=sealed+new+milwaukee+tool+combo&hash=item3bfa55f2d8:g:4R8AAeSwGS5qR-Tf",
     "clusterMedian": 140.0,
@@ -984,6 +984,27 @@
     "spreadPct": -0.062,
     "marginPct": -0.333,
     "margin": -63.5,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|237133849541|0",
+    "title": "4572 John Cena Shohei Ohtani 2026 Topps Now World Baseball Classic #WBCO PSA 10",
+    "category": "Trading Cards",
+    "price": 84.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 2994
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/237133849541?_skw=PSA+10+graded+baseball+card&hash=item37364763c5:g:IHEAAeSwTsdq10FL",
+    "clusterMedian": 89.99,
+    "spreadPct": 0.056,
+    "marginPct": -0.333,
+    "margin": -33.07,
     "signals": [],
     "sellerOk": true
   },
@@ -1063,7 +1084,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 2304
+      "feedbackCount": 2305
     },
     "itemWebUrl": "https://www.ebay.com/itm/960088919929?_skw=sealed+new+kitchenaid+stand+mixer&hash=itemdf89c24f79:g:q0sAAeSwz6xqNexq",
     "clusterMedian": 48.22,
@@ -1072,6 +1093,52 @@
     "margin": -17.22,
     "signals": [
       "below_cluster"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|237133847638|0",
+    "title": "4572 John Cena Shohei Ohtani 2026 Topps Now World Baseball Classic #WBCO PSA 10",
+    "category": "Trading Cards",
+    "price": 89.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 2994
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/237133847638?_skw=PSA+10+graded+baseball+card&hash=item3736475c56:g:FnwAAeSwu81q10D2",
+    "clusterMedian": 89.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.367,
+    "margin": -38.45,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|237133845411|0",
+    "title": "4572 John Cena Shohei Ohtani 2026 Topps Now World Baseball Classic #WBCO PSA 10",
+    "category": "Trading Cards",
+    "price": 89.99,
+    "condition": "Graded",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 2994
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/237133845411?_skw=PSA+10+graded+baseball+card&hash=item37364753a3:g:PYUAAeSw50Nq1z-I",
+    "clusterMedian": 89.99,
+    "spreadPct": 0.0,
+    "marginPct": -0.367,
+    "margin": -38.45,
+    "signals": [
+      "best_offer"
     ],
     "sellerOk": true
   },
@@ -1088,7 +1155,7 @@
       "feedbackPct": 96.0,
       "feedbackCount": 205
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168570092483?_skw=sealed+new+milwaukee+tool+combo&hash=item273f8f7bc3:g:hVoAAeSwUr5qaLwl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mZ5hqrdqbTfwFNINNb5fVNl3qDa9IWpa4CXTVm1efyIWgrNpncZYUnaBr7to%2Fm2oeTBFjpXHnEkchSFDee24PZ0vvkYwdGFLSo7MkANiZEgMZLZjogGEd1UbwhVG47w26vBUG92JBSONLSiCJZqsUrQ9wZ7LUKhiND3R2G%2BalPx49Pw4b4O4GJtYQmI5WRdCLTjfzk8%2BW7zGGeb0Ovex7kfSle6T%2FIXiIkPJx%2Buha0AIbsKdYM8RQyo24pkmNb84GqUHtEQw%2BaRNaVwWifDoUnfHCpSX8GijRiG0cgB9iwllbkOTGIvWsgga9Ok6XT9XM%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/168570092483?_skw=sealed+new+milwaukee+tool+combo&hash=item273f8f7bc3:g:hVoAAeSwUr5qaLwl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mZ5hqrdqbTfwFNINNb5fVNl3qDa9IWpa4CXTVm1efyIWgrNpncZYUnaBr7to%2Fm2oeTBFjpXHnEkchSFDee24PZ0vvkYwdGFLSo7MkANiZEgMZLZjogGEd1UbwhVG47w24gB3HLKuZM8LXOsrYo39ybvqvB1Ot9Ad9e0zjD%2F%2B1SgdsbwdduueUioa3eX0EkR7Bf6JbSzcV91YEAp6I0lAT01hx6nA1w1C%2B4RpNzcFGkKCr%2B6YK30lLDWtm9GWale7A3JsvjVl47XoW5hsAmf%2Be0TPXOoXQuLAyrHe80uCER%2B9aos3p%2FVTrtYsYDbUPSDCU%3D",
     "clusterMedian": 475.0,
     "spreadPct": -0.242,
     "marginPct": -0.375,
@@ -1151,7 +1218,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 9
+      "feedbackCount": 10
     },
     "itemWebUrl": "https://www.ebay.com/itm/227553940140?_skw=sealed+new+dewalt+drill+kit&hash=item34fb4592ac:g:h-YAAeSwjQZqxCoi",
     "clusterMedian": 57.99,
@@ -1235,7 +1302,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 413
+      "feedbackCount": 414
     },
     "itemWebUrl": "https://www.ebay.com/itm/398440875730?_skw=sealed+new+kitchenaid+stand+mixer&hash=item5cc4ed46d2:g:pJ8AAeSwLyRquqGR",
     "clusterMedian": 47.5,
@@ -1346,7 +1413,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 10928
+      "feedbackCount": 10929
     },
     "itemWebUrl": "https://www.ebay.com/itm/127962653598?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1dcb2b239e:g:RIQAAeSwBLNqTWL2",
     "clusterMedian": 40.0,
@@ -1390,7 +1457,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 1075
+      "feedbackCount": 1076
     },
     "itemWebUrl": "https://www.ebay.com/itm/298740990016?_skw=sealed+new+kitchenaid+stand+mixer&hash=item458e59c040:g:Kb8AAeSw6MhqxpBS",
     "clusterMedian": 29.0,
@@ -1489,45 +1556,45 @@
     "sellerOk": true
   },
   {
-    "id": "v1|336847004271|0",
-    "title": "2 Pack Sealing Ring 6QT for Instant Pot, Food-Grade Silicone Seal Rings Replacem",
+    "id": "v1|227564581918|0",
+    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
     "category": "Kitchen Appliances",
-    "price": 10.52,
+    "price": 12.16,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 36
+      "feedbackCount": 7
     },
-    "itemWebUrl": "https://www.ebay.com/itm/336847004271?_skw=sealed+new+instant+pot&hash=item4e6da5626f:g:2b8AAeSwe8tq0fVy",
-    "clusterMedian": 10.05,
-    "spreadPct": -0.046,
-    "marginPct": -1.168,
-    "margin": -22.56,
+    "itemWebUrl": "https://www.ebay.com/itm/227564581918?_skw=sealed+new+instant+pot&hash=item34fbe7f41e:g:SG4AAeSwkBlqzW4m",
+    "clusterMedian": 11.98,
+    "spreadPct": -0.015,
+    "marginPct": -1.075,
+    "margin": -22.65,
     "signals": [],
     "sellerOk": false
   },
   {
-    "id": "v1|336847336669|0",
-    "title": "2 Pack Sealing Ring 6QT for Instant Pot, Food-Grade Silicone Seal Rings Replacem",
+    "id": "v1|188120443544|0",
+    "title": "Sealing Ring Fits 3 Qt Instant Pot Mini- Replacement Silicone Gasket Seal Rings",
     "category": "Kitchen Appliances",
-    "price": 9.59,
+    "price": 11.81,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 13
+      "feedbackPct": 99.4,
+      "feedbackCount": 10036
     },
-    "itemWebUrl": "https://www.ebay.com/itm/336847336669?_skw=sealed+new+instant+pot&hash=item4e6daa74dd:g:7fwAAeSwU8hq0hVj",
-    "clusterMedian": 10.05,
-    "spreadPct": 0.046,
-    "marginPct": -1.178,
-    "margin": -21.56,
+    "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
+    "clusterMedian": 11.98,
+    "spreadPct": 0.015,
+    "marginPct": -1.076,
+    "margin": -22.27,
     "signals": [],
-    "sellerOk": false
+    "sellerOk": true
   }
 ]
