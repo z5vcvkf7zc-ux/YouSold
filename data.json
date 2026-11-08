@@ -35,7 +35,7 @@
       "feedbackPct": 0.0,
       "feedbackCount": 0
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168812917259?_skw=sealed+new+airpods+pro&hash=item274e08b20b:g:IRQAAeSweo5q3CHv&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mXAQQ7NHT6U%2BO4%2FXStPrUYpZLbuVdIQI%2FsGitr7OpqMbG6%2FRgXIzKu6gl0UHCEbvrPFSMyfZ0htDBE7gX2oszRMr0etQ0ljFJZ8OEW%2FjfqF%2FJgLgBEfXqitZgVq6p3qwmQz1VfDYW0wBOmetd0B9KxL3WoxQJoCG9vYfaK87gQaQYhTqf69x3VfUq%2F95BYh7FfsZI42YsvcfIJnjobsLOEj7xxY9Bki1xGGL9EvwgS3xcegV0Xp9M2wDHkGuleHTKpthFzgXQandARVKELhbXB%2FFPn7NqG%2F0xG8sG2YKE6TYTCaQ2oIQKXzR%2BEZmgaBBs%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/168812917259?_skw=sealed+new+airpods+pro&hash=item274e08b20b:g:IRQAAeSweo5q3CHv&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mXAQQ7NHT6U%2BO4%2FXStPrUYpZLbuVdIQI%2FsGitr7OpqMbG6%2FRgXIzKu6gl0UHCEbvrPFSMyfZ0htDBE7gX2oszRMr0etQ0ljFJZ8OEW%2FjfqF%2FJgLgBEfXqitZgVq6p3qwl416fLeIwBt3kkMw6Yf8Mmy8yG72e7hcrUyRlqD8c46tj5WC8i%2BH2fBcS4Oz3%2FrlOKZ5peXNbE6ODwuvZqveVRiYPzqsl2M2k8VMEUJIZjQ6comK5Wp5Ni0hOTAPkvcS6od%2BuWYFPeFK88P0cWK28%2BMAx%2FKnf8kzryd1dPnNgM1b%2FBaeNvlloPsqqIq4ves3w%3D",
     "clusterMedian": 149.59,
     "spreadPct": 0.332,
     "marginPct": 0.023,
@@ -162,6 +162,29 @@
     "sellerOk": false
   },
   {
+    "id": "v1|257842405617|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
+    "category": "Power Tools",
+    "price": 240.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 645
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/257842405617?_skw=sealed+new+milwaukee+tool+combo&hash=item3c089ae0f1:g:obMAAeSwaTdq8NCn",
+    "clusterMedian": 265.0,
+    "spreadPct": 0.094,
+    "marginPct": -0.178,
+    "margin": -47.45,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
     "id": "v1|185223422700|0",
     "title": "apple airpods pro new in box sealed",
     "category": "Apple Accessories",
@@ -207,29 +230,6 @@
       "best_offer"
     ],
     "sellerOk": true
-  },
-  {
-    "id": "v1|800892977340|0",
-    "title": "Milwaukee 2691-22 M18 18V Li-Ion 2-Tool Combo Kit",
-    "category": "Power Tools",
-    "price": 155.65,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 1
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/800892977340?_skw=sealed+new+milwaukee+tool+combo&hash=itemba78f100bc:g:mmIAAeSw-~1q6orN",
-    "clusterMedian": 172.82,
-    "spreadPct": 0.099,
-    "marginPct": -0.211,
-    "margin": -36.97,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
   },
   {
     "id": "v1|287709994200|0",
@@ -319,6 +319,29 @@
     "spreadPct": 0.0,
     "marginPct": -0.222,
     "margin": -132.34,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|178523247374|0",
+    "title": "DEWALT DCK241C2 20V Compact Drill & Impact Driver Kit + bits + carry bag",
+    "category": "Power Tools",
+    "price": 149.99,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 136
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/178523247374?_skw=sealed+new+dewalt+drill+kit&hash=item2990d0930e:g:6MYAAeSwRyJqtHxW",
+    "clusterMedian": 165.0,
+    "spreadPct": 0.091,
+    "marginPct": -0.223,
+    "margin": -37.69,
     "signals": [
       "best_offer"
     ],
@@ -486,7 +509,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 8074
+      "feedbackCount": 8076
     },
     "itemWebUrl": "https://www.ebay.com/itm/358730146132?_skw=sealed+new+dewalt+drill+kit&hash=item5385fba154:g:io0AAeSww81qQJao",
     "clusterMedian": 273.5,
@@ -799,6 +822,27 @@
     "sellerOk": false
   },
   {
+    "id": "v1|960160188963|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
+    "category": "Power Tools",
+    "price": 290.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 80
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/960160188963?_skw=sealed+new+milwaukee+tool+combo&hash=itemdf8e01ca23:g:7K0AAeSwrAlq7UgU",
+    "clusterMedian": 265.0,
+    "spreadPct": -0.094,
+    "marginPct": -0.316,
+    "margin": -101.2,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|406993720428|0",
     "title": "DeWalt Brushless 1/2\u201d Drill Drive 20V Kit Batteries Bag DCD777C2 Sealed New ",
     "category": "Power Tools",
@@ -811,7 +855,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 332
     },
-    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcah9rW8BGC0hYLuaA%2Fvi5Ua6jYKUaRbC0kF0Qk3GGoym1ndYLUE%2BHrZfUCj%2BNSiLwkFTih5HEs44%2BKqtT2K19VqaNLjwCQwOWNQTopHWco9UsIXEIGD7WLT25xb8xKouShwGv7NHu8lR7R1WUzBeWWDT1TR8zCMDjRI6PH3ymwZIWQ5Z13xMG%2B4TNtE%2BUFUkch4%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcah6pDur%2B6E6%2B%2Beqch7krfVWP6E%2FWxxD28x0pxvET1dc0kxH9A%2Fvwk8SmZqd2zJ41Walt70cCWXP55t6qBAs%2F4ppnH08n4Lb0n%2FZf9CWrJv2ftOcJCyqwrH70R0S%2FMV8l0jTUKr%2FprqlrPzq2WCLIu3CwaHM4FveFlLX%2FCrr6H2HD9IKT0dnMXeW3ECxnxpDRQQ%3D",
     "clusterMedian": 146.0,
     "spreadPct": -0.027,
     "marginPct": -0.32,
@@ -864,25 +908,27 @@
     "sellerOk": true
   },
   {
-    "id": "v1|880089702586|0",
-    "title": "Milwaukee 2691-22 M18 18V Li-Ion 2-Tool Combo Kit",
+    "id": "v1|376763659658|0",
+    "title": "DEWALT DCK241C2 20V Compact Drill & Impact Driver Kit + bits + carry bag",
     "category": "Power Tools",
-    "price": 189.99,
+    "price": 180.0,
     "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": false,
+    "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 12210
+      "feedbackPct": 100.0,
+      "feedbackCount": 5
     },
-    "itemWebUrl": "https://www.ebay.com/itm/880089702586?_skw=sealed+new+milwaukee+tool+combo&hash=itemcce96f20ba:g:DSkAAeSwNIFq7gxe",
-    "clusterMedian": 172.82,
-    "spreadPct": -0.099,
-    "marginPct": -0.348,
-    "margin": -73.89,
-    "signals": [],
-    "sellerOk": true
+    "itemWebUrl": "https://www.ebay.com/itm/376763659658?_skw=sealed+new+dewalt+drill+kit&hash=item57b8dd358a:g:YkoAAeSwJ1lpNxjg&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mQEYkPDQBfenVmS8jOrdpHjJd%2F%2BdVlg1JDJwIbzpcbBL7mBveBPnO3sn6SgZ75MWPe%2BYQHTVSirdtfGp2uU%2B5byfHLkTMQeJkIyUDhkHRi3YDTTvmT411ie3NGlY8qg%2BhA2TJQNHcgRLY4v8Cp1SpM%2BL%2B6ue5vAkWbH1iCyz%2BA8f%2F13P1jcfScRHO4PjpcFWm5oixtLdfa5QtyA8FYCnnBsvOEo%2FKn0dfttsh7bf4vWzFYMgQS32DEXioOgogekNjEQfmmcjZCH2YZ7AQBbAElHN7OqKYWKacPrhLEqP7tQ8dkm%2Fe31Pjrbvq%2Bbkf0lUM%3D",
+    "clusterMedian": 165.0,
+    "spreadPct": -0.091,
+    "marginPct": -0.347,
+    "margin": -69.95,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
   },
   {
     "id": "v1|188858442465|0",
@@ -941,7 +987,7 @@
       "feedbackPct": 99.8,
       "feedbackCount": 9801
     },
-    "itemWebUrl": "https://www.ebay.com/itm/960162957973?_skw=sealed+new+dewalt+drill+kit&hash=itemdf8e2c0a95:g:xIAAAeSwJc9q7hS0&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k0ykpwlXUMb2%2F4V1v8LMqhsCd2Bo0CIDlPoDjpl%2FmMAhubiWjVhn7zh0R6k0VHwnblYVcmEbHsEtx92GPzToKPxXJ55ZOzMPb%2BE%2BJ%2FyPBV0td7aKAjkiyK3pm3Lt%2FD5%2BQdc0xlxxM6kbebjN4cA%2FwDqPG7vty9y%2FcZIFJFBE%2Ff%2BpEjPkuvhHNAtxWjT0IMDwPbmPwcKgYgpNg5UeAj2y5VfClhBLG7vMPF%2BR7HrzEvX6ltsHFE%2FsNP1eZMbx6zqLiT1PcVW32134OG4tlufSFAjMU2M8zqdz%2FwHeC%2FCH6rBNl%2BALCMCa5oAy1VQmyYOIs%3D",
+    "itemWebUrl": "https://www.ebay.com/itm/960162957973?_skw=sealed+new+dewalt+drill+kit&hash=itemdf8e2c0a95:g:xIAAAeSwJc9q7hS0",
     "clusterMedian": 95.0,
     "spreadPct": 0.0,
     "marginPct": -0.358,
@@ -1251,7 +1297,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 1874
+      "feedbackCount": 1875
     },
     "itemWebUrl": "https://www.ebay.com/itm/840082328478?_skw=sealed+new+kitchenaid+stand+mixer&hash=itemc398cf0b9e:g:4y8AAeSwxPZq54Sf",
     "clusterMedian": 34.99,
@@ -1274,7 +1320,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.4,
-      "feedbackCount": 10836
+      "feedbackCount": 10838
     },
     "itemWebUrl": "https://www.ebay.com/itm/188120443544?_skw=sealed+new+instant+pot&hash=item2bccda2a98:g:49kAAeSwePBpqGFF",
     "clusterMedian": 11.68,
