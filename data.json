@@ -10,7 +10,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 125251
+      "feedbackCount": 125270
     },
     "itemWebUrl": "https://www.ebay.com/itm/276576306646?_skw=sealed+new+milwaukee+tool+combo&hash=item40653b85d6:g:lLAAAeSw-bFq7099",
     "clusterMedian": 780.5,
@@ -127,7 +127,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 6676
+      "feedbackCount": 6679
     },
     "itemWebUrl": "https://www.ebay.com/itm/407274192335?_skw=sealed+new+milwaukee+tool+combo&hash=item5ed36efdcf:g:j0gAAeSwvOBqtAzr",
     "clusterMedian": 449.5,
@@ -182,69 +182,26 @@
     "sellerOk": false
   },
   {
-    "id": "v1|820248890910|0",
-    "title": "Milwaukee M18 Compact Brushless 2-Tool Combo Kit 3692-22CT",
+    "id": "v1|168835679409|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
     "category": "Power Tools",
-    "price": 220.0,
+    "price": 280.0,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 94.1,
-      "feedbackCount": 45
+      "feedbackPct": 100.0,
+      "feedbackCount": 207
     },
-    "itemWebUrl": "https://www.ebay.com/itm/820248890910?_skw=sealed+new+milwaukee+tool+combo&hash=itembefaa4ce1e:g:1RYAAeSwJlJq06HU&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nIY0fek7gISi4kYUlAGw8F1WZcHd2OQv4Rd%2Fv1N3qwLi4Oa46Z5BvEGEgF1dncF4vvO8aVk0XCdZlfnW3aI5ehcohbSwCSQmw2vxAwLs8H8o6eHRh5oawQiXGFPCeAyGv42gBAEJ1WMONU65EgbqtnHCqhU3qaESu39zCZt4GzBtLnGxlTEDK%2BQXw8%2F23innjaYzwwjpjchf6RNxXl1fn8u6wsYLUml9isbJESL9cCyYkii%2B709fSSgJ%2FTHoI94%2BI%2FF6jZCRzbVfapq27fVa1fpClsZkyD6sM3GwXaKhynxGf6MR6BwAWiuG6OCL4t%2F04%3D",
-    "clusterMedian": 247.5,
-    "spreadPct": 0.111,
-    "marginPct": -0.168,
-    "margin": -41.18,
+    "itemWebUrl": "https://www.ebay.com/itm/168835679409?_skw=sealed+new+milwaukee+tool+combo&hash=item274f6404b1:g:eFcAAeSwFidq6ir0",
+    "clusterMedian": 300.0,
+    "spreadPct": 0.067,
+    "marginPct": -0.194,
+    "margin": -60.0,
     "signals": [
-      "below_cluster",
       "best_offer"
     ],
-    "sellerOk": false
-  },
-  {
-    "id": "v1|336867277704|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game Console Digital Edition - White (SEALED)",
-    "category": "Consoles",
-    "price": 699.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.7,
-      "feedbackCount": 611
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/336867277704?_skw=sealed+new+xbox+series+x+console&hash=item4e6edabb88:g:Mw0AAeSwdz1q4e-d",
-    "clusterMedian": 734.5,
-    "spreadPct": 0.048,
-    "marginPct": -0.174,
-    "margin": -132.41,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|168850708156|0",
-    "title": "XBOX X X25 SPECIAL EDITION 1TB CONSOLE & HALO CAMPAIGN EVOLVED SEALED PRESALE",
-    "category": "Consoles",
-    "price": 1699.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.6,
-      "feedbackCount": 1248
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/168850708156?_skw=sealed+new+xbox+series+x+console&hash=item27504956bc:g:NjQAAeSw83Rq8gYX",
-    "clusterMedian": 1724.5,
-    "spreadPct": 0.015,
-    "marginPct": -0.189,
-    "margin": -346.11,
-    "signals": [],
     "sellerOk": true
   },
   {
@@ -261,10 +218,10 @@
       "feedbackCount": 43
     },
     "itemWebUrl": "https://www.ebay.com/itm/185223422700?_skw=sealed+new+airpods+pro&hash=item2b202d22ec:g:zt8AAOSw-W5hvAo0",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.105,
-    "marginPct": -0.196,
-    "margin": -37.45,
+    "clusterMedian": 189.5,
+    "spreadPct": 0.103,
+    "marginPct": -0.199,
+    "margin": -37.88,
     "signals": [
       "below_cluster",
       "best_offer"
@@ -272,26 +229,45 @@
     "sellerOk": false
   },
   {
-    "id": "v1|168835679409|0",
-    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
-    "category": "Power Tools",
-    "price": 280.0,
+    "id": "v1|227541663688|0",
+    "title": "XBOX X X25 SPECIAL EDITION 1TB CONSOLE & HALO CAMPAIGN EVOLVED SEALED PRESALE",
+    "category": "Consoles",
+    "price": 1699.99,
     "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": true,
+    "bestOffer": false,
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 207
+      "feedbackCount": 586
     },
-    "itemWebUrl": "https://www.ebay.com/itm/168835679409?_skw=sealed+new+milwaukee+tool+combo&hash=item274f6404b1:g:eFcAAeSwFidq6ir0",
-    "clusterMedian": 295.0,
-    "spreadPct": 0.051,
-    "marginPct": -0.208,
-    "margin": -64.35,
-    "signals": [
-      "best_offer"
-    ],
+    "itemWebUrl": "https://www.ebay.com/itm/227541663688?_skw=sealed+new+xbox+series+x+console&hash=item34fa8a3fc8:g:Ed4AAeSwt1ZquTE7",
+    "clusterMedian": 1699.49,
+    "spreadPct": -0.0,
+    "marginPct": -0.201,
+    "margin": -368.93,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|168850708156|0",
+    "title": "XBOX X X25 SPECIAL EDITION 1TB CONSOLE & HALO CAMPAIGN EVOLVED SEALED PRESALE",
+    "category": "Consoles",
+    "price": 1699.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.6,
+      "feedbackCount": 1249
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/168850708156?_skw=sealed+new+xbox+series+x+console&hash=item27504956bc:g:NjQAAeSw83Rq8gYX",
+    "clusterMedian": 1699.49,
+    "spreadPct": 0.0,
+    "marginPct": -0.201,
+    "margin": -367.86,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -305,7 +281,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 98.0,
-      "feedbackCount": 1001
+      "feedbackCount": 1003
     },
     "itemWebUrl": "https://www.ebay.com/itm/257788188883?_skw=sealed+new+sony+playstation+5+slim+console&hash=item3c055f98d3:g:k4sAAOSwi6RmmAZA",
     "clusterMedian": 701.24,
@@ -341,25 +317,27 @@
     "sellerOk": true
   },
   {
-    "id": "v1|227541663688|0",
-    "title": "XBOX X X25 SPECIAL EDITION 1TB CONSOLE & HALO CAMPAIGN EVOLVED SEALED PRESALE",
-    "category": "Consoles",
-    "price": 1750.0,
+    "id": "v1|820248890910|0",
+    "title": "Milwaukee M18 Compact Brushless 2-Tool Combo Kit 3692-22CT",
+    "category": "Power Tools",
+    "price": 220.0,
     "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": false,
+    "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 585
+      "feedbackPct": 94.2,
+      "feedbackCount": 46
     },
-    "itemWebUrl": "https://www.ebay.com/itm/227541663688?_skw=sealed+new+xbox+series+x+console&hash=item34fa8a3fc8:g:Ed4AAeSwt1ZquTE7",
-    "clusterMedian": 1724.5,
-    "spreadPct": -0.015,
-    "marginPct": -0.212,
-    "margin": -400.93,
-    "signals": [],
-    "sellerOk": true
+    "itemWebUrl": "https://www.ebay.com/itm/820248890910?_skw=sealed+new+milwaukee+tool+combo&hash=itembefaa4ce1e:g:1RYAAeSwJlJq06HU&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nIY0fek7gISi4kYUlAGw8F1WZcHd2OQv4Rd%2Fv1N3qwLi4Oa46Z5BvEGEgF1dncF4vvO8aVk0XCdZlfnW3aI5ehcohbSwCSQmw2vxAwLs8H8o6eHRh5oawQiXGFPCeAyGun7s2qpPzu5fAFFoVkWxJaQrsKyNGdGA%2BHlite7RukmeeIwLTgoaEQ5V0gMFt%2FX8Q%2Fq8t8tM8TfMXmrktn4A3%2F5xmF0awc8tpdfJPuPbluJcQI7QDLyIW0gyOXyJSzqyLkP8yFVqLvf7euxX3SBGEhGu4sS0504ji5UsbYB4WmpOHzdrvAhWEqR8CUIWu4V0g%3D",
+    "clusterMedian": 235.0,
+    "spreadPct": 0.064,
+    "marginPct": -0.213,
+    "margin": -52.05,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": false
   },
   {
     "id": "v1|277608073100|0",
@@ -396,7 +374,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 98.0,
-      "feedbackCount": 1001
+      "feedbackCount": 1003
     },
     "itemWebUrl": "https://www.ebay.com/itm/256575479274?_skw=sealed+new+sony+playstation+5+slim+console&hash=item3bbd171dea:g:-l8AAOSwKpVmmAWJ",
     "clusterMedian": 701.24,
@@ -406,6 +384,27 @@
     "signals": [
       "best_offer"
     ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|960160188963|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
+    "category": "Power Tools",
+    "price": 290.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 80
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/960160188963?_skw=sealed+new+milwaukee+tool+combo&hash=itemdf8e01ca23:g:7K0AAeSwrAlq7UgU",
+    "clusterMedian": 300.0,
+    "spreadPct": 0.033,
+    "marginPct": -0.221,
+    "margin": -70.75,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -465,7 +464,7 @@
       "feedbackPct": 100.0,
       "feedbackCount": 39
     },
-    "itemWebUrl": "https://www.ebay.com/itm/198784399114?_skw=sealed+new+airpods+pro&hash=item2e4879370a:g:~JYAAeSwWSVq8n0s",
+    "itemWebUrl": "https://www.ebay.com/itm/198784399114?_skw=sealed+new+airpods+pro&hash=item2e4879370a:g:Tj4AAeSwf9Nq9IiG",
     "clusterMedian": 182.5,
     "spreadPct": 0.068,
     "marginPct": -0.231,
@@ -489,33 +488,12 @@
       "feedbackCount": 10
     },
     "itemWebUrl": "https://www.ebay.com/itm/165384653323?_skw=sealed+new+airpods+pro&hash=item2681b18a0b:g:hdoAAOSwg0hiL9r~",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.058,
-    "marginPct": -0.235,
-    "margin": -47.12,
+    "clusterMedian": 189.5,
+    "spreadPct": 0.055,
+    "marginPct": -0.237,
+    "margin": -47.56,
     "signals": [],
     "sellerOk": false
-  },
-  {
-    "id": "v1|960160188963|0",
-    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
-    "category": "Power Tools",
-    "price": 290.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 80
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/960160188963?_skw=sealed+new+milwaukee+tool+combo&hash=itemdf8e01ca23:g:7K0AAeSwrAlq7UgU",
-    "clusterMedian": 295.0,
-    "spreadPct": 0.017,
-    "marginPct": -0.235,
-    "margin": -75.1,
-    "signals": [],
-    "sellerOk": true
   },
   {
     "id": "v1|398263660178|0",
@@ -560,44 +538,67 @@
     "sellerOk": true
   },
   {
-    "id": "v1|407340497852|0",
+    "id": "v1|358730146132|0",
     "title": "DEWALT NEW GENUINE 20V XR 3-Speed Hammer Drill & Impact Combo Kit (DCK2101QQ2)",
     "category": "Power Tools",
-    "price": 270.0,
+    "price": 275.99,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": false,
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 3410
+      "feedbackCount": 8126
     },
-    "itemWebUrl": "https://www.ebay.com/itm/407340497852?_skw=sealed+new+dewalt+drill+kit&hash=item5ed762bbbc:g:6-cAAeSw9LJq65yC&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mEq5WXa5vJWXF4SkHFWaFIDuukBNSMZ4hJ27oCEoUZwC9G9MOf1i51C6HShBxXWZg0ogC6Py3Zt6IPynDZh5mQwMbuyp5NJ305qNKaFgMIVVhUWfaKBP424EUDIZtd7uCVbJXTkTYqA2%2BmaD2EhpBMk7dZp2YuirsEZUPlj9%2Bu0nBjPNaX2LQKESFpYjIkDhPY1dzy3S7zrvCz5fjWr872ApNnVUCi5sPkHH%2BJOj8gg7wUVH9ZeuNpsgM4asvw8hVSXSIpHT2rzUPx2CnOv4%2FEht5eK2WiKJ9QIz0fMbX8yax67P1NMig5a0pymkMEhAc%3D",
-    "clusterMedian": 273.0,
-    "spreadPct": 0.011,
-    "marginPct": -0.244,
-    "margin": -72.74,
+    "itemWebUrl": "https://www.ebay.com/itm/358730146132?_skw=sealed+new+dewalt+drill+kit&hash=item5385fba154:g:io0AAeSww81qQJao",
+    "clusterMedian": 278.0,
+    "spreadPct": 0.007,
+    "marginPct": -0.246,
+    "margin": -74.83,
     "signals": [],
     "sellerOk": true
   },
   {
-    "id": "v1|395795832357|0",
-    "title": "Microsoft Xbox Series X 1TB Video Game White Console  - Digital Edition",
-    "category": "Consoles",
-    "price": 769.99,
+    "id": "v1|800898818499|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
+    "category": "Power Tools",
+    "price": 300.0,
     "condition": "New",
     "listingType": "Buy It Now",
     "bestOffer": true,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.7,
-      "feedbackCount": 1393
+      "feedbackPct": 100.0,
+      "feedbackCount": 57
     },
-    "itemWebUrl": "https://www.ebay.com/itm/395795832357?_skw=sealed+new+xbox+series+x+console&hash=item5c27451e25:g:6ucAAOSwjB5nDIQC&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nRc3FgeUvhvM%2FRe164KRuy4VaXVSdi6sJfHIxd0oUhUdfCJZ3qjeLSNhLF83DJooAWcB8b79LGu6Vd8Tz%2B%2BrP4r%2FVfw0AV0eXou7cEIx6tzBRF6Yo9WlB2kWjdmnZEXgbGDHmQhbUvcbfjbK8sO3t--IlGmdq10CdxRaesrjV2%2FXm0FXQsNbv5dPW%2B06szvhxWCKjVYZh4XntafDJOa07QWcp6CiYuGucktJp97tcPUlTc4k0sh3c1ei5hSxObtaZ1hUfgemDD2E%2FSIBXKAlB6BQp7GffFiZymGRND9uTlFilMCMr15wBingIk2pzCxbg%3D",
-    "clusterMedian": 734.5,
-    "spreadPct": -0.048,
-    "marginPct": -0.25,
-    "margin": -208.73,
+    "itemWebUrl": "https://www.ebay.com/itm/800898818499?_skw=sealed+new+milwaukee+tool+combo&hash=itemba794a21c3:g:p7kAAeSwUnJq8rHj",
+    "clusterMedian": 300.0,
+    "spreadPct": 0.0,
+    "marginPct": -0.247,
+    "margin": -81.5,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|407356222692|0",
+    "title": "DEWALT NEW GENUINE 20V XR 3-Speed Hammer Drill & Impact Combo Kit (DCK2101QQ2)",
+    "category": "Power Tools",
+    "price": 280.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.8,
+      "feedbackCount": 3413
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/407356222692?_skw=sealed+new+dewalt+drill+kit&hash=item5ed852ace4:g:6-cAAeSw9LJq65yC&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kfgSIlqWAL5XlUtwvHn0bOKdP%2FbyvCE6F23IsUtA6vvR%2BTz3XNQUXYOzKxf5DXQThecUs998%2FiQ3TiiyQr9hLwg2Fu1cHC5RBRiTiO58oK%2BFgkOMSGxtyoWXikeb2jMPAkgYduQrvcWsM%2FjpKLAMguDuLv3VaKEO8vL8rxQMZCoLOu8lMECbXvyF1Y605bjDqFbqsE0qNa2JhtMxPT%2BWIGJ0peirniSMXTchhCVPJg3JnpLYY%2FUrzrNR73gvthQeqfa72Aj%2B4up%2B3dN%2F%2BaSSPQ4RHOjjcNuaZ%2BW4hYGwi44wiww4vciK21x2mQgCn8%2B%2Bg%3D",
+    "clusterMedian": 278.0,
+    "spreadPct": -0.007,
+    "marginPct": -0.256,
+    "margin": -79.14,
     "signals": [
       "best_offer"
     ],
@@ -625,50 +626,6 @@
       "best_offer"
     ],
     "sellerOk": false
-  },
-  {
-    "id": "v1|358730146132|0",
-    "title": "DEWALT NEW GENUINE 20V XR 3-Speed Hammer Drill & Impact Combo Kit (DCK2101QQ2)",
-    "category": "Power Tools",
-    "price": 275.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.8,
-      "feedbackCount": 8119
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/358730146132?_skw=sealed+new+dewalt+drill+kit&hash=item5385fba154:g:io0AAeSww81qQJao",
-    "clusterMedian": 273.0,
-    "spreadPct": -0.011,
-    "marginPct": -0.26,
-    "margin": -79.18,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|800898818499|0",
-    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
-    "category": "Power Tools",
-    "price": 300.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 57
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/800898818499?_skw=sealed+new+milwaukee+tool+combo&hash=itemba794a21c3:g:p7kAAeSwUnJq8rHj",
-    "clusterMedian": 295.0,
-    "spreadPct": -0.017,
-    "marginPct": -0.26,
-    "margin": -85.85,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
   },
   {
     "id": "v1|168408081498|0",
@@ -734,29 +691,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|185115551116|0",
-    "title": "apple airpods pro new in box sealed",
-    "category": "Apple Accessories",
-    "price": 190.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 0.0,
-      "feedbackCount": 48
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/185115551116?_skw=sealed+new+airpods+pro&hash=item2b19bf258c:g:sQMAAOSwXPhhN87Q",
-    "clusterMedian": 190.0,
-    "spreadPct": 0.0,
-    "marginPct": -0.278,
-    "margin": -58.95,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": false
-  },
-  {
     "id": "v1|407348548971|0",
     "title": "KitchenAid Deluxe 4.5qt Mixer Tilt Head (Contour Silver) NEW FACTORY SEALED!",
     "category": "Kitchen Appliances",
@@ -780,27 +714,6 @@
     "sellerOk": true
   },
   {
-    "id": "v1|377511439297|0",
-    "title": "DeWalt Brushless 1/2\u201d Drill Drive 20V Kit Batteries Bag DCD777C2 Sealed New ",
-    "category": "Power Tools",
-    "price": 141.99,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 99.3,
-      "feedbackCount": 6444
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/377511439297?_skw=sealed+new+dewalt+drill+kit&hash=item57e56f6bc1:g:fnUAAeSwMXRqsHly",
-    "clusterMedian": 146.0,
-    "spreadPct": 0.027,
-    "marginPct": -0.284,
-    "margin": -45.62,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
     "id": "v1|287716655117|0",
     "title": "NEW SEALED Sony PlayStation 5 Slim Digital\u00a0Edition 825GB PS5 Console (CFI-2115)",
     "category": "Consoles",
@@ -811,7 +724,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 1850
+      "feedbackCount": 1851
     },
     "itemWebUrl": "https://www.ebay.com/itm/287716655117?_skw=sealed+new+sony+playstation+5+slim+console&hash=item42fd3fc00d:g:PuAAAeSwQqFq8e8r",
     "clusterMedian": 550.0,
@@ -895,7 +808,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 57
+      "feedbackCount": 59
     },
     "itemWebUrl": "https://www.ebay.com/itm/820267350919?_skw=sealed+new+instant+pot&hash=itembefbbe7b87:g:RAUAAeSwkgpq2pSn",
     "clusterMedian": 107.5,
@@ -939,13 +852,36 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 1938
+      "feedbackCount": 1939
     },
     "itemWebUrl": "https://www.ebay.com/itm/820263423872?_skw=sealed+new+milwaukee+tool+combo&hash=itembefb828f80:g:LSEAAeSw46Vq2QnO",
     "clusterMedian": 449.5,
     "spreadPct": -0.11,
     "marginPct": -0.304,
     "margin": -165.36,
+    "signals": [
+      "best_offer"
+    ],
+    "sellerOk": true
+  },
+  {
+    "id": "v1|880106340053|0",
+    "title": "Milwaukee 3692-22CT M18 Compact Brushless 2-Tool Combo Kit - New! Sealed!",
+    "category": "Power Tools",
+    "price": 250.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": true,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 99.9,
+      "feedbackCount": 2366
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/880106340053?_skw=sealed+new+milwaukee+tool+combo&hash=itemccea6cfed5:g:g3IAAeSw0gBq26we",
+    "clusterMedian": 235.0,
+    "spreadPct": -0.064,
+    "marginPct": -0.305,
+    "margin": -84.3,
     "signals": [
       "best_offer"
     ],
@@ -986,37 +922,14 @@
       "feedbackCount": 1
     },
     "itemWebUrl": "https://www.ebay.com/itm/373904364881?_skw=sealed+new+airpods+pro&hash=item570e6fd551:g:v60AAOSwl6dh6Ow1",
-    "clusterMedian": 190.0,
-    "spreadPct": -0.053,
-    "marginPct": -0.313,
-    "margin": -69.7,
+    "clusterMedian": 189.5,
+    "spreadPct": -0.055,
+    "marginPct": -0.315,
+    "margin": -70.13,
     "signals": [
       "best_offer"
     ],
     "sellerOk": false
-  },
-  {
-    "id": "v1|406993720428|0",
-    "title": "DeWalt Brushless 1/2\u201d Drill Drive 20V Kit Batteries Bag DCD777C2 Sealed New ",
-    "category": "Power Tools",
-    "price": 150.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": true,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 332
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/406993720428?_skw=sealed+new+dewalt+drill+kit&hash=item5ec2b7546c:g:UYcAAeSw5BlqKxVl&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kMbpqazXaNcDZul7VF%2BgNvMeBkrQjlCjUoAmBZIYQfr5rbpNxNdYhSavPgshphHSIEhtE632xetO%2BUMkSRAxwFap1JvbqyEqfMQega7DGx2qmQ7IzxPNYf2zuqJrXAcagOqTCfi8dbIb5QQQeTgr04tQnTLz6sUzmZzp8eSNDWsTZHY7fj%2BQvig3860%2F5HoST8ZshTi9wo5fQ6STmC6HNT0GxhVlgP1srXpvtF%2Bi3GZ4om1%2FSwrceAcsCxqV0j%2BD1CBSkAKbHY0NXnxum4ZsbXebdIq33DuBX4amMqYdsta1OFaLI7R74rL5U9rxqXNzY%3D",
-    "clusterMedian": 146.0,
-    "spreadPct": -0.027,
-    "marginPct": -0.32,
-    "margin": -54.23,
-    "signals": [
-      "best_offer"
-    ],
-    "sellerOk": true
   },
   {
     "id": "v1|358173471749|0",
@@ -1040,26 +953,24 @@
     "sellerOk": true
   },
   {
-    "id": "v1|880044503653|0",
-    "title": "Milwaukee 3692-22CT M18 Compact Brushless 2-Tool Combo Kit - New! Sealed!",
+    "id": "v1|920047146028|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22)",
     "category": "Power Tools",
-    "price": 274.99,
+    "price": 339.0,
     "condition": "New",
     "listingType": "Buy It Now",
-    "bestOffer": true,
+    "bestOffer": false,
     "watchers": 0,
     "seller": {
-      "feedbackPct": 99.9,
-      "feedbackCount": 2362
+      "feedbackPct": 100.0,
+      "feedbackCount": 59
     },
-    "itemWebUrl": "https://www.ebay.com/itm/880044503653?_skw=sealed+new+milwaukee+tool+combo&hash=itemcce6bd7265:g:g3IAAeSw0gBq26we",
-    "clusterMedian": 247.5,
-    "spreadPct": -0.111,
-    "marginPct": -0.33,
-    "margin": -100.29,
-    "signals": [
-      "best_offer"
-    ],
+    "itemWebUrl": "https://www.ebay.com/itm/920047146028?_skw=sealed+new+milwaukee+tool+combo&hash=itemd63715542c:g:jrcAAeSwAp1q0vGV",
+    "clusterMedian": 300.0,
+    "spreadPct": -0.13,
+    "marginPct": -0.331,
+    "margin": -123.43,
+    "signals": [],
     "sellerOk": true
   },
   {
@@ -1084,6 +995,27 @@
     "sellerOk": true
   },
   {
+    "id": "v1|920090357760|0",
+    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22) BRAND NEW ",
+    "category": "Power Tools",
+    "price": 345.0,
+    "condition": "New",
+    "listingType": "Buy It Now",
+    "bestOffer": false,
+    "watchers": 0,
+    "seller": {
+      "feedbackPct": 100.0,
+      "feedbackCount": 59
+    },
+    "itemWebUrl": "https://www.ebay.com/itm/920090357760?_skw=sealed+new+milwaukee+tool+combo&hash=itemd639a8b000:g:jrcAAeSwAp1q0vGV",
+    "clusterMedian": 300.0,
+    "spreadPct": -0.15,
+    "marginPct": -0.343,
+    "margin": -129.88,
+    "signals": [],
+    "sellerOk": true
+  },
+  {
     "id": "v1|267120381924|0",
     "title": "Nintendo Switch OLED Pok\u00e9mon Scarlet & Violet Edition - NEW SEALED - US Edition",
     "category": "Consoles",
@@ -1101,27 +1033,6 @@
     "spreadPct": -0.192,
     "marginPct": -0.345,
     "margin": -249.18,
-    "signals": [],
-    "sellerOk": true
-  },
-  {
-    "id": "v1|920090357760|0",
-    "title": "Milwaukee M18 FUEL 18V 2-Tool Combo Kit - Red (3697-22) BRAND NEW ",
-    "category": "Power Tools",
-    "price": 345.0,
-    "condition": "New",
-    "listingType": "Buy It Now",
-    "bestOffer": false,
-    "watchers": 0,
-    "seller": {
-      "feedbackPct": 100.0,
-      "feedbackCount": 59
-    },
-    "itemWebUrl": "https://www.ebay.com/itm/920090357760?_skw=sealed+new+milwaukee+tool+combo&hash=itemd639a8b000:g:jrcAAeSwAp1q0vGV",
-    "clusterMedian": 295.0,
-    "spreadPct": -0.169,
-    "marginPct": -0.354,
-    "margin": -134.23,
     "signals": [],
     "sellerOk": true
   },
@@ -1159,7 +1070,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 2377
+      "feedbackCount": 2378
     },
     "itemWebUrl": "https://www.ebay.com/itm/960088919929?_skw=sealed+new+kitchenaid+stand+mixer&hash=itemdf89c24f79:g:q0sAAeSwz6xqNexq",
     "clusterMedian": 48.22,
@@ -1229,10 +1140,10 @@
       "feedbackCount": 2
     },
     "itemWebUrl": "https://www.ebay.com/itm/304182919553?_skw=sealed+new+airpods+pro&hash=item46d2b70181:g:zgUAAOSw~9phVi0x",
-    "clusterMedian": 190.0,
-    "spreadPct": -0.237,
-    "marginPct": -0.412,
-    "margin": -107.32,
+    "clusterMedian": 189.5,
+    "spreadPct": -0.24,
+    "marginPct": -0.413,
+    "margin": -107.76,
     "signals": [
       "best_offer"
     ],
@@ -1272,7 +1183,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.7,
-      "feedbackCount": 125251
+      "feedbackCount": 125270
     },
     "itemWebUrl": "https://www.ebay.com/itm/278387934658?_skw=sealed+new+milwaukee+tool+combo&hash=item40d136c5c2:g:yAAAAeSwShxqrbru",
     "clusterMedian": 780.5,
@@ -1362,7 +1273,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.3,
-      "feedbackCount": 285
+      "feedbackCount": 286
     },
     "itemWebUrl": "https://www.ebay.com/itm/128180366982?_skw=sealed+new+kitchenaid+stand+mixer&hash=item1dd8252e86:g:4nsAAeSwMixq7qpD",
     "clusterMedian": 39.99,
@@ -1385,7 +1296,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.0,
-      "feedbackCount": 5973
+      "feedbackCount": 5974
     },
     "itemWebUrl": "https://www.ebay.com/itm/298680338942?_skw=sealed+new+kitchenaid+stand+mixer&hash=item458abc49fe:g:MQoAAeSwax1qqs~l",
     "clusterMedian": 48.22,
@@ -1453,7 +1364,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 3551
+      "feedbackCount": 3552
     },
     "itemWebUrl": "https://www.ebay.com/itm/307273318047?_skw=sealed+new+kitchenaid+stand+mixer&hash=item478aeabe9f:g:SHIAAeSw~Bxq8PKT",
     "clusterMedian": 39.99,
@@ -1476,7 +1387,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 1684
+      "feedbackCount": 1685
     },
     "itemWebUrl": "https://www.ebay.com/itm/235597279952?_skw=sealed+new+kitchenaid+stand+mixer&hash=item36dab132d0:g:4tMAAOSw~shmYjxW",
     "clusterMedian": 31.5,
@@ -1522,7 +1433,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 100.0,
-      "feedbackCount": 147
+      "feedbackCount": 150
     },
     "itemWebUrl": "https://www.ebay.com/itm/237167551813?_skw=sealed+new+instant+pot&hash=item373849a545:g:oKcAAeSw87Bq7eHd",
     "clusterMedian": 15.99,
@@ -1543,7 +1454,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.9,
-      "feedbackCount": 9749
+      "feedbackCount": 9757
     },
     "itemWebUrl": "https://www.ebay.com/itm/168680133701?_skw=sealed+new+instant+pot&hash=item27461e9445:g:Y~YAAeSwj0lqo4zi",
     "clusterMedian": 15.99,
@@ -1585,7 +1496,7 @@
     "watchers": 0,
     "seller": {
       "feedbackPct": 99.8,
-      "feedbackCount": 813
+      "feedbackCount": 816
     },
     "itemWebUrl": "https://www.ebay.com/itm/237143755993?_skw=sealed+new+instant+pot&hash=item3736de8cd9:g:hqMAAeSwK9Nq3jLU",
     "clusterMedian": 9.41,
